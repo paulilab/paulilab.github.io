@@ -17,9 +17,13 @@ Dev setup
 
 1. Install recent ruby version from MacPorts (now: 2.4)
     sudo port install ruby24
-2. Install jekyll as a local gem
-    gem install --local jekyll
+    sudo port install rb24-bundler
+2. Install all gems as a bundle
+    bundle-2.4 install --path bundle
 
+### Run server with live reload
+
+    grunt
 
 Deploying
 ---------

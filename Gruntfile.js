@@ -1,4 +1,8 @@
 module.exports = function(grunt) {
+  var log = function (err, stdout, stderr, cb) {
+    console.log(stdout);
+    cb();
+  }
   require('load-grunt-tasks')(grunt, { scope: 'devDependencies' });
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
@@ -90,27 +94,51 @@ module.exports = function(grunt) {
         dest: '<%=builddir%>/js/bootstrap.min.js'
       }
     },
+    shell: {
+      jekyll: {
+        command: 'bundle-2.4 exec jekyll build --incremental',
+        options: {
+          callback: log
+        }
+      }
+    },
     watch: {
-      css: {
+      less: {
         files: 'less/*.less',
         tasks: 'build-css',
         options: {
-          livereload: true,
           nospawn: true
-        },
+        }
       },
-      html: {
-        files: ['index.html'],
-        tasks: 'build-html',
+      jekyll: {
+        files: [
+          '_config.yml',
+          '*.html',
+          '*.md',
+          '_layouts/**',
+          '_posts/**',
+          '_includes/**',
+          'assets/**'
+        ],
+        tasks: 'shell:jekyll',
         options: {
           livereload: true,
           nospawn: true
         }
       }
     },
+    concurrent: {
+      options: {
+        logConcurrentOutput: true
+      },
+      watch: {
+        tasks: ['watch:less', 'watch:jekyll']
+      }
+    },
     connect: {
       base: {
         options: {
+          base: '_site',
           port: 3000,
           livereload: true,
           open: true
@@ -128,19 +156,15 @@ module.exports = function(grunt) {
   });
 
   grunt.registerTask('build-css', 'build css', function() {
-    var lessDest;
-    var lessSrc;
+    var lessDest = '<%=builddir%>/css/main.css';
     var files = {};
-    var dist = {};
-    lessDest = '<%=builddir%>/css/main.css';
-    lessSrc = [ 'less/main.less' ];
-
-    files = {}; files[lessDest] = lessSrc;
+    files[lessDest] = 'less/main.less';
     grunt.config('less.dist.files', files);
     grunt.config('less.dist.options.compress', false);
-
-    grunt.task.run(['less:dist', 'prefix-css:' + lessDest,
-      'compress-css:'+lessDest+':'+'<%=builddir%>/css/main.min.css']);
+    grunt.task.run([
+      'less:dist',
+      'prefix-css:' + lessDest,
+      'compress-css:' + lessDest + ':' + '<%=builddir%>/css/main.min.css']);
   });
 
   grunt.registerTask('prefix-css', 'autoprefix a generic css', function(fileSrc) {
@@ -149,19 +173,21 @@ module.exports = function(grunt) {
   });
 
   grunt.registerTask('compress-css', 'compress a generic css', function(fileSrc, fileDst) {
-    var files = {}; files[fileDst] = fileSrc;
-    grunt.log.writeln('compressing file ' + fileSrc);
-
+    var files = {};
+    files[fileDst] = fileSrc;
     grunt.config('less.dist.files', files);
     grunt.config('less.dist.options.compress', true);
     grunt.task.run(['less:dist']);
   });
 
-  grunt.registerTask('build-js', 'build js', function() {
-    grunt.task.run(['copy:jquery', 'concat:bootstrap', 'uglify:bootstrap']);
-  });
-
   grunt.registerTask('server', 'connect:keepalive');
 
-  grunt.registerTask('default', ['copy:fontawesome', 'build-js', 'build-css', 'connect:base', 'watch:css']);
+  grunt.registerTask('default', [
+    'copy:jquery',
+    'copy:fontawesome',
+    'concat:bootstrap',
+    'uglify:bootstrap',
+    'connect:base',
+    'concurrent:watch'
+  ]);
 };

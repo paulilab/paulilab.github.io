@@ -5,7 +5,7 @@ meta_description: short proteins, developmental biology, imaging
 
 permalink: /:year/:month/:day/:title/
 
-exclude: ['README.md', 'Gruntfile.js', 'package.json', '_config.yml']
+exclude: ['README.md', 'Gruntfile.js', 'package.json', '_config.yml', 'node_modules', 'bundle']
 
 markdown: kramdown
 
