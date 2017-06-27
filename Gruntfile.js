@@ -1,23 +1,16 @@
 module.exports = function(grunt) {
-  grunt.loadNpmTasks('grunt-autoprefixer');
-  grunt.loadNpmTasks('grunt-contrib-less');
-  //grunt.loadNpmTasks('grunt-contrib-sass');
-  grunt.loadNpmTasks('grunt-contrib-concat');
-  grunt.loadNpmTasks('grunt-contrib-connect');
-  grunt.loadNpmTasks('grunt-contrib-clean');
-  grunt.loadNpmTasks('grunt-contrib-watch');
-
+  require('load-grunt-tasks')(grunt, { scope: 'devDependencies' });
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
     builddir: 'assets',
     bootstrapdir: 'node_modules/bootstrap/',
     fontawesomedir: 'node_modules/font-awesome/',
-    jquerydir: 'node_modules/jquery/',
+    jquerydir: 'node_modules/jquery/dist',
     jqueryCheck: [ // Taken from bootstrap/grunt/configBridge.json
       "if (typeof jQuery === 'undefined') {",
       "  throw new Error('Bootstrap\\'s JavaScript requires jQuery')",
       "}\n"
-    ],
+    ].join("\n"),
     jqueryVersionCheck: [ // Taken from bootstrap/grunt/configBridge.json
       "+function ($) {",
       "  'use strict';",
@@ -26,7 +19,7 @@ module.exports = function(grunt) {
       "    throw new Error('Bootstrap\\'s JavaScript requires jQuery version 1.9.1 or higher, but lower than version 4')",
       "  }",
       "}(jQuery);\n\n"
-    ],
+    ].join("\n"),
     banner: '/*!\n' +
     ' * <%= pkg.name %> v<%= pkg.version %>\n' +
     ' * Homepage: <%= pkg.homepage %>\n' +
@@ -49,21 +42,16 @@ module.exports = function(grunt) {
     },
     copy: {
       jquery: {
-        src: ['<%=jquerydir%>/dist/jquery.min.js'],
+        expand: true,
+        cwd: '<%=jquerydir%>',
+        src: ['jquery.min.js'],
         dest: '<%=builddir%>/js/'
       },
       fontawesome: {
-        files: [
-          {
-            src: ['<%=fontawesomedir%>/css/font-awesome.min.css'],
-            dest: '<%builddir%>/css/'
-          },
-          {
-            expand: true,
-            src: ['<%=fontawesomedir%>/fonts/*'],
-            dest: '<%builddir%>/fonts/'
-          }
-        ]
+        expand: true,
+        cwd: '<%=fontawesomedir%>',
+        src: ['css/font-awesome.min.css', 'fonts/*'],
+        dest: '<%=builddir%>'
       }
     },
     concat: {
@@ -104,7 +92,7 @@ module.exports = function(grunt) {
     },
     watch: {
       css: {
-        files: ['less/variables.less', 'less/main.less', 'less/custom.less'],
+        files: 'less/*.less',
         tasks: 'build-css',
         options: {
           livereload: true,
@@ -170,7 +158,7 @@ module.exports = function(grunt) {
   });
 
   grunt.registerTask('build-js', 'build js', function() {
-    grunt.task.run(['copy:jquery', 'concat:bootstrap']);
+    grunt.task.run(['copy:jquery', 'concat:bootstrap', 'uglify:bootstrap']);
   });
 
   grunt.registerTask('server', 'connect:keepalive');
