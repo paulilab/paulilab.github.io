@@ -2,32 +2,28 @@ Webpage of the Lab of Andrea Pauli
 ==================================
 
 
-Setup
------
+Dev setup
+---------
 
-checkout bootstrap / bootstrap-sass
+### To compile js and less:
 
-### Install less
+1. Install nodejs + npm
+2. Install grunt-cli globally
+    npm install grunt-cli
+3. Install the rest locally using package.json
+    npm install
 
-npm init
-npm install less --save
-npm install less-plugin-clean-css
+### To run jekyll:
 
-### Compile less
-
-./node_modules/.bin/lessc less/main.less assets/css/main.css --verbose
-./node_modules/.bin/lessc less/main.less assets/css/main.min.css --clean-css --verbose
+1. Install recent ruby version from MacPorts (now: 2.4)
+    sudo port install ruby24
+2. Install jekyll as a local gem
+    gem install --local jekyll
 
 
+Deploying
+---------
 
-Correrrrrrrect:
 
-Install npm and grunt-cli globally
-npm install grunt-cli
-
-npm init
-npm install grunt --save-dev
-npm install jit-grunt --save-dev
-npm install grunt-contrib-watch --save-dev
-npm install grunt-contrib-less --save-dev
-npm install bootstrap --save-dev
+Simple usage - Editing
+----------------------
