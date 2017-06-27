@@ -118,6 +118,7 @@ module.exports = function(grunt) {
           '_layouts/**',
           '_posts/**',
           '_includes/**',
+          '*/*.md',
           'assets/**'
         ],
         tasks: 'shell:jekyll',
