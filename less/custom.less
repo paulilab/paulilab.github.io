@@ -1,4 +1,4 @@
-#home {
+body {
   padding-top: 0px;
   .navbar-brand {
     padding: 13.5px 15px 12.5px;
@@ -10,40 +10,12 @@
   }
 }
 
-#banner {
-  min-height: 400px;
-  border-bottom: none;
-}
-
-.table-of-contents {
-  margin-top: 1em;
-}
-
-.page-header {
-
-  h1 {
-    font-size: 4em;
-  }
-}
-
 footer {
   margin: 1em 0;
-
-  li {
-    float: left;
-    margin-right: 1.5em;
-    margin-bottom: 1.5em;
-  }
-
-  p {
-    clear: left;
-    margin-bottom: 0;
-  }
 }
 
 .splash {
   padding: 5em 0 2em;
-  background-color: #141d27;
   background-image: url(../img/bg.jpeg);
   background-size: cover;
   background-attachment: fixed;
@@ -58,33 +30,21 @@ footer {
     margin: 1em 0;
     min-height: 4em;
   }
-}
 
-.section-tout {
-  padding: 4em 0 3em;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
-  background-color: #eaf1f1;
-
-  .fa {
-    margin-right: 0.5em;
-  }
-
-  p {
-    margin-bottom: 3em;
-  }
-}
-
-@media (max-width: 767px) {
-  .splash {
-    padding-top: 4em;
+  @media (max-width: 767px) {
+    padding: 4em 0 1em;
 
     h1 {
       font-size: 2em;
     }
   }
+}
 
-  #banner {
-    margin-bottom: 2em;
-    text-align: center
+.main {
+  padding: 1em 0 2em;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+
+  .fa {
+    margin-right: 0.5em;
   }
 }
