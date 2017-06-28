@@ -94,6 +94,12 @@ module.exports = function(grunt) {
         dest: '<%=builddir%>/js/bootstrap.min.js'
       }
     },
+    clean: {
+      assets: [
+        'assets/js/*.js', '!assets/js/*.min.js',
+        'assets/css/*.css', '!assets/css/*.min.css'
+      ]
+    },
     shell: {
       jekyll: {
         command: 'bundle-2.4 exec jekyll build --incremental',
@@ -181,16 +187,21 @@ module.exports = function(grunt) {
     grunt.task.run(['less:dist']);
   });
 
-  grunt.registerTask('server', 'connect:keepalive');
-
-  grunt.registerTask('default', [
+  grunt.registerTask('build', [
     'copy:jquery',
     'copy:fontawesome',
     'concat:bootstrap',
     'uglify:bootstrap',
     'build-css',
     'shell:jekyll',
-    'connect:base',
-    'concurrent:watch'
+    'clean:assets'
   ]);
+
+  grunt.registerTask('serve', [
+    'build',
+    'connect:base',
+    'concurrent:watch',
+  ]);
+
+  grunt.registerTask('default', 'serve');
 };

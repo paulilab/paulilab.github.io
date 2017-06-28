@@ -16,17 +16,20 @@ Dev setup
 ### To run jekyll:
 
 1. Install recent ruby version from MacPorts (now: 2.4)
-    sudo port install ruby24
-    sudo port install rb24-bundler
-2. Install all gems as a bundle
-    bundle-2.4 install --path bundle
+    sudo port install ruby24 rb24-bundler
+2. Install jekyll as a local gem
+    gem2.4 install --user-install jekyll
+    export PATH=~/.gem/ruby/2.4.0/bin:$PATH
 
-### Run server with live reload
-
-    grunt
 
 Deploying
 ---------
+
+1. checkout master branch
+2. rebase on the base branch
+3. run grunt
+4. amend to the last assets commit
+5. push
 
 
 Simple usage - Editing
