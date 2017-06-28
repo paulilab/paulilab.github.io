@@ -11,11 +11,11 @@
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li><a href="{{ site.baseurl }}/">News</a></li>
+            <li><a href="{{ site.baseurl }}/news">News</a></li>
             <li><a href="{{ site.baseurl }}/research/">Research</a></li>
             <li><a href="{{ site.baseurl }}/members/">Members</a></li>
             <li><a href="{{ site.baseurl }}/events/">Events</a></li>
-            <li><a href="{{ site.baseurl }}/publications/">Publications</a></li>
+            <li><a href="{{ site.baseurl }}/pubs/">Publications</a></li>
             <li><a href="{{ site.baseurl }}/data/">Data</a></li>
             <li><a href="{{ site.baseurl }}/jobs/">Jobs</a></li>
           </ul>
