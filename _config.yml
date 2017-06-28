@@ -11,3 +11,6 @@ collections:
   pubs:
     output: false
     permalink: /pubs/:path/
+  people:
+    output: false
+    permalink: /people/:path/
