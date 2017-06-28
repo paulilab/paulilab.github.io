@@ -15,7 +15,7 @@
             <li><a href="{{ site.baseurl }}/research/">Research</a></li>
             <li><a href="{{ site.baseurl }}/members/">Members</a></li>
             <li><a href="{{ site.baseurl }}/events/">Events</a></li>
-            <li><a href="{{ site.baseurl }}/papers/">Papers</a></li>
+            <li><a href="{{ site.baseurl }}/publications/">Publications</a></li>
             <li><a href="{{ site.baseurl }}/data/">Data</a></li>
             <li><a href="{{ site.baseurl }}/jobs/">Jobs</a></li>
           </ul>

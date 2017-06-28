@@ -188,6 +188,8 @@ module.exports = function(grunt) {
     'copy:fontawesome',
     'concat:bootstrap',
     'uglify:bootstrap',
+    'build-css',
+    'shell:jekyll',
     'connect:base',
     'concurrent:watch'
   ]);

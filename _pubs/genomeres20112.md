@@ -1,0 +1,11 @@
+---
+layout: publication
+authors: Pauli, A., Valen, E., Lin, MF., Garber, M., Vastenhouw, NL., Levin, JZ., Fan, L., Sandelin, A., Rinn, JL., Regev, A., Schier, AF.
+year: 2012
+title: "Systematic identification of long noncoding RNAs expressed during zebrafish embryogenesis"
+journal: Genome Res.
+pages: "22(3):577-91"
+doi: 10.1101/gr.133009.111
+pubmed: 22110045
+abstract: "Long noncoding RNAs (lncRNAs) comprise a diverse class of transcripts that structurally resemble mRNAs but do not encode proteins. Recent genome-wide studies in humans and the mouse have annotated lncRNAs expressed in cell lines and adult tissues, but a systematic analysis of lncRNAs expressed during vertebrate embryogenesis has been elusive. To identify lncRNAs with potential functions in vertebrate embryogenesis, we performed a time-series of RNA-seq experiments at eight stages during early zebrafish development. We reconstructed 56,535 high-confidence transcripts in 28,912 loci, recovering the vast majority of expressed RefSeq transcripts while identifying thousands of novel isoforms and expressed loci. We defined a stringent set of 1133 noncoding multi-exonic transcripts expressed during embryogenesis. These include long intergenic ncRNAs (lincRNAs), intronic overlapping lncRNAs, exonic antisense overlapping lncRNAs, and precursors for small RNAs (sRNAs). Zebrafish lncRNAs share many of the characteristics of their mammalian counterparts: relatively short length, low exon number, low expression, and conservation levels comparable to that of introns. Subsets of lncRNAs carry chromatin signatures characteristic of genes with developmental functions. The temporal expression profile of lncRNAs revealed two novel properties: lncRNAs are expressed in narrower time windows than are protein-coding genes and are specifically enriched in early-stage embryos. In addition, several lncRNAs show tissue-specific expression and distinct subcellular localization patterns. Integrative computational analyses associated individual lncRNAs with specific pathways and functions, ranging from cell cycle regulation to morphogenesis. Our study provides the first systematic identification of lncRNAs in a vertebrate embryo and forms the foundation for future genetic, genomic, and evolutionary studies."
+---

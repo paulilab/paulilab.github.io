@@ -2,14 +2,12 @@ name: Pauli Lab
 author: Tomas Kazmar
 url: http://paulilab.org/
 meta_description: short proteins, developmental biology, imaging
-
 permalink: /:year/:month/:day/:title/
-
 exclude: ['README.md', 'Gruntfile.js', 'package.json', '_config.yml', 'node_modules', 'bundle']
-
+years: [2017, 2016, 2015, 2014, 2013]
 markdown: kramdown
-
+excerpt_separator: <!--more-->
 collections:
-  papers:
-    output: true
-    permalink: /papers/:path/
+  pubs:
+    output: false
+    permalink: /pubs/:path/
