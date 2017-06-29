@@ -102,6 +102,12 @@ module.exports = function(grunt) {
     },
     shell: {
       jekyll: {
+        command: 'bundle-2.4 exec jekyll build',
+        options: {
+          callback: log
+        }
+      },
+      jekyll_incremental: {
         command: 'bundle-2.4 exec jekyll build --incremental',
         options: {
           callback: log
@@ -116,18 +122,27 @@ module.exports = function(grunt) {
           nospawn: true
         }
       },
+      jekyll_collections: {
+        files: [
+          '_people/*.md',
+          '_pubs/*.md'
+        ],
+        tasks: 'shell:jekyll',
+        options: {
+          nospawn: true
+        }
+      },
       jekyll: {
         files: [
           '_config.yml',
-          '*.html',
-          '*.md',
+          'index.md',
           '_layouts/*',
-          '_posts/**',
+          '_posts/*',
           '_includes/*',
-          '*/*.md',
+          '*/index.md',
           'assets/**'
         ],
-        tasks: 'shell:jekyll',
+        tasks: 'shell:jekyll_incremental',
         options: {
           livereload: true,
           nospawn: true
@@ -139,7 +154,7 @@ module.exports = function(grunt) {
         logConcurrentOutput: true
       },
       watch: {
-        tasks: ['watch:less', 'watch:jekyll']
+        tasks: ['watch:less', 'watch:jekyll_collections', 'watch:jekyll']
       }
     },
     connect: {

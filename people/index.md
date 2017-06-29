@@ -1,21 +1,30 @@
 ---
 layout: default
-title: Lab News
+title: People
 ---
 
 <div class="main">
-  <div class="container">
+  <div class="container" markdown="1">
 
-{% for post in site.posts %}
-<div markdown="1">
+### Current
 
-#### {{ post.title }}
+{% assign peeps = site.people | where: 'member_till', 'now' | sort: 'name' %}
+{% for peep in peeps %}
+* {{ peep.name }}
+  {{ peep.email }}
+  {{ peep.position }}
+  {{ peep.member_from }} .. {{ peep.member_till }}
+  {{ peep.occuppied_by }}
+{% endfor %}
 
-{{ post.date }}
+### Former
 
-{{ post.content }} 
-
-</div>
+{% assign peeps = site.people | where_exp: 'item', 'item.member_till  != "now"' | sort 'name' %}
+{% for peep in peeps %}
+* {{ peep.name }}
+  {{ peep.position }}
+  {{ peep.member_from }} .. {{ peep.member_till }}
+  {{ peep.moved_to }}
 {% endfor %}
 
 </div>
