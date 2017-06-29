@@ -3,9 +3,6 @@ layout: default
 title: People
 ---
 
-<div class="main">
-  <div class="container">
-
 {% assign peeps = site.people | where: 'member_till', 'now' | sort: 'name' %}
 {% for peep in peeps %}
 <div class="row peep">
@@ -48,6 +45,3 @@ title: People
   <li>{{ peep.name }} ({{ peep.position }}), {{ peep.member_from }} &mdash; {{ peep.member_till }}, now at {{ peep.moved_to }}</li>
 {% endfor %}
 </ul>
-
-  </div>
-</div>

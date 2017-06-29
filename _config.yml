@@ -14,3 +14,8 @@ collections:
   people:
     output: false
     permalink: /people/:path/
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  profile: true
