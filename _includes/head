@@ -5,4 +5,26 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.min.css" media="screen">
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/font-awesome.min.css">
+    <style type="text/css">
+      .splash {
+        padding: 2em 0 2em;
+        background-image: url({{ site.baseurl }}/assets/img/splash-fish.jpeg);
+        background-position: center top;
+        background-size: cover;
+        background-attachment: scroll;
+        color: #fff;
+        text-align: center;
+      }
+      .splash h1 {
+        font-size: 4em;
+      }
+      @media (max-width: 767px) {
+        .splash {
+          padding: 1em 0 1em;
+        }
+        .splash h1 {
+          font-size: 2em;
+        }
+      }
+    </style>
   </head>
