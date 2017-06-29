@@ -17,7 +17,7 @@
             <li><a href="{{ site.baseurl }}/events/">Events</a></li>
             <li><a href="{{ site.baseurl }}/pubs/">Publications</a></li>
             <li><a href="{{ site.baseurl }}/data/">Data</a></li>
-            <li><a href="{{ site.baseurl }}/jobs/">Jobs</a></li>
+            <li><a href="{{ site.baseurl }}/joinus"/>Join Us</a></li>
           </ul>
           <!--
           <form class="navbar-form navbar-left">

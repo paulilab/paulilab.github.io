@@ -1,10 +1,7 @@
 ---
-layout: default
+layout: simple
 title: People
 ---
-
-<div class="main">
-  <div class="container" markdown="1">
 
 ### Current
 
@@ -26,6 +23,3 @@ title: People
   {{ peep.member_from }} .. {{ peep.member_till }}
   {{ peep.moved_to }}
 {% endfor %}
-
-</div>
-</div>

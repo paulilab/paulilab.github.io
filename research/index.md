@@ -1,5 +1,5 @@
 ---
-layout: research
+layout: simple
 title: Research
 ---
 
