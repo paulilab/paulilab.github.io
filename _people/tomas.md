@@ -1,8 +1,13 @@
 ---
 name: Tomáš Kazmar
+img: /assets/img/people-tomas.jpeg
 email: last@imp.ac.at
-member_from: ???
+country: Czechia
+member_from: 1.5.2016
 member_till: now
 position: Computer Scientist
-occuppied_by: Chasing after the images of thousands of cells.
+progress:
+  - ["Chasing after the images of thousands of cells", 65]
+  - ["Drinking hectolitres of green tea", 30]
+  - ["Learning deep, very deep...", 15]
 ---

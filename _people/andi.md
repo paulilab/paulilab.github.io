@@ -1,8 +1,13 @@
 ---
 name: Andrea Pauli
+img: /assets/img/people-andi.jpeg
 email: first.last@imp.ac.at
+country: Germany
 member_from: the begining
 member_till: now
 position: Principal Investigator
-occuppied_by: Steering the wheel.
+progress:
+  - ["Steering the wheel.", 80]
+  - ["?", 30]
+  - ["?", 10]
 ---

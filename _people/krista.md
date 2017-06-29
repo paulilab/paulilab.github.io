@@ -1,8 +1,13 @@
 ---
 name: Krista Breidis
+img: /assets/img/people-krista.jpeg
 email: first.last@imp.ac.at
+country: United States
 member_from: ???
 member_till: now
 position: Master Student
-occuppied_by: Hedgehogs.
+progress:
+  - ["Hedgehogs, hedgehogs, hedgehogs.", 50]
+  - ["?", 40]
+  - ["?", 25]
 ---
