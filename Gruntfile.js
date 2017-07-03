@@ -9,20 +9,6 @@ module.exports = function(grunt) {
     builddir: 'assets',
     bootstrapdir: 'node_modules/bootstrap/',
     jquerydir: 'node_modules/jquery/dist',
-    jqueryCheck: [ // Taken from bootstrap/grunt/configBridge.json
-      "if (typeof jQuery === 'undefined') {",
-      "  throw new Error('Bootstrap\\'s JavaScript requires jQuery')",
-      "}\n"
-    ].join("\n"),
-    jqueryVersionCheck: [ // Taken from bootstrap/grunt/configBridge.json
-      "+function ($) {",
-      "  'use strict';",
-      "  var version = $.fn.jquery.split(' ')[0].split('.')",
-      "  if ((version[0] < 2 && version[1] < 9) || (version[0] == 1 && version[1] == 9 && version[2] < 1) || (version[0] > 3)) {",
-      "    throw new Error('Bootstrap\\'s JavaScript requires jQuery version 1.9.1 or higher, but lower than version 4')",
-      "  }",
-      "}(jQuery);\n\n"
-    ].join("\n"),
     banner: '/*!\n' +
     ' * <%= pkg.name %> v<%= pkg.version %>\n' +
     ' * Homepage: <%= pkg.homepage %>\n' +
@@ -43,35 +29,29 @@ module.exports = function(grunt) {
         src: '*/main.css'
       }
     },
-    copy: {
-      jquery: {
-        expand: true,
-        cwd: '<%=jquerydir%>',
-        src: ['jquery.min.js'],
-        dest: '<%=builddir%>/js/'
-      }
-    },
     concat: {
       options: {
-        banner: '<%= banner %>\n<%= jqueryCheck %>\n<%= jqueryVersionCheck %>',
+        banner: '<%= banner %>',
         stripBanners: false
       },
-      bootstrap: {
+      js: {
         src: [
-          '<%=bootstrapdir%>/js/transition.js',
-          '<%=bootstrapdir%>/js/alert.js',
-          '<%=bootstrapdir%>/js/button.js',
-          '<%=bootstrapdir%>/js/carousel.js',
+          '<%=jquerydir%>/jquery.js',
+          'js/jquery-check.js',
+          //'<%=bootstrapdir%>/js/transition.js',
+          //'<%=bootstrapdir%>/js/alert.js',
+          //'<%=bootstrapdir%>/js/button.js',
+          //'<%=bootstrapdir%>/js/carousel.js',
           '<%=bootstrapdir%>/js/collapse.js', // Required by .navbar-collapse
           '<%=bootstrapdir%>/js/dropdown.js',
-          '<%=bootstrapdir%>/js/modal.js',
-          '<%=bootstrapdir%>/js/tooltip.js',
-          '<%=bootstrapdir%>/js/popover.js',
-          '<%=bootstrapdir%>/js/scrollspy.js',
-          '<%=bootstrapdir%>/js/tab.js',
-          '<%=bootstrapdir%>/js/affix.js'
+          //'<%=bootstrapdir%>/js/modal.js',
+          //'<%=bootstrapdir%>/js/tooltip.js',
+          //'<%=bootstrapdir%>/js/popover.js',
+          //'<%=bootstrapdir%>/js/scrollspy.js',
+          //'<%=bootstrapdir%>/js/tab.js',
+          //'<%=bootstrapdir%>/js/affix.js'
         ],
-        dest: '<%=builddir%>/js/bootstrap.js'
+        dest: '<%=builddir%>/js/main.js'
       }
     },
     uglify: {
@@ -82,9 +62,9 @@ module.exports = function(grunt) {
         mangle: true,
         preserveComments: /^!|@preserve|@license|@cc_on/i
       },
-      bootstrap: {
-        src: '<%= concat.bootstrap.dest %>',
-        dest: '<%=builddir%>/js/bootstrap.min.js'
+      js: {
+        src: '<%= concat.js.dest %>',
+        dest: '<%=builddir%>/js/main.min.js'
       }
     },
     clean: {
@@ -196,9 +176,8 @@ module.exports = function(grunt) {
   });
 
   grunt.registerTask('build', [
-    'copy:jquery',
-    'concat:bootstrap',
-    'uglify:bootstrap',
+    'concat:js',
+    'uglify:js',
     'build-css',
     'shell:jekyll',
     'clean:assets'

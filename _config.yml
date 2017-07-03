@@ -4,7 +4,7 @@ author: Tomas Kazmar
 url: http://paulilab.org/
 meta_description: short proteins, developmental biology, imaging
 permalink: /:year/:month/:day/:title/
-exclude: ['README.md', 'Gruntfile.js', 'package.json', '_config.yml', 'node_modules', 'bundle', 'less', 'Gemfile', 'Gemfile.lock', 'tools']
+exclude: ['README.md', 'Gruntfile.js', 'package.json', '_config.yml', 'node_modules', 'bundle', 'less', 'Gemfile', 'Gemfile.lock', 'tools', 'js']
 include: ['_pages']
 years: [2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004]
 markdown: kramdown
