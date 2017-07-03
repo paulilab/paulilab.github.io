@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sarah wins a prize for her Master thesis
+title: Sarah submits the best thesis
 published: false
 ---
 Sarah is awarded the XXX prize for having submitted the best Master thesis in

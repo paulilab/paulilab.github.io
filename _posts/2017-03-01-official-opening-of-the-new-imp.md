@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Official Opening of the new IMP
+title: Official opening of the new IMP
 picture: /assets/img/posts/20170301_IMPopeneing.jpeg
 ---
 While we have already been happily working here for a few months, today was the

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The IMP is on the move to our new home, the brand-new IMP building"
+title: IMP is on the move
 ---
 The whole IMP is moving just around the corner (or in fact ‘across the bridge’)
 to our new home, the brand-new IMP building! Fantastic effort by everyone
