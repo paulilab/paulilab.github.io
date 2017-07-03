@@ -3,7 +3,7 @@ name: Luis Enrique Cabrera Quio
 img: /assets/img/people-quio.jpeg
 email: first.onebutlast.last@imp.ac.at
 country: Mexico
-member_from: ???
+member_from: 1.12.2015
 member_till: now
 position: PhD Student
 progress:

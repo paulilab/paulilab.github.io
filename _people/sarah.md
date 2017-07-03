@@ -3,7 +3,7 @@ name: Sarah Herberg
 img: /assets/img/people-sarah.jpeg
 email: first.last@imp.ac.at
 country: Germany
-member_from: ???
+member_from: 1.11.2015
 member_till: now
 position: PhD student
 progress:
