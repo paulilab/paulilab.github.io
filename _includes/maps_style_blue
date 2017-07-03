@@ -1,0 +1,89 @@
+var style = [
+  {
+    elementType: 'geometry',
+    stylers: [{color: '#93cdf5'}]
+  },
+  {
+    elementType: 'labels.icon',
+    stylers: [{visibility: 'off'}]
+  },
+  {
+    elementType: 'labels.text.fill',
+    stylers: [{color: '#3a5161'}]
+  },
+  {
+    elementType: 'labels.text.stroke',
+    stylers: [{color: '#93cdf5'}]
+  },
+  {
+    featureType: 'administrative.land_parcel',
+    elementType: 'labels.text.fill',
+    stylers: [{color: '#719ebd'}]
+  },
+  {
+    featureType: 'poi',
+    elementType: 'geometry',
+    stylers: [{color: '#8fc7ee'}]
+  },
+  {
+    featureType: 'poi',
+    elementType: 'labels.text.fill',
+    stylers: [{color: '#466275'}]
+  },
+  {
+    featureType: 'poi.park',
+    elementType: 'geometry',
+    stylers: [{color: '#89bfe5'}]
+  },
+  {
+    featureType: 'poi.park',
+    elementType: 'labels.text.fill',
+    stylers: [{color: '#5f849e'}]
+  },
+  {
+    featureType: 'road',
+    elementType: 'geometry',
+    stylers: [{color: '#99d5ff'}]
+  },
+  {
+    featureType: 'road.arterial',
+    elementType: 'labels.text.fill',
+    stylers: [{color: '#466275'}]
+  },
+  {
+    featureType: 'road.highway',
+    elementType: 'geometry',
+    stylers: [{color: '#83b6da'}]
+  },
+  {
+    featureType: 'road.highway',
+    elementType: 'labels.text.fill',
+    stylers: [{color: '#3a5161'}]
+  },
+  {
+    featureType: 'road.local',
+    elementType: 'labels.text.fill',
+    stylers: [{color: '#5f849e'}]
+  },
+  {
+    featureType: 'transit.line',
+    elementType: 'geometry',
+    stylers: [{color: '#89bfe5'}]
+  },
+  {
+    featureType: 'transit.station',
+    elementType: 'geometry',
+    stylers: [{color: '#8fc7ee'}]
+  },
+  {
+    featureType: 'water',
+    elementType: 'geometry',
+    stylers: [{color: '#79a8c9'}]
+  },
+  {
+    featureType: 'water',
+    elementType: 'labels.text.fill',
+    stylers: [{color: '#5f849e'}]
+  }
+];
+map.setOptions({styles: style});

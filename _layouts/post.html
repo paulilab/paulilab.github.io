@@ -1,11 +1,21 @@
 ---
 layout: simple
 ---
+<div class="clearfix">
+{% if page.picture %}
+<img class="post-picture pull-right" src="{{ site.baseurl }}{{ page.picture }}" alt="post picture">
+{% endif %}
 <h3>{{ page.title }}</h3>
+<h4>{{ page.date | date_to_string }}</h4>
 {{ content }}
+</div>
 <nav aria-label="posts navigation">
   <ul class="pager">
-    <li class="previous disabled"><a href="#"><span aria-hidden="true">&larr;</span> Older</a></li>
-    <li class="next"><a href="#">Newer <span aria-hidden="true">&rarr;</span></a></li>
+  {% if page.previous.url %}
+    <li class="previous"><a href="{{ site.baseurl }}{{ page.previous.url }}"><span aria-hidden="true">&laquo;</span> {{ page.previous.title }}</a></li>
+  {% endif %}
+  {% if page.next.url %}
+    <li class="next"><a href="{{ site.baseurl }}{{ page.next.url }}">{{ page.next.title }} <span aria-hidden="true">&raquo;</span></a></li>
+  {% endif %}
   </ul>
 </nav>

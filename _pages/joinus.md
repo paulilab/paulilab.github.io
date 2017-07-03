@@ -1,6 +1,7 @@
 ---
 layout: simple
 title: Join us
+permalink: /joinus/
 ---
 
 ## General information

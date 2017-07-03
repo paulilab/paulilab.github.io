@@ -1,6 +1,7 @@
 ---
 layout: default
 title: People
+permalink: /people/
 ---
 
 {% assign peeps = site.people | where: 'member_till', 'now' | sort: 'name' %}

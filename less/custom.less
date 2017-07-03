@@ -18,10 +18,6 @@ footer {
   padding: 1em 0 2em;
   border-bottom: 1px solid rgba(0, 0, 0, 0.05);
 
-  .splash {
-    text-shadow: 2px 2px 8px #286090;
-  }
-
   .fa {
     margin-right: 0.5em;
   }
@@ -59,8 +55,29 @@ footer {
       }
     }
   }
-  #map {
+  #contact_map {
     height: 400px;
     width: 100%;
+  }
+  #home_map {
+    height: 260px;
+    width: 100%;
+    margin-bottom: 10px;
+  }
+
+  :target {
+    padding-top: 60px;
+    margin-top: -60px;
+  }
+
+  img.post-picture {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    padding: 0 0 1em 0;
+    @media (min-width: 992px) {
+      padding: 0 0 1em 1em;
+      max-width: 40%;
+    }
   }
 }

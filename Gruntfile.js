@@ -139,7 +139,7 @@ module.exports = function(grunt) {
           '_layouts/*',
           '_posts/*',
           '_includes/*',
-          '*/index.md',
+          '_pages/*',
           'assets/**'
         ],
         tasks: 'shell:jekyll_incremental',
@@ -220,3 +220,5 @@ module.exports = function(grunt) {
 
   grunt.registerTask('default', 'serve');
 };
+
+// convert -resize "1000>" -strip -interlace JPEG -sampling-factor 4:2:0 -quality 70% -colorspace RGB src.jpeg dst.jpeg

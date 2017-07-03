@@ -1,6 +1,7 @@
 ---
 layout: simple
 title: Research
+permalink: /research/
 ---
 
 ## Functions of short translated open reading frames (ORFs) in the context of development
