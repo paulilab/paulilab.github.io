@@ -5,7 +5,7 @@ permalink: /contact/
 splash: /assets/img/splash-imp.jpeg
 ---
 <div class="row">
-  <div class="col-sm-7">
+  <div class="col-sm-6">
   <div id="contact_map"></div>
   <script>
   function initMap() {
@@ -28,17 +28,29 @@ rotateControl:false
   </script>
   <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyByeuBHHFBQCKMGTe5okMzyofx_RDphujQ&callback=initMap"></script>
   </div>
-  <div class="col-sm-5" markdown="1">
+  <div class="col-sm-6" markdown="1">
 
 ### Address
 
-Pauli Lab  
-3rd floor  
+Pauli Lab (3rd floor)  
 Research Institute of Molecular Pathology (IMP)  
 Campus-Vienna-Biocenter 1  
 1030 Vienna, Austria  
 
-[How to get here (by plane, train, or car).](https://www.imp.ac.at/contact/directions/)
+[GPS: 48.1893926,16.3326227](https://www.google.com/maps/dir//Research+Institute+of+Molecular+Pathology/@48.1893926,16.3326227,12z/)
 
-  </div>
+### How to get here
+
+* __by plane:__ From the airport take the regional train S7. Get off at St. Marx/Vienna BioCenter (takes 20 min, runs every 30 min)
+* __by train:__ Arriving to either the Hauptbahnhof or Westbahnhof railway station take the tram no. 18. Get off at Schlachthausgasse (takes 13 resp. 25 min).
+
+[Connection finder](https://www.wienerlinien.at/eportal3/ep/tab.do?tabId=0) for the local transport. 
+
+* __by car:__ Arriving via the motorway A23 take the exit St. Marx. Arriving via the A4
+  take the exit Knoten Prater. Keep in mind that parking on the street
+  is restricted to 2 hrs with a valid parking ticket.
+
+Detailed official information on [parking in Vienna](https://www.wien.gv.at/english/transportation/parking/shortterm.htm).
+
+</div>
 </div>
