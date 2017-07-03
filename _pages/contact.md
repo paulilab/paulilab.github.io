@@ -23,6 +23,7 @@ rotateControl:false
     var marker = new google.maps.Marker({
       position: loc, map: map
     });
+    {% include maps_style_silver %}
   }
   </script>
   <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyByeuBHHFBQCKMGTe5okMzyofx_RDphujQ&callback=initMap"></script>
