@@ -8,7 +8,6 @@ module.exports = function(grunt) {
     pkg: grunt.file.readJSON('package.json'),
     builddir: 'assets',
     bootstrapdir: 'node_modules/bootstrap/',
-    fontawesomedir: 'node_modules/font-awesome/',
     jquerydir: 'node_modules/jquery/dist',
     jqueryCheck: [ // Taken from bootstrap/grunt/configBridge.json
       "if (typeof jQuery === 'undefined') {",
@@ -50,12 +49,6 @@ module.exports = function(grunt) {
         cwd: '<%=jquerydir%>',
         src: ['jquery.min.js'],
         dest: '<%=builddir%>/js/'
-      },
-      fontawesome: {
-        expand: true,
-        cwd: '<%=fontawesomedir%>',
-        src: ['css/font-awesome.min.css', 'fonts/*'],
-        dest: '<%=builddir%>'
       }
     },
     concat: {
@@ -204,7 +197,6 @@ module.exports = function(grunt) {
 
   grunt.registerTask('build', [
     'copy:jquery',
-    'copy:fontawesome',
     'concat:bootstrap',
     'uglify:bootstrap',
     'build-css',

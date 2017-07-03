@@ -4,7 +4,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.min.css" media="screen">
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/font-awesome.min.css">
     <style type="text/css">
       .splash {
         padding: 5em 0 5em;
