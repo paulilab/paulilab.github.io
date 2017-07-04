@@ -5,9 +5,9 @@ email: first.last@imp.ac.at
 country: Austria
 member_from: ???
 member_till: now
-position: Technician
+position: Lab Manager
 progress:
   - ["Loving the BF facility.", 99]
-  - ["?", 12]
-  - ["?", 7]
+  - ["Lab-mama, taking care of everyone", 71]
+  - ["Becoming a dragon boating pro", 9]
 ---
