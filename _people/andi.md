@@ -8,6 +8,6 @@ member_till: now
 position: Principal Investigator
 progress:
   - ["Steering the wheel.", 80]
-  - ["?", 30]
+  - ["Raising dinos", 3]
   - ["?", 10]
 ---
