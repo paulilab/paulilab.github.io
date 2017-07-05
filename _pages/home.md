@@ -19,7 +19,7 @@ We are aiming to address the following questions:
 To address these questions, we are mainly using zebrafish embryos since they are a powerful model of vertebrate embryogenesis. We combine various experimental and computational approaches, which range from genetics, molecular biology, cell biology and biochemistry to live cell imaging and high-throughput image analysis and genomics technologies.
 
 
-Learn more -> 
+Learn [more &hellip;]({{ site.baseurl }}/research/)
 
 
 ### Funding
@@ -52,29 +52,33 @@ Learn more ->
   </div>
   <div class="col-sm-4" markdown="1">
 
-## Contact
 
-<div id="home_map"></div>
-<script>
-function initMap() {
-  var loc = {lat: 48.189514, lng: 16.402876};
-  var map = new google.maps.Map(document.getElementById('home_map'), {
-    zoom: 12, center: loc,
-    disableDefaultUI: true
-  });
-  var marker = new google.maps.Marker({
-    position: loc, map: map
-  });
-  {% include maps_style_silver %}
-}
-</script>
-<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyByeuBHHFBQCKMGTe5okMzyofx_RDphujQ&callback=initMap"></script>
+## About us
 
-More [details &hellip;]({{ site.baseurl }}/contact/)
 
 <img class="img-responsive" src="{{ site.baseurl }}/assets/img/20170225-lab-dinner.jpeg" alt="Pauli Lab members">
 
-All [the people &hellip;]({{ site.baseurl }}/people/)
+Learn [more &hellip;]({{ site.baseurl }}/people/)
+
+
+
+## Contact us
+
+The lab is based at the IMP (Research Institute of Molecular Pathology), a basic research institute that is part of the Vienna Biocenter (VBC).
+
+IMP (Research Institute of Molecular Pathology)
+Vienna Biocenter (VBC)
+Campus-Vienna-Biocenter 1
+1030 Vienna
+Austria
+
+http://www.imp.ac.at/research/
+
+Learn [more &hellip;]({{ site.baseurl }}/contact/) -> 
+
+
+
+
 
   </div>
 
