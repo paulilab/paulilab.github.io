@@ -70,13 +70,13 @@ Learn [more &hellip;]({{ site.baseurl }}/people/)
 
 The lab is based at the IMP (Research Institute of Molecular Pathology), a basic research institute that is part of the Vienna Biocenter (VBC).
 
-IMP (Research Institute of Molecular Pathology)
-Vienna Biocenter (VBC)
-Campus-Vienna-Biocenter 1
-1030 Vienna
-Austria
+IMP (Research Institute of Molecular Pathology)  
+Vienna Biocenter (VBC)  
+Campus-Vienna-Biocenter 1  
+1030 Vienna  
+Austria  
 
-http://www.imp.ac.at/research/
+http://www.imp.ac.at/research/  
 
 Learn [more &hellip;]({{ site.baseurl }}/contact/) -> 
 
