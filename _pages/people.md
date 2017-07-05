@@ -26,12 +26,13 @@ permalink: /people/
   </div>
   <div class="col-sm-4 peep-stuff">
     <ul>
-    {% for occ in peep.progress %}
+    {% assign props = peep.properties %}
+    {% for prop in props %}
       <li>
-        <span>{{ occ[0] }}</span>
+        <span>{{ prop[0] }}</span>
         <div class="progress">
-          <div class="progress-bar {% if occ[1] < 10 or occ[1] > 90 %}progress-bar-info{% else %}{% if occ[1] < 55 %}progress-bar-warning{% else %}progress-bar-success{% endif %}{% endif %}" role="progressbar" aria-valuenow="{{ occ[1] }}" aria-valuemin="0" aria-valuemax="100" style="width: {{ occ[1] }}%;">
-            {{ occ[1] }}%
+          <div class="progress-bar {% if prop[1] < 10 or prop[1] > 90 %}progress-bar-info{% else %}{% if prop[1] < 55 %}progress-bar-warning{% else %}progress-bar-success{% endif %}{% endif %}" role="progressbar" aria-valuenow="{{ prop[1] }}" aria-valuemin="0" aria-valuemax="100" style="width: {{ prop[1] }}%;">
+            {{ prop[1] }}%
           </div>
         </div>
       </li>

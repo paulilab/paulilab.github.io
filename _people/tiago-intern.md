@@ -5,7 +5,7 @@ country:
 member_from: 1.1.2016
 member_till: now
 position: Intern
-progress:
+properties:
   - ["?", 100]
   - ["?", 60]
   - ["?", 17]

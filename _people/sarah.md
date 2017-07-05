@@ -6,8 +6,8 @@ country: Germany
 member_from: 1.11.2015
 member_till: now
 position: PhD student
-progress:
+properties:
   - ["Having fun with a very short protein.", 78]
-  - ["?", 30]
-  - ["!", 15]
+  - ["Master of (fish) gametes", 80]
+  - ["Loves ticking things off the list (after 3 repeats)", 20]
 ---

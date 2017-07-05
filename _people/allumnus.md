@@ -7,7 +7,7 @@ member_from: 11.11.2011
 member_till: 12.12.2012
 position: Doc
 moved_to: ELS E-where
-progress:
+properties:
   - ["Keeping the lights on.", 90]
   - ["?", 0]
   - ["?", 0]

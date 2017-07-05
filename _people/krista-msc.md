@@ -6,8 +6,10 @@ country: United States
 member_from: 15.1.2017
 member_till: now
 position: Master Student
-progress:
+properties:
   - ["Hedgehogs, hedgehogs, hedgehogs.", 50]
-  - ["?", 40]
-  - ["?", 25]
+  - ["Prefer sandwiches over Enzi's food", 95]
+  - ["You are a Shtinkteer!", 25]
+  - ["Not too proud of being American these days", 50]
+  - ["Wales!", 90]
 ---

@@ -6,8 +6,10 @@ country: Austria
 member_from: ???
 member_till: now
 position: Lab Manager
-progress:
+properties:
   - ["Loving the BF facility.", 99]
   - ["Lab-mama, taking care of everyone", 71]
   - ["Becoming a dragon boating pro", 9]
+  - ["Petting every single fish in the fish facility", 60]
+  - ["Killing the cute fish without remorse", 30]
 ---

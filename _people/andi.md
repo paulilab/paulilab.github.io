@@ -6,8 +6,9 @@ country: Germany
 member_from: the begining
 member_till: now
 position: Principal Investigator
-progress:
-  - ["Steering the wheel.", 80]
+properties:
+  - ["Steering the wheel.", 70]
+  - ["Doing experiments myself!", 15]
   - ["Raising dinos", 3]
-  - ["?", 10]
+  - ["Other things PIs have to do…", 15]
 ---

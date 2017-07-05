@@ -6,7 +6,7 @@ country: Czechia
 member_from: 1.5.2016
 member_till: now
 position: Computer Scientist
-progress:
+properties:
   - ["Chasing after the images of thousands of cells", 65]
   - ["Drinking hectolitres of green tea", 30]
   - ["Learning deep, very deep...", 15]
