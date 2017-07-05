@@ -11,23 +11,24 @@ permalink: /
 
 ### Short proteins
 
-Magna. Nunc bibendum lacinia tellus. Quisque porttitor ligula et pede. Nam erat
-nibh, fringilla ac, rutrum sit amet, rhoncus in, ipsum. Mauris rhoncus, lacus
-eu convallis sagittis, quam magna placerat est, vitae imperdiet mauris arcu ac
-dui. In ac urna non justo posuere mattis.  Suspendisse egestas bibendum nulla.
-In erat nunc, posuere sed, auctor quis, pulvinar quis, mi. Mauris at est.
+We are interested in understanding the molecular mechanisms that control embryogenesis. Our main goal is to identify and unravel the functions of new regulators, which either belong to the class of short, previously hidden proteins or are of post-transcriptional nature.
+We are aiming to address the following questions: 
+1)	**Fertilization**: How is fertilization regulated? We are specifically interested in identifying new molecular players that allow sperm-egg interaction and fusion.
+2)	**Toddler**: How does the short secreted protein Toddler (also called Apela/ELABELA) regulate gastrulation movements?
+3)	**Translational regulation**: We are interested in investigating translational regulation and regulation by translation during embryogenesis. 
+To address these questions, we are mainly using zebrafish embryos since they are a powerful model of vertebrate embryogenesis. We combine various experimental and computational approaches, which range from genetics, molecular biology, cell biology and biochemistry to live cell imaging and high-throughput image analysis and genomics technologies.
 
-### Development
 
-Dis parturient montes, nascetur ridiculus mus. Nulla facilisis massa ut massa.
-Sed nisi purus, malesuada eu, porta vulputate, suscipit auctor, nunc.
-Vestibulum convallis, augue eu luctus malesuada, mi ante mattis odio, ac
-venenatis neque sem vitae nisi. Donec pellentesque purus a lorem. Etiam in
-massa. Nam ut metus. In rhoncus venenatis tellus. Etiam aliquam. Ut aliquam
-lectus ut lectus. Nam turpis lacus, tristique sit amet, convallis sollicitudin,
-commodo a, purus. Nulla vitae eros a diam blandit mollis. Proin luctus feugiat
-eros. Pellentesque habitant morbi tristique senectus et netus et malesuada
-fames ac turpis egestas. Duis ultricies urna. Etiam enim urna, pharetra.
+Learn more -> 
+
+
+### Funding
+
+-	IMP
+-	Boehringer Ingelheim
+-	HFSP Career Development Award
+-	FWF START grant
+
 
   </div>
   <div class="col-sm-4" markdown="1">
@@ -42,7 +43,7 @@ fames ac turpis egestas. Duis ultricies urna. Etiam enim urna, pharetra.
 
 {{ post.excerpt }}
 
-[Read more &hellip;]({{ post.url }})
+[Learn more &hellip;]({{ post.url }})
 
 {% endfor %}
 
