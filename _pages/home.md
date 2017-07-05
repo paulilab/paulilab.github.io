@@ -13,9 +13,13 @@ permalink: /
 
 We are interested in understanding the molecular mechanisms that control embryogenesis. Our main goal is to identify and unravel the functions of new regulators, which either belong to the class of short, previously hidden proteins or are of post-transcriptional nature.
 We are aiming to address the following questions: 
+
 1)	**Fertilization**: How is fertilization regulated? We are specifically interested in identifying new molecular players that allow sperm-egg interaction and fusion.
+
 2)	**Toddler**: How does the short secreted protein Toddler (also called Apela/ELABELA) regulate gastrulation movements?
+
 3)	**Translational regulation**: We are interested in investigating translational regulation and regulation by translation during embryogenesis. 
+
 To address these questions, we are mainly using zebrafish embryos since they are a powerful model of vertebrate embryogenesis. We combine various experimental and computational approaches, which range from genetics, molecular biology, cell biology and biochemistry to live cell imaging and high-throughput image analysis and genomics technologies.
 
 
