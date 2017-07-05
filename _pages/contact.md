@@ -37,20 +37,22 @@ Research Institute of Molecular Pathology (IMP)
 Campus-Vienna-Biocenter 1  
 1030 Vienna, Austria  
 
-[GPS: 48.1893926,16.3326227](https://www.google.com/maps/dir//Research+Institute+of+Molecular+Pathology/@48.1893926,16.3326227,12z/)
+E-mail: andrea dot pauli at imp.ac.at
+
+GPS: [48.1893926,16.3326227](https://www.google.com/maps/dir//Research+Institute+of+Molecular+Pathology/@48.1893926,16.3326227,12z/)
 
 ### How to get here
 
 * __by plane:__ From the airport take the regional train S7. Get off at St. Marx/Vienna BioCenter (takes 20 min, runs every 30 min)
 * __by train:__ Arriving to either the Hauptbahnhof or Westbahnhof railway station take the tram no. 18. Get off at Schlachthausgasse (takes 13 resp. 25 min).
-
-[Connection finder](https://www.wienerlinien.at/eportal3/ep/tab.do?tabId=0) for the local transport. 
-
 * __by car:__ Arriving via the motorway A23 take the exit St. Marx. Arriving via the A4
   take the exit Knoten Prater. Keep in mind that parking on the street
   is restricted to 2 hrs with a valid parking ticket.
 
-Detailed official information on [parking in Vienna](https://www.wien.gv.at/english/transportation/parking/shortterm.htm).
+## Links
+
+* [Connection finder](https://www.wienerlinien.at/eportal3/ep/tab.do?tabId=0) for the local transport.
+* Detailed official information on [parking in Vienna](https://www.wien.gv.at/english/transportation/parking/shortterm.htm).
 
 </div>
 </div>
