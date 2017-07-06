@@ -2,6 +2,7 @@
 layout: simple
 title: Publications
 permalink: /pubs/
+splash: /assets/img/splash-fish3.jpg
 ---
 {% for year in site.years %}
   {% assign pubs = site.pubs | where: "year", year %}
