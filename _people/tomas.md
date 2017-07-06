@@ -10,4 +10,5 @@ properties:
   - ["Chasing after the images of thousands of cells", 65]
   - ["Drinking hectolitres of green tea", 30]
   - ["Learning deep, very deep...", 15]
+  - ["Prefers nuts over chocolate", 10]
 ---
