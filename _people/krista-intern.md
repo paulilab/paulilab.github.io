@@ -1,5 +1,5 @@
 ---
-name: Krista Breidis
+name: Krista Briedis
 img: /assets/img/people-krista.jpeg
 email: first.last@imp.ac.at
 country: United States
