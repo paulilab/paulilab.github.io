@@ -38,7 +38,7 @@ technologies.
 * FWF START grant 2017
 * HFSP Career Development Award
 * Boehringer Ingelheim Fonds
-* Öaw DOC fellowship
+* Öaw
 
 
 </div>
