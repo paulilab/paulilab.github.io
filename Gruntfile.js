@@ -85,6 +85,12 @@ module.exports = function(grunt) {
         options: {
           callback: log
         }
+      },
+      htmlproofer: {
+        command: 'bundle-2.4 exec htmlproofer --assume-extension --timeframe 7d --url-ignore=http://dx.doi.org/10.1038/ncb2018,http://dx.doi.org/10.1038/nrg2904 --check-html ./_site/',
+        options: {
+          callback: log
+        }
       }
     },
     watch: {

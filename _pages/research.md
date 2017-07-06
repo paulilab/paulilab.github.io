@@ -8,6 +8,7 @@ permalink: /research/
 
 {% include figure_left
   url='/assets/img/research-fig1.jpeg'
+  alt='Data on identification of novel coding genes in zebrafish'
   description='Figure 1: Identification and annotation of novel, embryonically
     expressed coding and non-coding transcripts. RNA-Seq-based transcript
     assemblies were evaluated for their coding potential by PhyloCSF (Li et
@@ -30,6 +31,7 @@ previously thought to be non-coding.
 
 {% include figure
   url='/assets/img/research-fig2.jpeg'
+  alt='Scheme of toddler signalling'
   description='Figure 2: Toddler signalling promotes gastrulation movements. A)
     Toddler is conserved in vertebrates. ClustalW2 multiple protein sequence
     alignment of the Toddler peptide sequences from five vertebrates. B)
@@ -67,6 +69,7 @@ in a developing organism.
 
 {% include figure_left
   url='/assets/img/research-fig3.jpeg'
+  alt='Scheme of functional characterization of short translated ORFs'
   description='Figure 3: Identifying functions of short translated ORFs. Many
     regions outside of known protein-coding genes are translated.
     Protein-coding regions are shown in blue, non-coding/untranslated regions

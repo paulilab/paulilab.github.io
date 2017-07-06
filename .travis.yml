@@ -6,7 +6,7 @@ cache:
 rvm:
 - 2.3.3
 
-script: bundle exec jekyll build && bundle exec htmlproofer --assume-extension --timeframe '30d' ./_site
+script: bundle exec jekyll build && bundle exec htmlproofer --only-4xx --assume-extension --timeframe 7d --url-ignore=http://dx.doi.org/10.1038/ncb2018,http://dx.doi.org/10.1038/nrg2904 ./_site/
 
 env:
   global:
