@@ -9,8 +9,10 @@ position: PhD Student
 properties:
   - ["Master of ribosomes", 70]
   - ["Knowing the names of all the people in the field.", 30]
-  - ["Harry Potter #2", 15]
-  - ["Colourful shirts", 55]
-  - ["Being one of a kind", 110]
-  - ["Being a talking local backup of pubmed", 30]
+  - ["Being a talking local backup of pubmed", 20]
+  - ["Harry Potter #2", 10]
 ---
+<! --
+Colourful shirts
+Being one of a kind
+-->
