@@ -2,6 +2,7 @@
 layout: simple
 title: Join us
 permalink: /joinus/
+splash: /assets/img/splash-banner.jpg
 ---
 
 ## General information
