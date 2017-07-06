@@ -1,5 +1,6 @@
 ---
-name: Krista Briedis
+first_name: Krista
+last_name: Briedis
 img: /assets/img/people-krista.jpeg
 email: first.last@imp.ac.at
 country: United States
@@ -11,9 +12,7 @@ properties:
   - ["Prefers home-made sandwiches over cantine food", 20]
   - ["Not too proud of being American these days", 20]
   - ["Wales and hedgehogs hedgehogs hedgehogs!", 10]
-
 ---
 <! --
 You are a Shtinkteer!
-Hedgehogs, hedgehogs, hedgehogs
 -->

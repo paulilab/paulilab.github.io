@@ -1,5 +1,6 @@
 ---
-name: Karin Panser
+first_name: Karin
+last_name: Panser
 img: /assets/img/people-karin.jpeg
 email: first.last@imp.ac.at
 country: Austria

@@ -1,5 +1,6 @@
 ---
-name: Sarah Herberg
+first_name: Sarah
+last_name: Herberg
 img: /assets/img/people-sarah.jpeg
 email: first.last@imp.ac.at
 country: Germany

@@ -1,5 +1,6 @@
 ---
-name: Nina El-Asrag
+first_name: Nina
+last_name: El-Asrag
 email: first.last@imp.ac.at
 country: Austria
 member_from: September 2016

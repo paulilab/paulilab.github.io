@@ -1,5 +1,6 @@
 ---
-name: Andrea Pauli
+first_name: Andrea
+last_name: Pauli
 img: /assets/img/people-andi.jpeg
 email: first.last@imp.ac.at
 country: Germany

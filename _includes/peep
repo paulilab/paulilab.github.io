@@ -1,11 +1,11 @@
 <div class="row peep">
   <div class="col-sm-2 peep-photo">
   {% if peep.img %}
-    <img class="img-responsive" src="{{ site.baseurl }}{{ peep.img }}" alt="{{ peep.name }}">
+    <img class="img-responsive" src="{{ site.baseurl }}{{ peep.img }}" alt="{{ peep.first_name }} {{ peep.last_name }}">
   {% endif %}
   </div>
   <div class="col-sm-3 peep-info">
-    <h4>{{ peep.name }}</h4>
+    <h4>{{ peep.first_name }} {{ peep.last_name }}</h4>
     <h5>{{ peep.position }}</h5>
     <ul>
       <li>{{ peep.email }}</li>

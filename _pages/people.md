@@ -4,7 +4,7 @@ title: People
 permalink: /people/
 ---
 
-{% assign peeps = site.people | sort: 'name' %}
+{% assign peeps = site.people | sort: 'last_name' %}
 
 {% for peep in peeps %}
  {% if peep.member_till != 'now' %}
@@ -35,6 +35,6 @@ permalink: /people/
  {% if peep.member_till == 'now' %}
   {% continue %}
  {% endif %}
-  <li>{{ peep.name }} ({{ peep.position }}), {{ peep.member_from }}&ndash;{{ peep.member_till }}{% if peep.moved_to %}, now at {{ peep.moved_to }}{% endif %}</li>
+  <li>{{ peep.first_name }} {{ peep.last_name }} ({{ peep.position }}), {{ peep.member_from }}&ndash;{{ peep.member_till }}</li>
 {% endfor %}
 </ul>

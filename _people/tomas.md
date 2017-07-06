@@ -1,5 +1,6 @@
 ---
-name: Tomáš Kazmar
+first_name: Tomáš
+last_name: Kazmar
 img: /assets/img/people-tomas.jpeg
 email: last@imp.ac.at
 country: Czechia
