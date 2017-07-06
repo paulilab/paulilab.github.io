@@ -1,7 +1,7 @@
 ---
 first_name: Dori
 last_name: The Whale
-email: not.that.we.know.off@imp.ac.at
+email: not.that.we.know.of@imp.ac.at
 country: Deep Sea
 member_from: the very beginning (September 2015)
 member_till: now
