@@ -65,6 +65,8 @@ Learn [more &hellip;]({{ site.baseurl }}/research/)
 
 <img class="img-responsive" src="{{ site.baseurl }}/assets/img/20170225-lab-dinner.jpeg" alt="Pauli Lab members">
 
+The Pauli lab exists since September 2015. Currently, we are an international group with 3 PhD students, 1 Master student, 1 computer scientist and 1 lab-manager. 
+
 Learn [more &hellip;]({{ site.baseurl }}/people/)
 
 
@@ -74,13 +76,9 @@ Learn [more &hellip;]({{ site.baseurl }}/people/)
 The lab is based at the IMP (Research Institute of Molecular Pathology), a basic research institute that is part of the Vienna Biocenter (VBC).
 
 IMP (Research Institute of Molecular Pathology)  
-
 Vienna Biocenter (VBC)  
-
 Campus-Vienna-Biocenter 1  
-
 1030 Vienna  
-
 Austria  
 
 
