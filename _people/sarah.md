@@ -10,5 +10,5 @@ properties:
   - ["Having fun with a very short protein.", 60]
   - ["Master of (fish) gametes", 20]
   - ["Ticking things off the list (after 3 repeats)", 20]
-  - ["Has a sweet tooth (particularly at lab meetings)", 10]
+  - ["Sweet tooth (particularly at lab meetings)", 10]
 ---
