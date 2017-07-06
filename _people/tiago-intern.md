@@ -9,5 +9,5 @@ position: VBC Summer Student
 properties:
   - ["Interested in ...", 80]
   - ["Expert in summer schooling", 50]
-  - ["Has more friends in Vienna after 1 week than others after 1 year", 17]
+  - ["Having more friends in Vienna after 1 week than others after 1 year", 17]
 ---
