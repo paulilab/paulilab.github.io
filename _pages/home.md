@@ -67,7 +67,7 @@ technologies.
 
 The Pauli lab has launched in September 2015. Currently, we are an international
 group with 3 PhD students, 1 Master student, 1 computer scientist and 1
-lab-manager.
+lab-manager (and a PI...).
 
 [Learn more &hellip;]({{ site.baseurl }}/people/)
 
