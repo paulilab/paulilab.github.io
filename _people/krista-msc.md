@@ -7,9 +7,13 @@ member_from: 15.1.2017
 member_till: now
 position: Master Student
 properties:
-  - ["Hedgehogs, hedgehogs, hedgehogs.", 50]
+  - ["Master of in vitro fertilization experiments", 60]
   - ["Prefers home-made sandwiches over cantine food", 20]
   - ["Not too proud of being American these days", 20]
-  - ["Wales!", 90]
-  - ["You are a Shtinkteer!", 25]
+  - ["Wales and hedgehogs hedgehogs hedgehogs!", 10]
+
 ---
+<! --
+You are a Shtinkteer!
+Hedgehogs, hedgehogs, hedgehogs
+-->
