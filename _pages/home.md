@@ -11,8 +11,7 @@ permalink: /
 
 ### Short proteins
 
-We are interested in understanding the molecular mechanisms that control embryogenesis. Our main goal is to identify and unravel the functions of new regulators, which either belong to the class of short, previously hidden proteins or are of post-transcriptional nature.
-We are aiming to address the following questions:  
+We are interested in the control of embryogenesis. Our focus is on investigating new regulators, which range from short proteins to post-transcriptional control mechanisms.  
 
 
 1)	**Fertilization**: How is fertilization regulated? We are specifically interested in identifying new molecular players that allow sperm-egg interaction and fusion.  
@@ -24,7 +23,7 @@ We are aiming to address the following questions:
 3)	**Translational regulation**: We are interested in investigating translational regulation and regulation by translation during embryogenesis.  
 
 
-To address these questions, we are mainly using zebrafish embryos since they are a powerful model of vertebrate embryogenesis. We combine various experimental and computational approaches, which range from genetics, molecular biology, cell biology and biochemistry to live cell imaging and high-throughput image analysis and genomics technologies.
+To address these questions, we are mainly using zebrafish embryos since they are a powerful model of vertebrate embryogenesis. We combine various experimental and computational approaches, ranging from genetics, molecular biology, cell biology and biochemistry to live cell imaging and genomics technologies.
 
 
 Learn [more &hellip;]({{ site.baseurl }}/research/)
@@ -75,10 +74,15 @@ Learn [more &hellip;]({{ site.baseurl }}/people/)
 The lab is based at the IMP (Research Institute of Molecular Pathology), a basic research institute that is part of the Vienna Biocenter (VBC).
 
 IMP (Research Institute of Molecular Pathology)  
+
 Vienna Biocenter (VBC)  
+
 Campus-Vienna-Biocenter 1  
+
 1030 Vienna  
+
 Austria  
+
 
 http://www.imp.ac.at/research/  
 
