@@ -4,7 +4,7 @@ email: first.middle@imp.ac.at
 country: Brazil
 member_from: 1.1.2016
 member_till: now
-position: Intern
+position: VBC summer student
 properties:
   - ["Interested in ...", 80]
   - ["Expert in summer schooling", 50]
