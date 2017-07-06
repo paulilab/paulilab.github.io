@@ -74,7 +74,7 @@ Learn [more &hellip;]({{ site.baseurl }}/people/)
 
 ## Contact us
 
-The lab is based at the IMP (Research Institute of Molecular Pathology), a basic research institute that is part of the Vienna Biocenter (VBC).
+The lab is based at the [http://www.imp.ac.at/research/](IMP (Research Institute of Molecular Pathology)), a basic research institute that is part of the [http://www.viennabiocenter.org](Vienna Biocenter (VBC)).
 
 IMP (Research Institute of Molecular Pathology)  
 Vienna Biocenter (VBC)  
@@ -83,7 +83,8 @@ Campus-Vienna-Biocenter 1
 Austria  
 
 
-http://www.imp.ac.at/research/  
+[http://www.imp.ac.at/research/](http://www.imp.ac.at/research/)
+[https://www.imp.ac.at/research/research-groups/andrea-pauli/research/](link to the IMP - Pauli Lab website)
 
 Learn [more &hellip;]({{ site.baseurl }}/contact/) -> 
 
