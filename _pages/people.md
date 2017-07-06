@@ -7,10 +7,17 @@ permalink: /people/
 {% assign peeps = site.people | sort: 'last_name' %}
 
 {% for peep in peeps %}
+ {% if peep.position != 'Principal Investigator' %}
+   {% continue %}
+ {% endif %}
+ {% include peep %}
+{% endfor %}
+
+{% for peep in peeps %}
  {% if peep.member_till != 'now' %}
    {% continue %}
  {% endif %}
- {% if peep.position == 'Intern' or peep.position == 'VBC Summer Student' %}
+ {% if peep.position == 'Principal Investigator' or peep.position == 'Intern' or peep.position == 'VBC Summer Student' %}
    {% continue %}
  {% endif %}
  {% include peep %}
