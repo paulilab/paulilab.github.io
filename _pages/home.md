@@ -70,6 +70,9 @@ The Pauli lab exists since September 2015. Currently, we are an international gr
 
 Learn [more &hellip;]({{ site.baseurl }}/people/)
 
+
+Link to [Publications &hellip;]({{ site.baseurl }}/publications/)
+
 Link to the [IMP - Pauli Lab website](https://www.imp.ac.at/research/research-groups/andrea-pauli/research/)
 
 
@@ -86,7 +89,7 @@ Austria
 
 [http://www.imp.ac.at/research/](http://www.imp.ac.at/research/)   
 
-Learn [more &hellip;]({{ site.baseurl }}/contact/) -> 
+Learn [more &hellip;]({{ site.baseurl }}/contact/)
 
 
 
