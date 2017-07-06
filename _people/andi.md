@@ -3,7 +3,7 @@ name: Andrea Pauli
 img: /assets/img/people-andi.jpeg
 email: first.last@imp.ac.at
 country: Germany
-member_from: ever since it started
+member_from: the very beginning (September 2015)
 member_till: now
 position: Principal Investigator
 properties:
