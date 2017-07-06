@@ -35,9 +35,11 @@ technologies.
 ### Funding
 
 * IMP
-* Boehringer Ingelheim
+* FWF START grant 2017
 * HFSP Career Development Award
-* FWF START grant
+* Boehringer Ingelheim Fonds
+* Öaw DOC fellowship
+
 
 </div>
 <div class="col-sm-4" markdown="1">
