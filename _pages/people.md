@@ -2,6 +2,7 @@
 layout: default
 title: People
 permalink: /people/
+splash: /assets/img/PauliLab2016.jpg
 ---
 
 {% assign peeps = site.people | sort: 'last_name' %}
