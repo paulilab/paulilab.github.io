@@ -42,6 +42,9 @@ permalink: /people/
 </div>
 {% endfor %}
 
+<h3>Inters</h3>
+
+
 <h3>Former members</h3>
 
 <ul>
