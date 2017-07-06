@@ -29,7 +29,7 @@ To address these questions, we are mainly using zebrafish embryos since they are
 
 Learn [more &hellip;]({{ site.baseurl }}/research/)   
 
-Link to [Publications &hellip;]({{ site.baseurl }}/publications/)
+[Publications &hellip;]({{ site.baseurl }}/publications/)
 
 ### Funding
 
