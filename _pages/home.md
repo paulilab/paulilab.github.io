@@ -22,7 +22,7 @@ We are interested in the control of embryogenesis. Our focus is on investigating
 3)	**Translational regulation**: We are interested in investigating translational regulation and regulation by translation during embryogenesis.  
 
 
-## Our approach  
+### Our approach  
 
 To address these questions, we are mainly using zebrafish embryos since they are a powerful model of vertebrate embryogenesis. We combine various experimental and computational approaches, ranging from genetics, molecular biology, cell biology and biochemistry to live cell imaging and genomics technologies.
 
