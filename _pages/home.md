@@ -27,8 +27,9 @@ We are interested in the control of embryogenesis. Our focus is on investigating
 To address these questions, we are mainly using zebrafish embryos since they are a powerful model of vertebrate embryogenesis. We combine various experimental and computational approaches, ranging from genetics, molecular biology, cell biology and biochemistry to live cell imaging and genomics technologies.
 
 
-Learn [more &hellip;]({{ site.baseurl }}/research/)
+Learn [more &hellip;]({{ site.baseurl }}/research/)   
 
+Link to [Publications &hellip;]({{ site.baseurl }}/publications/)
 
 ### Funding
 
@@ -69,9 +70,6 @@ Learn [more &hellip;]({{ site.baseurl }}/research/)
 The Pauli lab exists since September 2015. Currently, we are an international group with 3 PhD students, 1 Master student, 1 computer scientist and 1 lab-manager. 
 
 Learn [more &hellip;]({{ site.baseurl }}/people/)
-
-
-Link to [Publications &hellip;]({{ site.baseurl }}/publications/)
 
 Link to the [IMP - Pauli Lab website](https://www.imp.ac.at/research/research-groups/andrea-pauli/research/)
 
