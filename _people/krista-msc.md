@@ -8,8 +8,8 @@ member_till: now
 position: Master Student
 properties:
   - ["Hedgehogs, hedgehogs, hedgehogs.", 50]
-  - ["Prefer sandwiches over Enzi's food", 95]
-  - ["You are a Shtinkteer!", 25]
-  - ["Not too proud of being American these days", 50]
+  - ["Prefers home-made sandwiches over cantine food", 20]
+  - ["Not too proud of being American these days", 20]
   - ["Wales!", 90]
+  - ["You are a Shtinkteer!", 25]
 ---
