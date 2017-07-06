@@ -2,6 +2,7 @@
 layout: simple
 title: Lab News
 permalink: /news/
+splash: /assets/img/splash-fish5b.jpg
 ---
 
 {% for post in site.posts %}
