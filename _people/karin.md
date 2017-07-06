@@ -11,6 +11,8 @@ properties:
   - ["Petting every single fish in the fish facility", 49]
   - ["Killing the cute fish without remorse", 10]
   - ["Becoming a dragon boating pro", 9]
-  - ["Loving the BF facility.", 99]
-  - ["Lab-mama, taking care of everyone", 51]
 ---
+<! --
+Loving the BF facility
+Lab-mama, taking care of everyone
+-->
