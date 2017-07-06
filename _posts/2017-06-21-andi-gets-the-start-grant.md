@@ -4,8 +4,7 @@ title: Andi gets the START Grant
 picture: /assets/img/posts/20170621_Andi_prizeGiving.jpeg
 ---
 Andi was awarded a FWF START Grant for investigating the functions of
-uncharacterized translated regions during embryogenesis! For more pictures of
-the award ceremony at the Museumsquartier in Vienna.<!--more-->
+uncharacterized translated regions during embryogenesis!<!--more-->
 
 <!-- TODO: Check out [events]({{ site.baseurl }}/events/) (Pauli lab going fancy -
 not our usual outfit)! -->
