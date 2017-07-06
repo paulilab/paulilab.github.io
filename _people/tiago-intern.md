@@ -1,6 +1,6 @@
 ---
 name: Tiago Lubiana Alves
-email: first.middle.last@imp.ac.at
+email: first.middle@imp.ac.at
 country: Brazil
 member_from: 1.1.2016
 member_till: now
