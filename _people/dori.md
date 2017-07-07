@@ -8,7 +8,7 @@ member_from: the very beginning
 member_till: now
 position: Masquot
 properties:
-  - ["Swimming around.", 20]
-  - ["Overseeing experiments", 60]
-  - ["Being cute", 40]
+  - ["Overseeing experiments", 90]
+  - ["Swimming around.", 10]
+  - ["Being cute", 10]
 ---
