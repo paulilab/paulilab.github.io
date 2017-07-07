@@ -4,7 +4,7 @@ last_name: Lubiana Alves
 img: /assets/img/people/tiagophoto2.png
 email: first.middle@imp.ac.at
 country: Brazil
-member_from: 30.6.2017
+member_from: July 2017
 member_till: now
 position: VBC Summer Student
 properties:
