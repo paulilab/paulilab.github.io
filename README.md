@@ -7,6 +7,15 @@ Editing
 * [Editing files in the browser](https://help.github.com/articles/editing-files-in-your-repository/)
 * [Markdown syntax](https://daringfireball.net/projects/markdown/syntax)
 
+### sitemap
+
+A `sitemap.xml` is automatically build based on the post publish dates. If you
+modify a post after it was published, add `last_modified_at` with the current
+data to the front matter.
+
+[Technical info on &lt;lastmod&gt; in
+jekyll-sitemap](https://github.com/jekyll/jekyll-sitemap#lastmod-tag).
+
 
 Deploying
 ---------
