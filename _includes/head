@@ -1,10 +1,32 @@
+{% if page.title == 'home' %}
+{% assign title = site.name + ' | ' + site.motto %}
+{% else %}
+{% assign title = site.name + ' | ' + page.title %}
+{% endif %}
   <head>
     <meta charset="utf-8">
-    <title>PauliLab | {% if page.title == 'home' %}{{ site.motto }}{% else %}{{ page.title }}{% endif %}</title>
+    <title>{{ title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    {% if page.title == 'home' %}
     <meta name="description" content="{{ site.meta_description }}" />
-    <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
+    {% endif %}
+    <link rel="canonical" href="{{ page.url | absolute_url }}" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="{{ title }}" />
+    {% if page.title == 'home' %}
+    <meta property="og:description" content="{{ site.meta_description }}" />
+    {% endif %}
+    <meta property="og:url" content="{{ page.url | absolute_url }}" />
+    <meta property="og:site_name" content="{{ site.name }}" />
+    <meta name="twitter:card" content="summary" />
+    {% if page.title == 'home' %}
+    <meta name="twitter:description" content="{{ site.meta_description }}" />
+    {% endif %}
+    <meta name="twitter:title" content="{{ title }}" />
+    <meta name="twitter:site" content="@{{ site.twitter }}" />
+    <meta name="twitter:creator" content="@{{ site.twitter }}" />
     <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/favicon-16x16.png">

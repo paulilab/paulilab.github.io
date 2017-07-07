@@ -2,7 +2,8 @@ name: Pauli Lab
 motto: Investigating new regulators of embryogenesis
 author: Tomas Kazmar
 url: http://paulilab.org
-meta_description: We investigate regulators of development, mainly short proteins, using ribosome profiling, RNA-seq, lightsheet imaging and other cool methods.
+meta_description: Pauli Lab investigates regulators of embryogenesis @ Research Institute of Molecular Pathology (IMP), Vienna Biocenter.
+twitter: andreapauli77
 permalink: /:year/:month/:day/:title/
 exclude:
   - Gemfile
