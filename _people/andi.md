@@ -9,8 +9,8 @@ member_till: now
 position: Principal Investigator
 properties:
   - ["Steering the wheel.", 70]
-  - ["Doing experiments myself!", 15]
-  - ["Other things PIs have to do…", 12]
+  - ["Doing experiments myself!", 16]
+  - ["Other things PIs have to do…", 14]
   - ["Raising dinos", 3]
 
 ---
