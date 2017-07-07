@@ -5,8 +5,6 @@ permalink: /joinus/
 splash: /assets/img/splash/fish3.jpg
 ---
 
-## General information
-
 We are always looking for highly motivated, creative scientists with a strong
 background in molecular biology, developmental biology, biochemistry and
 imaging.
