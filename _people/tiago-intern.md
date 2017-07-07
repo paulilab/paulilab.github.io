@@ -10,5 +10,6 @@ position: VBC Summer Student
 properties:
   - ["Expert in summer schooling", 60]
   - ["Interested in ... many things", 40]
-  - ["Having more friends in Vienna after 1 week than others after 1 year", 30]
+  - ["Jumping photo specialist", 10]
+  - ["Having many many friends in Vienna", 10]
 ---
