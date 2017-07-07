@@ -7,6 +7,6 @@ member_from: September 2016
 member_till: now
 position: Intern
 properties:
-  - ["Getting up at 5AM.", 80]
-  - ["The fastest genotyper", 60]
+  - ["The fastest genotyper", 90]
+  - ["Getting up at 5AM.", 10]
 ---
