@@ -4,7 +4,7 @@ last_name: Briedis
 img: /assets/img/people/krista.jpg
 email: first.last@imp.ac.at
 country: United States
-member_from: 15.1.2017
+member_from: January 2017
 member_till: now
 position: Master Student
 properties:
