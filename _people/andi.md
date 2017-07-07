@@ -10,7 +10,7 @@ position: Principal Investigator
 properties:
   - ["Steering the wheel.", 70]
   - ["Doing experiments myself!", 15]
-  - ["Other things PIs have to do…", 15]
+  - ["Other things PIs have to do…", 12]
   - ["Raising dinos", 3]
 
 ---
