@@ -5,20 +5,21 @@ url: http://paulilab.org
 meta_description: We investigate regulators of development, mainly short proteins, using ribosome profiling, RNA-seq, lightsheet imaging and other cool methods.
 permalink: /:year/:month/:day/:title/
 exclude:
-  - 'Gemfile'
-  - 'Gemfile.lock'
-  - 'Gruntfile.js'
-  - 'README.md'
-  - 'TODO.md'
-  - '_config.yml'
-  - 'assets/img/README.md'
-  - 'bundle'
-  - 'js'
-  - 'less'
-  - 'node_modules'
-  - 'package.json'
-  - 'tools'
-  - 'vendor'
+  - Gemfile
+  - Gemfile.lock
+  - Gruntfile.js
+  - README.md
+  - TODO.md
+  - _config.yml
+  - assets/img/README.md
+  - bundle
+  - js
+  - less
+  - node_modules
+  - package.json
+  - tools
+  - resources
+  - vendor
 include: ['_pages']
 years: [2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004]
 gems: # XXX:because of github's old version

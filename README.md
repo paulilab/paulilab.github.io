@@ -52,7 +52,6 @@ Developmental setup
 Running `grunt build` is enough to completely build the website inside `_site`
 subdirectory.
 
-
 ### Developing
 
 Running `grunt` (the default task) starts a local webserver on
@@ -63,3 +62,10 @@ http://0.0.0.0:3000/ with a live reload.
 The favicon is generated from the `logo.svg` template using the [real favicon
 generator](http://realfavicongenerator.net/).
 
+### SEO
+
+Sitemaps get generated automatically by the jekyll-sitemap plugin.
+
+https://www.bing.com/webmaster/home/dashboard
+
+https://www.google.com/webmasters/tools

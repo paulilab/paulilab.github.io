@@ -33,15 +33,6 @@ technologies.
 
 [Publications &hellip;]({{ site.baseurl }}/pubs/)
 
-### Funding
-
-* IMP
-* FWF START grant 2017
-* HFSP Career Development Award
-* Boehringer Ingelheim Fonds
-* Öaw
-
-
 </div>
 <div class="col-sm-4" markdown="1">
 
@@ -87,6 +78,31 @@ basic research institute that is part of the
 
 * [http://www.imp.ac.at/research/](http://www.imp.ac.at/research/)
 * [Official Pauli Lab website](https://www.imp.ac.at/research/research-groups/andrea-pauli/research/)
+
+</div>
+
+<div class="col-sm-12" markdown="1">
+## Funding
+
+<div class="sr-only">
+
+* Research Institute of Molecular Pathology (IMP)
+* FWF START grant 2017
+* HFSP Career Development Award
+* Boehringer Ingelheim Fonds
+* Austrian Academy of Sciences (ÖAW)
+
+</div>
+<div class="funding" aria-hidden="true">
+
+<img src="{{ site.baseurl }}/assets/img/logo/imp1-400px.png" alt="IMP logo" title="Research Institute of Molecular Pathology (IMP)">
+<img src="{{ site.baseurl }}/assets/img/logo/fwf-400px.png" alt="FWF logo" title="FWF START grant 2017">
+<img src="{{ site.baseurl }}/assets/img/logo/hfsp-110px.png" alt="HFSP logo" title="HFSP Career Development Award">
+<img src="{{ site.baseurl }}/assets/img/logo/bif-400px.png" alt="BIF logo" title="Boehringer Ingelheim Fonds">
+<img src="{{ site.baseurl }}/assets/img/logo/oeaw-400px.png" alt="OEAW logo" title="Austrian Academy of Sciences (ÖAW)">
+
+</div>
+
 
 </div>
 </div>
