@@ -8,10 +8,10 @@ member_from: January 2017
 member_till: now
 position: Master Student
 properties:
-  - ["Master of in vitro fertilization experiments", 60]
+  - ["Master of in vitro fertilization experiments", 70]
   - ["Prefers home-made sandwiches over cantine food", 20]
-  - ["Not too proud of being American these days", 20]
-  - ["Wales and hedgehogs hedgehogs hedgehogs!", 10]
+  - ["Not too proud of being American these days", 10]
+  - ["Wales and hedgehogs hedgehogs hedgehogs!", 100]
 ---
 <! --
 You are a Shtinkteer!
