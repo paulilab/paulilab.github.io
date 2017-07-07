@@ -4,8 +4,8 @@ Webpage of the Lab of Andrea Pauli
 Editing
 -------
 
-[Editing files in the browser](https://help.github.com/articles/editing-files-in-your-repository/)
-[Markdown syntax](https://daringfireball.net/projects/markdown/syntax)
+* [Editing files in the browser](https://help.github.com/articles/editing-files-in-your-repository/)
+* [Markdown syntax](https://daringfireball.net/projects/markdown/syntax)
 
 
 Deploying
@@ -48,3 +48,9 @@ subdirectory.
 
 Running `grunt` (the default task) starts a local webserver on
 http://0.0.0.0:3000/ with a live reload.
+
+### Favicon
+
+The favicon is generated from the `logo.svg` template using the [real favicon
+generator](http://realfavicongenerator.net/).
+

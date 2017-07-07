@@ -2,7 +2,7 @@
 layout: default
 title: Contact
 permalink: /contact/
-splash: /assets/img/splash-imp.jpeg
+splash: /assets/img/splash/imp.jpg
 ---
 <div class="row">
   <div class="col-sm-6">

@@ -2,7 +2,7 @@
 layout: default
 title: home
 permalink: /
-splash: /assets/img/splash-fish5c.jpg
+splash: /assets/img/splash/fish5c.jpg
 ---
 <div class="row">
 <div class="col-sm-4" markdown="1">
@@ -49,7 +49,7 @@ technologies.
 
 {% for post in site.posts limit: 3 %}
 
-### {{ post.title }}
+**{{ post.title }}**
 
 {{ post.date | date_to_string }}
 

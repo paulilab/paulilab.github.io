@@ -2,13 +2,13 @@
 layout: simple
 title: Research
 permalink: /research/
-splash: /assets/img/splash-bottles.jpg
+splash: /assets/img/splash/bottles.jpg
 ---
 
 ## Functions of short translated open reading frames (ORFs) in the context of development
 
 {% include figure_left
-  url='/assets/img/research-fig1.jpeg'
+  url='/assets/img/research/fig1.jpg'
   alt='Data on identification of novel coding genes in zebrafish'
   description='Figure 1: Identification and annotation of novel, embryonically
     expressed coding and non-coding transcripts. RNA-Seq-based transcript
@@ -31,7 +31,7 @@ on 5’ leaders of coding genes (upstream ORFs (uORFs)) and on transcripts
 previously thought to be non-coding.  
 
 {% include figure
-  url='/assets/img/research-fig2.jpeg'
+  url='/assets/img/research/fig2.jpg'
   alt='Scheme of toddler signalling'
   description='Figure 2: Toddler signalling promotes gastrulation movements. A)
     Toddler is conserved in vertebrates. ClustalW2 multiple protein sequence
@@ -69,7 +69,7 @@ zebrafish embryos since they are an ideal model system for functional genomics
 in a developing organism. 
 
 {% include figure_left
-  url='/assets/img/research-fig3.jpeg'
+  url='/assets/img/research/fig3.jpg'
   alt='Scheme of functional characterization of short translated ORFs'
   description='Figure 3: Identifying functions of short translated ORFs. Many
     regions outside of known protein-coding genes are translated.

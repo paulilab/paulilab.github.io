@@ -1,7 +1,7 @@
 ---
 first_name: Jessica
 last_name: Stock
-img: /assets/img/people-jessica.jpeg
+img: /assets/img/people/jessica.jpg
 email: first.last@imp.ac.at
 country: Germany
 member_from: 1.1.2016

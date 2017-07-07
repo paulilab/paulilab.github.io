@@ -1,7 +1,7 @@
 ---
 first_name: Krista
 last_name: Briedis
-img: /assets/img/people-krista.jpeg
+img: /assets/img/people/krista.jpg
 email: first.last@imp.ac.at
 country: United States
 member_from: 1.7.2016
