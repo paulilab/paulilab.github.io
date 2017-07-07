@@ -4,7 +4,7 @@ last_name: Cabrera Quio
 img: /assets/img/people/quio.jpg
 email: verylast@imp.ac.at
 country: Mexico
-member_from: 1.12.2015
+member_from: December 2015
 member_till: now
 position: PhD Student
 properties:
