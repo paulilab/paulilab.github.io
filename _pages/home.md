@@ -2,6 +2,7 @@
 layout: default
 title: home
 permalink: /
+splash: /assets/img/splash-fish5c.jpg
 ---
 <div class="row">
 <div class="col-sm-4" markdown="1">
