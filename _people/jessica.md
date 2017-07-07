@@ -4,7 +4,7 @@ last_name: Stock
 img: /assets/img/people/jessica.jpg
 email: first.last@imp.ac.at
 country: Germany
-member_from: 1.11.2016
+member_from: November 2016
 member_till: now
 position: PhD Student
 properties:
