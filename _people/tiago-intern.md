@@ -1,6 +1,7 @@
 ---
 first_name: Tiago
 last_name: Lubiana Alves
+img: /assets/img/people/tiagophoto2.png
 email: first.middle@imp.ac.at
 country: Brazil
 member_from: 1.1.2016
