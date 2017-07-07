@@ -2,7 +2,7 @@
 layout: simple
 title: Join us
 permalink: /joinus/
-splash: /assets/img/splash/fish3.jpg
+splash: /assets/img/splash/embryo-flourescent.jpg
 ---
 
 ## General information
