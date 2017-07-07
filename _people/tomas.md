@@ -4,7 +4,7 @@ last_name: Kazmar
 img: /assets/img/people/tomas.jpg
 email: last@imp.ac.at
 country: Czechia
-member_from: 1.5.2016
+member_from: May 2016
 member_till: now
 position: Computer Scientist
 properties:
