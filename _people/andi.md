@@ -1,5 +1,5 @@
 ---
-first_name: Andrea
+first_name: Andrea (Andi)
 last_name: Pauli
 img: /assets/img/people/andi.jpg
 email: first.last@imp.ac.at
