@@ -1,6 +1,6 @@
 ---
-first_name: Andrea (Andi)
-last_name: Pauli
+first_name: Andrea
+last_name: Pauli (Andi)
 img: /assets/img/people/andi.jpg
 email: first.last@imp.ac.at
 country: Germany
