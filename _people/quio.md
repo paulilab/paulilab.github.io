@@ -1,6 +1,6 @@
 ---
 first_name: Luis Enrique
-last_name: Cabrera Quio
+last_name: Cabrera Quio (Quio)
 img: /assets/img/people/quio.jpg
 email: verylast@imp.ac.at
 country: Mexico
