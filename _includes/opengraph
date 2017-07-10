@@ -3,8 +3,11 @@
 <meta property="og:title" content="{{ title }}" />
 {% if page.title == 'home' %}
 <meta property="og:description" content="{{ site.meta_description }}" />
+{% endif %}
+{% if page.picture %}
+<meta property="og:image" content="{{ page.picture | absolute_url }}" />
+{% else %}
 <meta property="og:image" content="{{ '/assets/img/PauliLab2016.jpg' | absolute_url }}" />
-<meta property="og:image" content="{{ '/assets/img/PauliLab2017.jpg' | absolute_url }}" />
 {% endif %}
 <meta property="og:url" content="{{ page.url | absolute_url }}" />
 <meta property="og:site_name" content="{{ site.name }}" />
