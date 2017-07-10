@@ -1,9 +1,9 @@
 {% if page.title == 'home' %}
-{% assign title = site.name + ' | ' + site.motto %}
+{% assign title = site.name %}
 {% else %}
-{% assign title = site.name + ' | ' + page.title %}
+{% assign title = site.title + ' | ' + page.name %}
 {% endif %}
-  <head>
+  <head prefix="og: http://ogp.me/ns#">
     <meta charset="utf-8">
     <title>{{ title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -12,6 +12,8 @@
     <meta name="description" content="{{ site.meta_description }}" />
     {% endif %}
     <link rel="canonical" href="{{ page.url | absolute_url }}" />
+
+    <!-- Facebook's OpenGraph tags -->
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="{{ title }}" />
@@ -20,6 +22,8 @@
     {% endif %}
     <meta property="og:url" content="{{ page.url | absolute_url }}" />
     <meta property="og:site_name" content="{{ site.name }}" />
+
+    <!-- Twitter tags -->
     <meta name="twitter:card" content="summary" />
     {% if page.title == 'home' %}
     <meta name="twitter:description" content="{{ site.meta_description }}" />
@@ -27,6 +31,7 @@
     <meta name="twitter:title" content="{{ title }}" />
     <meta name="twitter:site" content="@{{ site.twitter }}" />
     <meta name="twitter:creator" content="@{{ site.twitter }}" />
+
     <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/favicon-16x16.png">
