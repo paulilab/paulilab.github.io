@@ -9,7 +9,7 @@ splash: /assets/img/splash/imp.jpg
   <div id="contact_map"></div>
   <script>
   function initMap() {
-    var loc = {lat: 48.189514, lng: 16.402876};
+    var loc = {lat: {{ site.location.latitude }}, lng: {{ site.location.longitude }} };
     var map = new google.maps.Map(document.getElementById('contact_map'), {
       zoom: 16, center: loc,
 panControl:false,
@@ -34,12 +34,12 @@ rotateControl:false
 
 Pauli Lab (3rd floor)  
 Research Institute of Molecular Pathology (IMP)  
-Campus-Vienna-Biocenter 1  
-1030 Vienna, Austria  
+{{ site.location.street }}
+{{ site.location.postal_code }} {{ site.location.city }}, {{ site.location.country }}
 
 E-mail: andrea dot pauli at imp.ac.at
 
-GPS: [48.1893926,16.3326227](https://www.google.com/maps/dir//Research+Institute+of+Molecular+Pathology/@48.1893926,16.3326227,12z/)
+GPS: [{{ site.location.latitude }},{{ site.location.longitude }}](https://www.google.com/maps/dir//Research+Institute+of+Molecular+Pathology/@{{ site.location.latitude }},{{ site.location.longitude }},12z/)
 
 ### How to get here
 
