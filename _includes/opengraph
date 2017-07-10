@@ -5,6 +5,7 @@
 <meta property="og:description" content="{{ site.meta_description }}" />
 {% else %}
 <meta property="og:title" content="{{ page.title | site.name }}" />
+<meta property="og:description" content="{{ page.content | strip_html | truncatewords:30 }}" />
 {% endif %}
 {% if page.picture %}
 <meta property="og:image" content="{{ page.picture | absolute_url }}" />
