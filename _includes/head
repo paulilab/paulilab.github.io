@@ -44,7 +44,7 @@
     <style type="text/css">
       .splash {
         padding: 5em 0 5em;
-        background-image: url({% if page.splash %}{{ page.splash }}{% else %}{{ site.baseurl }}{{ site.default_splash }}{% endif %});
+        background-image: url({% if page.splash %}{{ page.splash }}{% else %}{% if layout.splash %}{{ layout.splash }}{% else %}{{ site.default_splash }}{% endif %}{% endif %});
         background-position: center;
         background-size: cover;
         background-attachment: scroll;
