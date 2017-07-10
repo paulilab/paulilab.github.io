@@ -7,6 +7,20 @@ Editing
 * [Editing files in the browser](https://help.github.com/articles/editing-files-in-your-repository/)
 * [Markdown syntax](https://daringfireball.net/projects/markdown/syntax)
 
+
+### splash image
+
+The splash image is specified in the front matter using:
+
+    splash: /assets/img/splash/…
+
+If there is no `splash:` record, the `default_splash:` image from `_config.yml`
+is used.
+
+Splash image can also be specified for multiple pages at once using the
+`splash:` entry in the corresponding layout file.
+
+
 ### sitemap
 
 A `sitemap.xml` is automatically build based on the post publish dates. If you
