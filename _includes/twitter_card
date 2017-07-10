@@ -1,0 +1,7 @@
+<meta name="twitter:card" content="summary" />
+{% if page.title == 'home' %}
+<meta name="twitter:description" content="{{ site.meta_description }}" />
+{% endif %}
+<meta name="twitter:title" content="{{ title }}" />
+<meta name="twitter:site" content="@{{ site.social.twitter }}" />
+<meta name="twitter:creator" content="@{{ site.social.twitter }}" />

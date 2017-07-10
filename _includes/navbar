@@ -10,14 +10,14 @@
       </button>
     </div>
     <div class="navbar-collapse collapse">
-      <ul class="nav navbar-nav">
-        <li><a href="{{ site.baseurl }}/research/">Research</a></li>
-        <li><a href="{{ site.baseurl }}/pubs/">Publications</a></li>
-        <li><a href="{{ site.baseurl }}/news/">News</a></li>
-        <li><a href="{{ site.baseurl }}/people/">People</a></li>
-        <li><a href="{{ site.baseurl }}/fun/">Lab-Fun</a></li> 
-        <li><a href="{{ site.baseurl }}/joinus/">Join Us</a></li>
-        <li><a href="{{ site.baseurl }}/contact/">Contact</a></li>
+      <ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="nav navbar-nav">
+        <li itemprop="name"><a itemprop="url" href="{{ site.baseurl }}/research/">Research</a></li>
+        <li itemprop="name"><a itemprop="url" href="{{ site.baseurl }}/pubs/">Publications</a></li>
+        <li itemprop="name"><a itemprop="url" href="{{ site.baseurl }}/news/">News</a></li>
+        <li itemprop="name"><a itemprop="url" href="{{ site.baseurl }}/people/">People</a></li>
+        <li itemprop="name"><a itemprop="url" href="{{ site.baseurl }}/fun/">Lab-Fun</a></li>
+        <li itemprop="name"><a itemprop="url" href="{{ site.baseurl }}/joinus/">Join Us</a></li>
+        <li itemprop="name"><a itemprop="url" href="{{ site.baseurl }}/contact/">Contact</a></li>
       </ul>
     </div>
   </div>

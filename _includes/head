@@ -1,67 +1,45 @@
-{% if page.title == 'home' %}
-{% assign title = site.name %}
-{% else %}
-{% assign title = site.title + ' | ' + page.name %}
-{% endif %}
-  <head prefix="og: http://ogp.me/ns#">
-    <meta charset="utf-8">
-    <title>{{ title }}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    {% if page.title == 'home' %}
-    <meta name="description" content="{{ site.meta_description }}" />
-    {% endif %}
-    <link rel="canonical" href="{{ page.url | absolute_url }}" />
-
-    <!-- Facebook's OpenGraph tags -->
-    <meta property="og:locale" content="en_US" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="{{ title }}" />
-    {% if page.title == 'home' %}
-    <meta property="og:description" content="{{ site.meta_description }}" />
-    <meta property="og:image" content="{{ '/assets/img/PauliLab2016.jpg' | absolute_url }}" />
-    <meta property="og:image" content="{{ '/assets/img/PauliLab2017.jpg' | absolute_url }}" />
-    {% endif %}
-    <meta property="og:url" content="{{ page.url | absolute_url }}" />
-    <meta property="og:site_name" content="{{ site.name }}" />
-
-    <!-- Twitter tags -->
-    <meta name="twitter:card" content="summary" />
-    {% if page.title == 'home' %}
-    <meta name="twitter:description" content="{{ site.meta_description }}" />
-    {% endif %}
-    <meta name="twitter:title" content="{{ title }}" />
-    <meta name="twitter:site" content="@{{ site.twitter }}" />
-    <meta name="twitter:creator" content="@{{ site.twitter }}" />
-
-    <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/favicon-16x16.png">
-    <link rel="manifest" href="{{ site.baseurl }}/manifest.json">
-    <link rel="mask-icon" href="{{ site.baseurl }}/safari-pinned-tab.svg" color="#5bbad5">
-    <meta name="theme-color" content="#ffffff">
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.min.css" media="screen">
-    <style type="text/css">
+<head prefix="og: http://ogp.me/ns#">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  {% if page.title == 'home' %}
+  <title>{{ site.name | site.motto }}</title>
+  <meta name="description" content="{{ site.meta_description }}" />
+  {% else %}
+  <title>{{ site.title + ' | ' + page.name }}</title>
+  {% endif %}
+  <link rel="canonical" href="{{ page.url | absolute_url }}" />
+  {% include opengraph %}
+  {% include twitter_card %}
+  {% include structured_organization %}
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/favicon-16x16.png">
+  <link rel="manifest" href="{{ site.baseurl }}/manifest.json">
+  <link rel="mask-icon" href="{{ site.baseurl }}/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.min.css" media="screen">
+  <style type="text/css">
+    .splash {
+      padding: 5em 0 5em;
+      background-image: url({% if page.splash %}{{ page.splash }}{% else %}{% if layout.splash %}{{ layout.splash }}{% else %}{{ site.default_splash }}{% endif %}{% endif %});
+      background-position: center;
+      background-size: cover;
+      background-attachment: scroll;
+      color: #fff;
+      text-align: center;
+    }
+    .splash h1 {
+      font-size: 4em;
+text-shadow: 2px 2px 8px #286090;
+    }
+    @media (max-width: 767px) {
       .splash {
-        padding: 5em 0 5em;
-        background-image: url({% if page.splash %}{{ page.splash }}{% else %}{% if layout.splash %}{{ layout.splash }}{% else %}{{ site.default_splash }}{% endif %}{% endif %});
-        background-position: center;
-        background-size: cover;
-        background-attachment: scroll;
-        color: #fff;
-        text-align: center;
+        padding: 1em 0 1em;
       }
       .splash h1 {
-        font-size: 4em;
-	text-shadow: 2px 2px 8px #286090;
+        font-size: 2em;
       }
-      @media (max-width: 767px) {
-        .splash {
-          padding: 1em 0 1em;
-        }
-        .splash h1 {
-          font-size: 2em;
-        }
-      }
-    </style>
-  </head>
+    }
+  </style>
+</head>
