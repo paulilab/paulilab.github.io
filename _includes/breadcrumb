@@ -1,10 +1,5 @@
 {% if page.title != 'home' %}
-{% if layout.breadcrumbs_baseurl %}
-  {% assign last = page.url | split: '/' | last %}
-  {% assign crumbs = layout.breadcrumbs_baseurl | split: '/' | push: last %}
-{% else %}
-  {% assign crumbs = page.url | split: '/' %}
-{% endif %}
+{% assign crumbs = page.url | split: '/' %}
 <ol itemscope itemtype="http://schema.org/BreadcrumbList" class="pull-right breadcrumb">
   <li itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem"><a itemtype="http://schema.org/WebSite" itemprop="item" href="/"><span itemprop="name">{{ site.name }}</span><meta itemprop="position" content="1" /></a></li>
     {% for crumb in crumbs offset:1 %}
