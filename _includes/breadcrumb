@@ -1,0 +1,14 @@
+{% if page.title != 'home' %}
+{% if layout.breadcrumbs_baseurl %}
+  {% assign last = page.url | split: '/' | last %}
+  {% assign crumbs = layout.breadcrumbs_baseurl | split: '/' | push: last %}
+{% else %}
+  {% assign crumbs = page.url | split: '/' %}
+{% endif %}
+<ol class="pull-right breadcrumb">
+  <li><a href="/">{{ site.name }}</a></li>
+    {% for crumb in crumbs offset:1 %}
+    <li {% if forloop.last %}class="active"{% endif %}>{% if forloop.last %}{{ crumb | capitalize }}{% else %}<a href="/{% for crumb in crumbs offset:1 limit:forloop.index %}{{ crumb }}/{% endfor %}">{{ crumb | capitalize }}</a>{% endif %}</li>
+    {% endfor %}
+</ol>
+{% endif %}
