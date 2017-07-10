@@ -2,7 +2,7 @@
   <footer>
     <div class="row">
       <div class="col-lg-12">
-        <p>Made by <a href="http://github.com/gatagat" rel="nofollow">{{ site.author }}</a>. Web fonts from <a href="http://www.google.com/webfonts" rel="nofollow">Google</a>. Fish facility and IMP building photos courtesy of <a href="https://www.boehringer-ingelheim.at/" rel="nofollow">Boehringer Ingelheim</a> (L. Beck).</p>
+        <p>Made by <a href="http://github.com/gatagat" rel="nofollow">{{ site.author }}</a>. Fish facility and IMP building photos courtesy of <a href="https://www.boehringer-ingelheim.at/" rel="nofollow">Boehringer Ingelheim</a> (L. Beck).</p>
       </div>
     </div>
   </footer>
