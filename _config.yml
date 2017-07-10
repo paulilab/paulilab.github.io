@@ -4,7 +4,7 @@ author: Tomas Kazmar
 url: http://paulilab.org
 meta_description: Pauli Lab investigates regulators of embryogenesis @ Research Institute of Molecular Pathology (IMP), Vienna Biocenter.
 twitter: andreapauli77
-default_splash: /assets/img/splash/splash-fish.jpg
+default_splash: /assets/img/splash/fish.jpg
 include: ['_pages']
 years: [2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005, 2004]
 permalink: /:year/:month/:day/:title/
