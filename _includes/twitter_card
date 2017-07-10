@@ -1,7 +1,20 @@
-<meta name="twitter:card" content="summary" />
-{% if page.title == 'home' %}
-<meta name="twitter:description" content="{{ site.meta_description }}" />
+{% if page.picture %}
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="{{ page.picture | absolute_url }}" />
+{% else %}
+  {% if page.title == 'home' %}
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content="{{ '/assets/img/PauliLab2016.jpg' | absolute_url }}" />
+  {% else %}
+  <meta name="twitter:card" content="summary" />
+  {% endif %}
 {% endif %}
-<meta name="twitter:title" content="{{ title }}" />
+{% if page.title == 'home' %}
+<meta name="twitter:title" content="{{ site.name }} | {{ site.motto }}" />
+<meta name="twitter:description" content="{{ site.meta_description }}" />
+{% else %}
+<meta name="twitter:title" content="{{ page.title }}" />
+<meta name="twitter:description" content="{{ content | strip_html | truncatewords:30 }}" />
+{% endif %}
 <meta name="twitter:site" content="@{{ site.social.twitter }}" />
 <meta name="twitter:creator" content="@{{ site.social.twitter }}" />

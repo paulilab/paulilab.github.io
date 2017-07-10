@@ -83,3 +83,7 @@ Sitemaps get generated automatically by the jekyll-sitemap plugin.
 https://www.bing.com/webmaster/home/dashboard
 
 https://www.google.com/webmasters/tools
+
+https://developers.facebook.com/tools/debug/og/object/
+
+https://search.google.com/structured-data/testing-tool
