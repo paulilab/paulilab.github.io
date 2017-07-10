@@ -37,7 +37,7 @@
     <style type="text/css">
       .splash {
         padding: 5em 0 5em;
-        background-image: url({% if page.splash %}{{ page.splash }}{% else %}{{ site.baseurl }}/assets/img/splash-fish.jpeg{% endif %});
+        background-image: url({% if page.splash %}{{ page.splash }}{% else %}{{ site.baseurl }}{{ site.default_splash }}{% endif %});
         background-position: center;
         background-size: cover;
         background-attachment: scroll;
