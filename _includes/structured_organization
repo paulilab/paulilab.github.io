@@ -3,7 +3,7 @@
   "name":"{{ site.name }}",
   "url":"{{ site.url }}",
   "email":"andrea(dot)pauli(at)imp.ac.at",
-  "logo":"/android-chrome-192x192.png",
+  "logo":"{{ '/android-chrome-192x192.png' | absolute_url }}",
   "sameAs":[
     {% if site.social.facebook %}"https://www.facebook.com/{{ site.social.facebook }}",{% endif %}
     {% if site.social.instagram %}"https://www.instagram.com/{{ site.social.instagram }}",{% endif %}
