@@ -6,7 +6,6 @@
   "license": "MIT",
   "devDependencies": {
     "bootstrap": "^3.3.7",
-    "font-awesome": "^4.7.0",
     "grunt": "^1.0.1",
     "grunt-autoprefixer": "^3.0.4",
     "grunt-cli": "^1.2.0",
@@ -19,6 +18,7 @@
     "grunt-contrib-uglify": "^3.0.1",
     "grunt-contrib-watch": "^1.0.0",
     "grunt-shell": "^2.1.0",
+    "grunt-uncss": "^0.6.2",
     "jit-grunt": "^0.10.0",
     "jquery": "^3.2.1",
     "less-plugin-clean-css": "^1.5.1",

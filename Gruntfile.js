@@ -73,6 +73,60 @@ module.exports = function(grunt) {
         'assets/css/*.css', '!assets/css/*.min.css'
       ]
     },
+    uncss: {
+      dist: {
+        options: {
+          ignore: [
+            '.img-responsive',
+            '.main img.post-picture',
+            // needed for Bootstrap's pager buttons
+            /(#|\.)pager.*/,
+            // needed for Bootstrap's transitions
+            '.bs.carousel',
+            '.slid.bs.carousel',
+            '.slide.bs.carousel',
+            '.fade',
+            '.fade.in',
+            '.collapse',
+            '.collapse.in',
+            '.collapsing',
+            '.alert-danger',
+            '.logged-in .navbar-default',
+            /^\.carousel-inner.*/,
+            '#float-toc',
+            '#float-toc a',
+            /^\.modal-.*/,
+            '.modal.fade.in',
+            /(#|\.)modal(\-[a-zA-Z]+)?/,
+            '.navbar-toggle.open',
+            '.fade .modal-dialog',
+            '.logged-in .navbar-fixed-top',
+            '.navbar-fixed-top',
+            '/^\.navbar-collapse.*/',
+            '.navbar-inverse .innovations.navbar-toggle.open',
+            '.single-innovation .navbar-inverse .innovations.navbar-toggle.open',
+            '#innovations.collapse.in',
+            'ul.page-numbers li a.prev',
+            '.open',
+            '.open > .dropdown-menu',
+            '.open > a',
+            '.alert-danger',
+            '.visible-xs',
+            '.noscript-warning',
+            '.close',
+            '.alert-dismissible',
+            '.page.calendar .events .panel:hover .fa-angle-down.open',
+            '.fa-angle-down.open'
+          ],
+          stylesheets: ['assets/css/main.css'],
+          htmlroot: './_site/',
+          media: ['(min-width: 992px)', '(min-width: 768px)', '(max-width: 767px)'],
+        },
+        files: {
+          'assets/css/main.min.css': ['_site/*.html', '_site/*/*.html']
+        }
+      }
+    },
     shell: {
       jekyll: {
         command: 'bundle-2.4 exec jekyll build',
@@ -165,7 +219,9 @@ module.exports = function(grunt) {
     grunt.task.run([
       'less:dist',
       'prefix-css:' + lessDest,
-      'compress-css:' + lessDest + ':' + '<%=builddir%>/css/main.min.css']);
+      //'compress-css:' + lessDest + ':' + '<%=builddir%>/css/main.min.css',
+      'uncss:dist'
+    ]);
   });
 
   grunt.registerTask('prefix-css', 'autoprefix a generic css', function(fileSrc) {
