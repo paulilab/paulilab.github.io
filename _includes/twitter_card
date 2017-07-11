@@ -14,7 +14,7 @@
 <meta name="twitter:description" content="{{ site.meta_description }}" />
 {% else %}
 <meta name="twitter:title" content="{{ page.title }}" />
-<meta name="twitter:description" content="{{ page.content | strip_html | truncatewords:30 }}" />
+<meta name="twitter:description" content="{{ page.content | markdownify | strip_html | truncatewords:30 }}" />
 {% endif %}
 <meta name="twitter:site" content="@{{ site.social.twitter }}" />
 <meta name="twitter:creator" content="@{{ site.social.twitter }}" />

@@ -26,7 +26,6 @@ exclude:
   - TODO.md
   - _config.yml
   - assets/img/README.md
-  - bundle
   - js
   - less
   - node_modules
