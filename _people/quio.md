@@ -9,11 +9,16 @@ member_till: now
 position: PhD Student
 properties:
   - ["Master of ribosomes", 50]
-  - ["Knowing the names of all the people in the field.", 30]
+  - ["Knowing the names of all the people in the field", 30]
   - ["Being a talking local backup of pubmed", 20]
   - ["Harry Potter #2", 50]
 ---
 <! --
 Colourful shirts
 Being one of a kind
+
+Living in a material world
+Mortally afraid of RNases
+Hopelessly devoted to uORFs
+A pack of cookies a day keeps the doctor away
 -->

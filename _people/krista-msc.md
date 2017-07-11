@@ -15,4 +15,6 @@ properties:
 ---
 <! --
 You are a Shtinkteer!
+
+American by birth, Swedish at heart
 -->

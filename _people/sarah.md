@@ -13,3 +13,7 @@ properties:
   - ["Ticking things off the list (after 3 repeats)", 20]
   - ["Sweet tooth (particularly at lab meetings)", 10]
 ---
+<!--
+Big Red aficionado
+Addicted to Spanish soap operas
+-->

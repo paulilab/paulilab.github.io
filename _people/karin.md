@@ -16,4 +16,9 @@ properties:
 <! --
 Loving the BF facility
 Lab-mama, taking care of everyone
+
+Being there in 5 "Karin" minutes
+Diagnosing dropsy like a certified veterinarian
+Avoiding vegetable intake…at all costs (did someone say schnitzel?)
+Punctuating every explanation with "blah, blah, blah"
 -->
