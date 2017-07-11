@@ -30,7 +30,7 @@ rotateControl:false
   </div>
   <div class="col-sm-6" markdown="1">
 
-### Address
+## Address
 
 Pauli Lab (3rd floor)  
 Research Institute of Molecular Pathology (IMP)  
@@ -41,7 +41,7 @@ E-mail: andrea dot pauli at imp.ac.at
 
 GPS: [{{ site.location.latitude }},{{ site.location.longitude }}](https://www.google.com/maps/dir//Research+Institute+of+Molecular+Pathology/@{{ site.location.latitude }},{{ site.location.longitude }},12z/)
 
-### How to get here
+## How to get here
 
 * __by plane:__ From the airport take the regional train S7. Get off at St. Marx/Vienna BioCenter (takes 20 min, runs every 30 min)
 * __by train:__ Arriving to either the Hauptbahnhof or Westbahnhof railway station take the tram no. 18. Get off at Schlachthausgasse (takes 13 resp. 25 min).
@@ -49,7 +49,7 @@ GPS: [{{ site.location.latitude }},{{ site.location.longitude }}](https://www.go
   take the exit Knoten Prater. Keep in mind that parking on the street
   is restricted to 2 hrs with a valid parking ticket.
 
-## Links
+### Links
 
 * [Connection finder](https://www.wienerlinien.at/eportal3/ep/tab.do?tabId=0) for the local transport.
 * Detailed official information on [parking in Vienna](https://www.wien.gv.at/english/transportation/parking/shortterm.htm).
