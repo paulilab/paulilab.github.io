@@ -120,10 +120,10 @@ module.exports = function(grunt) {
           ],
           stylesheets: ['assets/css/main.css'],
           htmlroot: './_site/',
-          media: ['(min-width: 992px)', '(min-width: 768px)', '(max-width: 767px)'],
+          media: ['(min-width: 992px)', '(min-width: 768px)', '(max-width: 767px)']
         },
         files: {
-          'assets/css/main.min.css': ['_site/*.html', '_site/*/*.html']
+          'assets/css/main.css': ['_site/*.html', '_site/*/*.html']
         }
       }
     },
@@ -219,8 +219,8 @@ module.exports = function(grunt) {
     grunt.task.run([
       'less:dist',
       'prefix-css:' + lessDest,
-      //'compress-css:' + lessDest + ':' + '<%=builddir%>/css/main.min.css',
-      'uncss:dist'
+      'uncss:dist',
+      'compress-css:' + lessDest + ':' + '<%=builddir%>/css/main.min.css'
     ]);
   });
 
