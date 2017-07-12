@@ -3,7 +3,7 @@ layout: simple
 title: Publications
 permalink: /pubs/
 splash: /assets/img/splash/books2.jpg
-description: "Pauli Lab Publications on short proteins, regulation of translation, fertilization and gastrulation; all in the zebrafish model organism."
+description: "Pauli Lab Publications on small peptides, uORFs, fertilization, cell movement; mostly in zebrafish embryogenesis."
 ---
 {% for year in site.years %}
   {% assign pubs = site.pubs | where: "year", year %}
