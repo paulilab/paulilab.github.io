@@ -72,7 +72,11 @@ module.exports = function(grunt) {
       },
       js: {
         src: '<%= concat.js.dest %>',
-        dest: '<%=builddir%>/js/main.min.js'
+        dest: '<%= builddir %>/js/main.min.js'
+      },
+      funjs: {
+        src: '<%= concat.funjs.dest %>',
+        dest: '<%= builddir %>/js/fun.min.js'
       }
     },
     clean: {
@@ -248,6 +252,7 @@ module.exports = function(grunt) {
     'concat:js',
     'uglify:js',
     'concat:funjs',
+    'uglify:funjs',
     'build-css',
     'shell:jekyll',
     'uncss:dist',
