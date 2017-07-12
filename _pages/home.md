@@ -3,6 +3,8 @@ layout: default
 title: home
 permalink: /
 splash: /assets/img/splash/fish5c.jpg
+picture: /assets/img/PauliLab2016.jpg
+description: "{{ site.meta_description }}"
 ---
 <div class="row">
 <div class="col-sm-4" markdown="1">

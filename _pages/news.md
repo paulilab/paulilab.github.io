@@ -3,6 +3,7 @@ layout: simple
 title: Lab News
 permalink: /news/
 splash: /assets/img/splash/embryos.jpg
+description: "{{ site.posts[0].excerpt }}"
 ---
 
 {% for post in site.posts %}

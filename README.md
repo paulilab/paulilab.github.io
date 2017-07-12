@@ -7,6 +7,14 @@ Editing
 * [Editing files in the browser](https://help.github.com/articles/editing-files-in-your-repository/)
 * [Markdown syntax](https://daringfireball.net/projects/markdown/syntax)
 
+### Appearance in the search results and on Facebook/Twitter
+
+For pages specify `description: "Some description..."` to have the text displayed in the search results and on Facebook/Twitter.
+
+For news posts description gets automatically generated from the post's content.
+
+Specifying `picture: /assets/img/some_picture.jpg` for any page or news post results in the image being used on Facebook/Twitter.
+
 
 ### splash image
 

@@ -3,6 +3,7 @@ layout: simple
 title: Research
 permalink: /research/
 splash: /assets/img/splash/bottles.jpg
+description: "Functions of short translated open reading frames (ORFs) in the context of development"
 ---
 
 ## Functions of short translated open reading frames (ORFs) in the context of development

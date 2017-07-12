@@ -3,6 +3,7 @@ layout: default
 title: Contact
 permalink: /contact/
 splash: /assets/img/splash/imp.jpg
+description: "Address: Research Institute of Molecular Pathology (IMP), {{ site.location.street }}, {{ site.location.postal_code }} {{ site.location.city }}, {{ site.location.country }}. E-mail: andrea dot pauli at imp.ac.at"
 ---
 <div class="row">
   <div class="col-sm-6">

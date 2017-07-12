@@ -1,16 +1,14 @@
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="website" />
-{% if page.title == 'home' %}
+{% if page.url == '/' %}
 <meta property="og:title" content="{{ site.name }}" />
-<meta property="og:description" content="{{ site.meta_description }}" />
 {% else %}
-<meta property="og:title" content="{{ page.title | site.name }}" />
-<meta property="og:description" content="{{ page.excerpt | strip_html }}" />
+<meta property="og:title" content="{{ page.title + ' | ' + site.name }}" />
 {% endif %}
+{% capture description %}{% if page.description %}{{ page.description | liquify }}{% else %}{{ page.excerpt | strip_html }}{% endif %}{% endcapture %}
+{% if description != '' %}<meta property="og:description" content="{{ description }}" />{% endif %}
 {% if page.picture %}
 <meta property="og:image" content="{{ page.picture | absolute_url }}" />
-{% else %}
-<meta property="og:image" content="{{ '/assets/img/PauliLab2016.jpg' | absolute_url }}" />
 {% endif %}
 <meta property="og:url" content="{{ page.url | absolute_url }}" />
 <meta property="og:site_name" content="{{ site.name }}" />
