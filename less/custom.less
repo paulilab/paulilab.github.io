@@ -127,4 +127,43 @@ body {
       top: 10px;
     }
   }
+  #instafeed {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: -.5vw;
+    margin-left: -.5vw;
+    margin-right: -.5vw;
+    &:hover {
+      a {
+        opacity: .8;
+      }
+    }
+    a {
+      flex-grow: 1;
+      flex-basis: calc(100%/3);
+      line-height: 0;
+      transition: opacity 200ms ease-in-out;
+      border: .5vw solid transparent;
+      @media screen and (min-width: 1450px) {
+        flex-basis: calc(100%/4);
+      }
+      @media screen and (max-width: 1050px) {
+        flex-basis: calc(100%/2);
+      }
+      @media screen and (max-width: 900px) {
+        flex-basis: calc(100%/4);
+      }
+      @media screen and (max-width: 750px) {
+        flex-basis: calc(100%/3);
+      }
+      &:hover {
+        opacity: 1;
+      }
+    }
+    img {
+      width: 100%;
+    }
+  }
 }

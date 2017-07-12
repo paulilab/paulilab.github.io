@@ -9,6 +9,7 @@ module.exports = function(grunt) {
     builddir: 'assets',
     bootstrapdir: 'node_modules/bootstrap/',
     jquerydir: 'node_modules/jquery/dist',
+    instafeeddir: 'node_modules/instafeed.js',
     banner: '/*!\n' +
     ' * <%= pkg.name %> v<%= pkg.version %>\n' +
     ' * Homepage: <%= pkg.homepage %>\n' +
@@ -52,6 +53,13 @@ module.exports = function(grunt) {
           //'<%=bootstrapdir%>/js/affix.js'
         ],
         dest: '<%=builddir%>/js/main.js'
+      },
+      funjs: {
+        src: [
+          '<%= instafeeddir %>/instafeed.min.js',
+          'js/fun.js'
+        ],
+        dest: '<%= builddir %>/js/fun.js'
       }
     },
     uglify: {
@@ -239,6 +247,7 @@ module.exports = function(grunt) {
   grunt.registerTask('build', [
     'concat:js',
     'uglify:js',
+    'concat:funjs',
     'build-css',
     'shell:jekyll',
     'uncss:dist',
