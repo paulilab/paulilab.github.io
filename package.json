@@ -19,6 +19,7 @@
     "grunt-contrib-watch": "^1.0.0",
     "grunt-shell": "^2.1.0",
     "grunt-uncss": "^0.6.2",
+    "instafeed.js": "^1.4.1",
     "jit-grunt": "^0.10.0",
     "jquery": "^3.2.1",
     "less-plugin-clean-css": "^1.5.1",
