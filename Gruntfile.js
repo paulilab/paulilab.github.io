@@ -219,8 +219,7 @@ module.exports = function(grunt) {
     grunt.task.run([
       'less:dist',
       'prefix-css:' + lessDest,
-      'uncss:dist',
-      'compress-css:' + lessDest + ':' + '<%=builddir%>/css/main.min.css'
+      'compress-css:' + lessDest + ':<%=builddir%>/css/main.min.css'
     ]);
   });
 
@@ -242,6 +241,8 @@ module.exports = function(grunt) {
     'uglify:js',
     'build-css',
     'shell:jekyll',
+    'uncss:dist',
+    'compress-css:<%=builddir%>/css/main.css:<%=builddir%>/css/main.min.css',
     'clean:assets'
   ]);
 
