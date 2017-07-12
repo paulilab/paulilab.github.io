@@ -59,7 +59,13 @@ technologies.
 
 ## About us
 
-<img class="img-responsive" src="{{ site.baseurl }}/assets/img/PauliLab2017.jpg" alt="Pauli Lab members">
+<img
+  class="img-responsive"
+  srcset="{{ site.baseurl }}/assets/img/PauliLab2017-360px.jpg 360w,
+          {{ site.baseurl }}/assets/img/PauliLab2017-709px.jpg 709w"
+  sizes="(min-width: 768px) 360px, 100vw"
+  src="{{ site.baseurl }}/assets/img/PauliLab2017-360px.jpg"
+  alt="Pauli Lab members">
 
 The Pauli lab has launched in September 2015. Currently, we are an international
 group with 3 PhD students, 1 Master student, 1 computer scientist and 1
