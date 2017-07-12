@@ -4,7 +4,7 @@ title: People
 permalink: /people/
 splash: /assets/img/splash/headsback.jpg
 picture: /assets/img/PauliLab2016.jpg
-description: "{{ page.content | liquify | strip_html | truncatewords: 15 }}"
+#description: "{{ page.content | liquify | strip_html | truncatewords: 15 }}"
 ---
 
 {% assign peeps = site.people | sort: 'last_name' %}

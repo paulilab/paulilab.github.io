@@ -9,7 +9,7 @@
 {% else %}
 <meta name="twitter:title" content="{{ page.title + ' | ' + site.name }}" />
 {% endif %}
-{% capture description %}{% if page.description %}{{ page.description | liquify }}{% else %}{{ page.excerpt | strip_html }}{% endif %}{% endcapture %}
+{% capture description %}{% if page.description %}{{ page.description }}{% else %}{{ page.excerpt | strip_html }}{% endif %}{% endcapture %}
 {% if description != '' %}<meta name="twitter:description" content="{{ description }}" />{% endif %}
 <meta name="twitter:site" content="@{{ site.social.twitter }}" />
 <meta name="twitter:creator" content="@{{ site.social.twitter }}" />

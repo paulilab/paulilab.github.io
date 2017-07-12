@@ -4,7 +4,7 @@ title: home
 permalink: /
 splash: /assets/img/splash/fish5c.jpg
 picture: /assets/img/PauliLab2016.jpg
-description: "{{ site.meta_description }}"
+description: "Pauli Lab investigates regulators of embryogenesis @ Research Institute of Molecular Pathology (IMP), Vienna Biocenter."
 ---
 <div class="row">
 <div class="col-sm-4" markdown="1">
