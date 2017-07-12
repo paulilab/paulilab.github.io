@@ -32,7 +32,8 @@
     }
     .splash h1 {
       font-size: 4em;
-text-shadow: 2px 2px 8px #286090;
+      font-weight: 800;
+      text-shadow: 4px 4px 12px #3f3f3f;
     }
     @media (max-width: 767px) {
       .splash {

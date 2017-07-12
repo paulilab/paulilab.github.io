@@ -77,7 +77,7 @@ module.exports = function(grunt) {
       dist: {
         options: {
           ignore: [
-            '.img-responsive',
+            // needed (no idea why it gets uncss-ed)
             '.main img.post-picture',
             // needed for Bootstrap's pager buttons
             /(#|\.)pager.*/,

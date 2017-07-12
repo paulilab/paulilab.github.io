@@ -97,11 +97,11 @@ basic research institute that is part of the
 </div>
 <div class="funding" aria-hidden="true">
 
-<img src="{{ site.baseurl }}/assets/img/logo/imp1-400px.png" alt="IMP logo" title="Research Institute of Molecular Pathology (IMP)">
-<img src="{{ site.baseurl }}/assets/img/logo/fwf-400px.png" alt="FWF logo" title="FWF START grant 2017">
-<img src="{{ site.baseurl }}/assets/img/logo/hfsp-110px.png" alt="HFSP logo" title="HFSP Career Development Award">
-<img src="{{ site.baseurl }}/assets/img/logo/bif-400px.png" alt="BIF logo" title="Boehringer Ingelheim Fonds">
-<img src="{{ site.baseurl }}/assets/img/logo/oeaw-400px.png" alt="OEAW logo" title="Austrian Academy of Sciences (ÖAW)">
+<img id="imp-logo" src="{{ site.baseurl }}/assets/img/logo/imp1-180px.png" alt="IMP logo" title="Research Institute of Molecular Pathology (IMP)">
+<img id="fwf-logo" src="{{ site.baseurl }}/assets/img/logo/fwf-200px.png" alt="FWF logo" title="FWF START grant 2017">
+<img id="hfsp-logo" src="{{ site.baseurl }}/assets/img/logo/hfsp-110px.png" alt="HFSP logo" title="HFSP Career Development Award">
+<img id="bif-logo" src="{{ site.baseurl }}/assets/img/logo/bif-200px.png" alt="BIF logo" title="Boehringer Ingelheim Fonds">
+<img id="oeaw-logo" src="{{ site.baseurl }}/assets/img/logo/oeaw-200px.png" alt="OEAW logo" title="Austrian Academy of Sciences (ÖAW)">
 
 </div>
 

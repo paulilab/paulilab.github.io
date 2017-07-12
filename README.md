@@ -100,3 +100,7 @@ https://www.google.com/webmasters/tools
 https://developers.facebook.com/tools/debug/og/object/
 
 https://search.google.com/structured-data/testing-tool
+
+https://www.seocentro.com/tools/seo/seo-analyzer.html
+
+http://www.seowebpageanalyzer.com/

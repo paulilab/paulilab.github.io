@@ -6,6 +6,17 @@ splash: /assets/img/splash/bottles.jpg
 description: "Functions of short translated open reading frames (ORFs) in the context of development"
 ---
 
+<!-- comments by Benedikt:
+
+Image quality in the body (e.g. http://paulilab.org/research/) could be a bit
+better, there are compression flaws visible along some edges visible especially
+where text and lines appear on neutral, white background
+
+Consider starting with a “prosaic summary” similar to an abstract at
+http://paulilab.org/research/
+
+-->
+
 ## Functions of short translated open reading frames (ORFs) in the context of development
 
 {% include figure_left
