@@ -74,6 +74,11 @@ Developmental setup
 Running `grunt build` is enough to completely build the website inside `_site`
 subdirectory.
 
+
+### Github pages versions
+
+[Dependencies and versions](https://pages.github.com/versions/)
+
 ### Developing
 
 Running `grunt` (the default task) starts a local webserver on
