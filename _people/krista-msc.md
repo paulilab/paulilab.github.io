@@ -9,12 +9,11 @@ member_till: now
 position: Master Student
 properties:
   - ["Master of in vitro fertilization experiments", 70]
-  - ["Prefers home-made sandwiches over cantine food", 20]
-  - ["Not too proud of being American these days", 9]
-  - ["Wales and hedgehogs hedgehogs hedgehogs!", 100]
+  - ["Prefers homemade sandwiches over cafeteria food", 20]
+  - ["American by birth, Swedish at heart", 25]
+  - ["Zoological interests from whales to tardigrades", 80]
 ---
 <! --
-You are a Shtinkteer!
 
-American by birth, Swedish at heart
+
 -->
