@@ -1,12 +1,12 @@
 ---
 first_name: Dori
-last_name: The Whale
+last_name: the Zebrafish
 img: /assets/img/people/dori.jpg
 email: not.that.we.know.of@imp.ac.at
 country: Deep Sea
 member_from: the very beginning
 member_till: now
-position: Masquot
+position: Mascot
 properties:
   - ["Overseeing experiments", 90]
   - ["Swimming around.", 10]
