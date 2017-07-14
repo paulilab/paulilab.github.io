@@ -67,9 +67,9 @@ technologies.
   src="{{ site.baseurl }}/assets/img/PauliLab2017-360px.jpg"
   alt="Pauli Lab members">
 
-The Pauli lab has launched in September 2015. Currently, we are an international
-group with 3 PhD students, 1 Master student, 1 computer scientist and 1
-lab-manager (and a PI...).
+The Pauli lab was launched in September 2015. Currently, we are an international
+group with 3 Ph.D. students, 1 master student, 1 computer scientist and 1
+lab manager (and a PI...).
 
 [Learn more &hellip;]({{ site.baseurl }}/people/)
 
@@ -95,7 +95,7 @@ basic research institute that is part of the
 <div class="sr-only">
 
 * Research Institute of Molecular Pathology (IMP)
-* FWF START grant 2017
+* FWF START Grant 2017
 * HFSP Career Development Award
 * Boehringer Ingelheim Fonds
 * Austrian Academy of Sciences (ÖAW)
