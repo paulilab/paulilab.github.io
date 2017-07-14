@@ -8,8 +8,8 @@ social:
   # youtube, facebook, instagram...
 default_splash: /assets/img/splash/fish.jpg
 location:
-  latitude: 48.1893926
-  longitude: 16.3326227
+  latitude: 48.189413
+  longitude: 16.402834
   street: Campus-Vienna-Biocenter 1
   city: Vienna
   country: Austria
