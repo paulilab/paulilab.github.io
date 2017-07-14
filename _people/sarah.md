@@ -8,9 +8,9 @@ member_from: November 2015
 member_till: now
 position: PhD student
 properties:
-  - ["Having fun with a very short protein.", 60]
-  - ["Master of (fish) gametes", 20]
-  - ["Ticking things off the list (after 3 repeats)", 20]
+  - ["Master of (fish) gametes", 60]
+  - ["Ticking things off the list", 20]
+  - ["Addicted to Spanish soap operas", 20]
   - ["Sweet tooth (particularly at lab meetings)", 10]
 ---
 <!--
