@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Krista joins the lab as a Master student
+title: Krista joins the lab as a master student
 ---
-Welcome to Krista, the very first Master student in the Pauli lab! 
+Welcome to Krista, the very first master student in the Pauli lab! 
