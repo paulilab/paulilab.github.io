@@ -9,9 +9,9 @@ member_till: now
 position: PhD Student
 properties:
   - ["Master of ribosomes", 50]
+  - ["Hopelessly devoted to u...ORFs", 50]
   - ["Knowing the names of all the people in the field", 30]
   - ["Being a talking local backup of pubmed", 20]
-  - ["Harry Potter #2", 50]
 ---
 <! --
 Colourful shirts
