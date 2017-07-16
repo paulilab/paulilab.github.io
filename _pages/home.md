@@ -104,7 +104,7 @@ basic research institute that is part of the
 <div class="funding" aria-hidden="true">
 
 <img id="imp-logo" src="{{ site.baseurl }}/assets/img/logo/imp1-180px.png" alt="IMP logo" title="Research Institute of Molecular Pathology (IMP)">
-<img id="fwf-logo" src="{{ site.baseurl }}/assets/img/logo/fwf-200px.png" alt="FWF logo" title="FWF START grant 2017">
+<img id="fwf-logo" src="{{ site.baseurl }}/assets/img/logo/fwf-200px.png" alt="FWF logo" title="FWF START Grant 2017">
 <img id="hfsp-logo" src="{{ site.baseurl }}/assets/img/logo/hfsp-110px.png" alt="HFSP logo" title="HFSP Career Development Award">
 <img id="bif-logo" src="{{ site.baseurl }}/assets/img/logo/bif-200px.png" alt="BIF logo" title="Boehringer Ingelheim Fonds">
 <img id="oeaw-logo" src="{{ site.baseurl }}/assets/img/logo/oeaw-200px.png" alt="OEAW logo" title="Austrian Academy of Sciences (ÖAW)">
