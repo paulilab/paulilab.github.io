@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Pauli lab members attend conferences
+title: July = Conference time for Pauli lab members!
 picture: /assets/img/posts/20170730_GRCforfertilization.jpg
 published: true
 ---
 
-July was conference time: 
+July was conference time! 
 - Jessica attended the 10th European Zebrafish Meeting in Budapest, Hungary;
 - Sarah & Andi attended the Gordon Research Conference for Fertilization & Activation of Development at Holderness School, NH, USA;
 - Quio attended the EMBO Conference on RNA localization and local translation in Barga, Italy.
