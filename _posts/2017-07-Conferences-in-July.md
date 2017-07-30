@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Pauli lab members attend conferences
+picture: /assets/img/posts/20170730_GRCforfertilization.jpg
 published: true
 ---
 
