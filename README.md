@@ -1,6 +1,8 @@
 Webpage of the Lab of Andrea Pauli
 ==================================
 
+This is the source of the webpage, the webpage itself is available at [paulilab.org](http:/paulilab.org/).
+
 Editing
 -------
 
