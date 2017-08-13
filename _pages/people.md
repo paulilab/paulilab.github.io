@@ -2,7 +2,7 @@
 layout: default
 title: People
 permalink: /people/
-splash: /assets/img/splash/headsback.jpg
+splash: /assets/img/splash/PauliLab_hike.jpg
 picture: /assets/img/PauliLab2016.jpg
 #description: "{{ page.content | liquify | strip_html | truncatewords: 15 }}"
 ---
