@@ -5,7 +5,7 @@ img: /assets/img/people/tiago.jpg
 email: first.middle@imp.ac.at
 country: Brazil
 member_from: July 2017
-member_till: now
+member_till: August 2017
 position: VBC Summer Student
 properties:
   - ["Expert in summer schooling", 60]
@@ -13,3 +13,4 @@ properties:
   - ["Jumping photo specialist", 10]
   - ["Having many many friends in Vienna", 10]
 ---
+
