@@ -127,11 +127,12 @@ body {
       top: 10px;
     }
   }
-  #instafeed {
+  #userfeed {
     display: flex;
-    flex-wrap: wrap;
+    flex-flow: row wrap;
     justify-content: space-between;
     align-items: center;
+    align-content: space-around;
     margin-top: -.5vw;
     margin-left: -.5vw;
     margin-right: -.5vw;
@@ -141,7 +142,6 @@ body {
       }
     }
     a {
-      flex-grow: 1;
       flex-basis: calc(100%/3);
       line-height: 0;
       transition: opacity 200ms ease-in-out;
