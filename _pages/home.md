@@ -99,6 +99,7 @@ basic research institute that is part of the
 * HFSP Career Development Award
 * Boehringer Ingelheim Fonds
 * Austrian Academy of Sciences (ÖAW)
+* RNA Society (RNA Salon)
 
 </div>
 <div class="funding" aria-hidden="true">
@@ -108,7 +109,7 @@ basic research institute that is part of the
 <img id="hfsp-logo" src="{{ site.baseurl }}/assets/img/logo/hfsp-110px.png" alt="HFSP logo" title="HFSP Career Development Award">
 <img id="bif-logo" src="{{ site.baseurl }}/assets/img/logo/bif-200px.png" alt="BIF logo" title="Boehringer Ingelheim Fonds">
 <img id="oeaw-logo" src="{{ site.baseurl }}/assets/img/logo/oeaw-200px.png" alt="OEAW logo" title="Austrian Academy of Sciences (ÖAW)">
-<img id="RNA-logo" src="{{ site.baseurl }}/assets/img/logo/RNA logo_small.jpg" alt="RNA logo" title="RNA Society logo (RNASalon)">
+<img id="RNA-logo" src="{{ site.baseurl }}/assets/img/logo/RNA logo_small.jpg" alt="RNA logo" title="RNA Society (RNASalon)">
 </div>
 
 
