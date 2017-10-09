@@ -1,7 +1,7 @@
 ---
 first_name: Alicia
 last_name: Peschel
-img: /assets/img/people/krista.jpg
+img:
 email: first.last@imp.ac.at
 country: Germany
 member_from: April

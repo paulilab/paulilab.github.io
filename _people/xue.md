@@ -1,7 +1,7 @@
 ---
 first_name: Xue
 last_name: Strobl
-img: /assets/img/people/xue.jpg
+img:
 email: first.last@imp.ac.at
 country: Austria
 member_from: October 2017
