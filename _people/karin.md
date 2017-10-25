@@ -8,10 +8,10 @@ member_from: September 2015
 member_till: now
 position: Lab Manager
 properties:
-  - ["Taking care of everyone", 51]
-  - ["Petting every single fish in the fish facility", 49]
-  - ["Killing the cute fish without remorse", 1]
-  - ["Becoming a dragon boating pro", 9]
+  - ["Taking care of everyone", 100]
+  - ["Petting every single fish in the fish facility", 100]
+  - ["Killing the cute fish without remorse", 100]
+  - ["Becoming a dragon boating pro", 100]
 ---
 <! --
 Loving the BF facility
