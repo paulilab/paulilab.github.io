@@ -67,8 +67,7 @@ technologies.
   src="{{ site.baseurl }}/assets/img/PauliLab2017-360px.jpg"
   alt="Pauli Lab members">
 
-The Pauli lab was launched in September 2015. Currently, we are an international
-group with 3 Ph.D. students, 1 master student, 1 computer scientist and 1
+The Pauli lab is an international group with 5 Ph.D. students, 1 master student, 1 computer scientist and 1
 lab manager (and a PI...).
 
 [Learn more &hellip;]({{ site.baseurl }}/people/)
