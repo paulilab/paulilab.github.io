@@ -6,7 +6,7 @@ email: first.last@imp.ac.at
 country: Austria
 member_from: October 2017
 member_till: now
-position: Master Student (shared with Cochella lab)
+position: Master Student (joint with the Cochella lab)
 properties:
 
 ---
