@@ -6,7 +6,7 @@ email: last@imp.ac.at
 country: Czechia
 member_from: May 2016
 member_till: now
-position: Computer Scientist (join with the Zimmer lab)
+position: Computer Scientist (joint with the Zimmer lab)
 properties:
   - ["Chasing after the images of thousands of cells", 65]
   - ["Drinking hectolitres of green tea", 30]
