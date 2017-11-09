@@ -1,5 +1,5 @@
 ---
-authors: "Norris, M. L., Pauli, A., Gagnon, J. A., Lord, N. D., Rogers, K. W., Mosimann, C., Zon, L. I., Schier, A. F."
+authors: "Norris, M. L., **Pauli, A.,** Gagnon, J. A., Lord, N. D., Rogers, K. W., Mosimann, C., Zon, L. I., Schier, A. F."
 year: 2017
 title: "Toddler signaling regulates mesodermal cell migration downstream of Nodal signaling"
 journal: eLife
