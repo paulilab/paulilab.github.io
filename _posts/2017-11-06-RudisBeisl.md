@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lab outing: Gansl dinner
+title: Lab outing to Gansl dinner
 picture: /assets/img/posts/20171106-RudisBeisl.jpg
 published: true
 ---
