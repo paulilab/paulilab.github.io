@@ -6,5 +6,5 @@ email: first.last@imp.ac.at
 country: Austria
 member_from: November 2017
 member_till: now
-position: intern
+position: Intern
 ---
