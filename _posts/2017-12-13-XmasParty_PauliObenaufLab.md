@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Xmas Scavenger Hunt of the Pauli&Obenauf Labs 
+title: Xmas Scavenger Hunt of the Pauli & Obenauf Labs 
 picture: /assets/img/posts/PauliObenauf_ChristmasScavengerHunt_v2_small.jpg
 published: true
 ---
