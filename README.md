@@ -58,18 +58,20 @@ Developmental setup
 
 ### Installs to compile js and less
 
-1. Install nodejs + npm from ports (now: nodejs6, npm4)
-2. Install grunt-cli globally
-    npm install -g grunt-cli
-3. Install the rest locally using package.json
+1. Install nodejs from http://nodejs.org/en/download/ (8.9.4)
+   This also bundles npm.
+2. Install the rest locally using package.json
     npm install
+3. Install grunt-cli globally
+    npm install -g grunt-cli
+   or put `./node_modules/.bin/` on your `$PATH`.
 
 ### Installs to run jekyll
 
 1. Install recent ruby version from MacPorts (now: 2.4)
     sudo port install ruby24 rb24-bundler
 2. Install the rest locally
-    bundle-2.4 install
+    bundle-2.4 install --path vendor/bundle
 
 ### Building the website
 
