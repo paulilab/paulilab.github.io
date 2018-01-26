@@ -13,4 +13,3 @@ properties:
   - ["Eating one too many gummy bears", 14]
   - ["Raising dinos", 3]
 ---
-<!-- Other things PIs have to do…. -->

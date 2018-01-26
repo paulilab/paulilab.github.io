@@ -13,7 +13,3 @@ properties:
   - ["Addicted to Spanish soap operas", 20]
   - ["Sweet tooth (particularly at lab meetings)", 10]
 ---
-<!--
-Big Red aficionado
-Addicted to Spanish soap operas
--->

@@ -13,7 +13,3 @@ properties:
   - ["American by birth, Swedish at heart", 25]
   - ["Zoological interests from whales to tardigrades", 80]
 ---
-<! --
-
-
--->

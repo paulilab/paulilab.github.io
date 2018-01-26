@@ -13,4 +13,3 @@ properties:
   - ["Jumping photo specialist", 10]
   - ["Having many many friends in Vienna", 10]
 ---
-
