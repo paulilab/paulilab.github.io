@@ -13,7 +13,7 @@ properties:
   - ["Learning deep, very deep...", 100]
   - ["Prefers nuts over chocolate", 5]
 ---
-In 2008, Tomas got his MS.c. degree in computer graphics from the
+In 2008, Tomas got his M.Sc. degree in computer graphics from the
 [Charles University Prague (MFF)](https://www.mff.cuni.cz/to.en/) (2001-2008). 
 He left academia and worked for few years on various machine learning and computer vision topics in industry. 
 In 2016, he got his Ph.D. from the University of Vienna for his computational work on
