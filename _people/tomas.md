@@ -19,9 +19,9 @@ afterwards he left academia and worked on various machine
 learning & computer vision topics in the industry.
 In 2016, he got his PhD from the Uni Wien for his computational work on
 enhancer biology in the [Alex Stark Group @ IMP](http://starklab.org/) &
-[Christoph Lampert Groups @ IST Austria](http://pub.ist.ac.at/~chl/).
+[Christoph Lampert Group @ IST Austria](http://pub.ist.ac.at/~chl/).
 In the Pauli Lab, he develops image analysis methods for developmental
-biologists, mainly focussing on cell tracking in TB-sized
+biologists, mainly focussing on cell tracking in terabyte-sized
 data sets.
 He also works on imaging and image analysis methods for the neuroscientists in
-the Zimmer Lab.
+the [Zimmer Lab](https://www.imp.ac.at/groups/manuel-zimmer/).
