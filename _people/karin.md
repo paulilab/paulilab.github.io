@@ -1,7 +1,7 @@
 ---
 first_name: Karin
 last_name: Panser
-img: /assets/img/people/karin.jpg
+img: /assets/img/people/14890580_1430283800322841_96778411983948776_o.jpg
 email: first.last@imp.ac.at
 country: Austria
 member_from: September 2015
