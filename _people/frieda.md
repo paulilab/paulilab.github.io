@@ -10,5 +10,5 @@ position: PhD Student
 properties:
 
 ---
-Frieda holds a M.Sc. degree in biochemistry from the Martin Luther University in Halle/Saale, Germany. She conducted her M.Sc. thesis (2015-2016) in the lab of Ruby Shalom-Feuerstein at Technion – Israel Institute of Technology, where she studied the function of microRNAs in skin development. Joining the Pauli lab as a Ph.D. student in October 2017, Frieda shifted her focus and is now interested in understanding translational regulation at the level of the ribosome during zebrafish development. Frieda currently holds the “newbie” status in the lab. In her free time, Frieda enjoys running and painting.
+Frieda holds an M.Sc. degree in biochemistry from the Martin Luther University in Halle/Saale, Germany. She conducted her M.Sc. thesis (2015-2016) in the lab of Ruby Shalom-Feuerstein at Technion – Israel Institute of Technology, where she studied the function of microRNAs in skin development. Joining the Pauli lab as a Ph.D. student in October 2017, Frieda shifted her focus and is now interested in understanding translational regulation at the level of the ribosome during zebrafish development. Frieda currently holds the “newbie” status in the lab. In her free time, Frieda enjoys running and painting.
 
