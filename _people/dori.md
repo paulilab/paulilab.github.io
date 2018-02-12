@@ -4,7 +4,7 @@ last_name: the Zebrafish
 img: /assets/img/people/dori.jpg
 email: not.that.we.know.of@imp.ac.at
 country: Deep Sea
-member_from: the very beginning
+member_from: NA
 member_till: now
 position: Mascot
 properties:

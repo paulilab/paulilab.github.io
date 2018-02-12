@@ -10,7 +10,11 @@
     <ul>
       <li>{{ peep.email }}</li>
       <li>{{ peep.country }}</li>
+    {% if peep.member_from != 'NA' %}
       <li>Since {{ peep.member_from }}</li>
+    {% else %}
+      <li>Since the very beginning (September 2015)</li>
+    {% endif %}
     </ul>
   </div>
   <div class="col-sm-4 peep-stuff">
