@@ -67,7 +67,15 @@ body {
     padding: 0.5em;
     margin: 0 -0.5em;
     .peep {
-      width: 400px;
+      @media (max-width: 575px) {
+        width: 100%;
+      }
+      @media (min-width: 576px) and (max-width: 1439px) {
+        width: 50%;
+      }
+      @media (min-width: 1440px) {
+        width: 33%;
+      }
       padding: 1em;
       .peep-photo {
         float: left;
