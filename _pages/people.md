@@ -9,6 +9,8 @@ picture: /assets/img/splash/paulilab_recess_hike_2017.jpg
 
 {% assign peeps = site.people | sort: 'last_name' %}
 
+<div class="peep-container">
+
 {% for peep in peeps %}
  {% if peep.position != 'Principal Investigator' %}
    {% continue %}
@@ -25,6 +27,8 @@ picture: /assets/img/splash/paulilab_recess_hike_2017.jpg
  {% endif %}
  {% include peep %}
 {% endfor %}
+
+</div>
 
 <h3>Interns</h3>
 
