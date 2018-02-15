@@ -17,7 +17,7 @@ picture: /assets/img/splash/paulilab_recess_hike_2017.jpg
 
 <div class="peep-container">
 
-{% for peep in peeps | where:'position', 'Principal Investigator' %}
+{% for peep in peeps %}
  {% if peep.position != 'Principal Investigator' %}
    {% continue %}
  {% endif %}
