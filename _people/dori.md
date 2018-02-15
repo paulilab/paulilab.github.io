@@ -7,8 +7,4 @@ country: Deep Sea
 member_from: NA
 member_till: now
 position: Mascot
-properties:
-  - ["Overseeing experiments", 90]
-  - ["Swimming around.", 10]
-  - ["Being cute", 10]
 ---
