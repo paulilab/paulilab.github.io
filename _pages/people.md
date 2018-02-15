@@ -7,11 +7,17 @@ picture: /assets/img/splash/paulilab_recess_hike_2017.jpg
 #description: "{{ page.content | liquify | strip_html | truncatewords: 15 }}"
 ---
 
-{% assign peeps = site.people | sort: 'last_name' %}
+{% assign peeps = '' | split:'' %}
+{% for peep in site.people %}
+{% if peep.published != false %}
+{% assign peeps = peeps | push:peep %}
+{% endif %}
+{% endfor %}
+{% assign peeps = peeps | sort: 'last_name' %}
 
 <div class="peep-container">
 
-{% for peep in peeps %}
+{% for peep in peeps | where:'position', 'Principal Investigator' %}
  {% if peep.position != 'Principal Investigator' %}
    {% continue %}
  {% endif %}
