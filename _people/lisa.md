@@ -1,7 +1,7 @@
 ---
 first_name: Lisa
 last_name: Renz
-img: /assets/img/people/unknown.jpg
+img: /assets/img/people/lisa.jpg
 email: first.last@imp.ac.at
 country: Austria
 member_from: February 2018
