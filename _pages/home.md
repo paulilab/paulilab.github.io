@@ -3,7 +3,7 @@ layout: default
 title: home
 permalink: /
 splash: /assets/img/splash/fish5c.jpg
-picture: /assets/img/PauliLab2016.jpg
+picture: /assets/img/PauliLab2018.jpg
 description: "Pauli Lab investigates regulators of embryogenesis @ Research Institute of Molecular Pathology (IMP), Vienna Biocenter."
 ---
 <div class="row">
