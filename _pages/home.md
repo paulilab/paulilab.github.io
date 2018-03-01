@@ -61,10 +61,10 @@ technologies.
 
 <img
   class="img-responsive"
-  srcset="{{ site.baseurl }}/assets/img/PauliLab2017-360px.jpg 360w,
-          {{ site.baseurl }}/assets/img/PauliLab2017-709px.jpg 709w"
+  srcset="{{ site.baseurl }}/assets/img/PauliLab2018-360px.jpg 360w,
+          {{ site.baseurl }}/assets/img/PauliLab2018-709px.jpg 709w"
   sizes="(min-width: 768px) 360px, 100vw"
-  src="{{ site.baseurl }}/assets/img/PauliLab2017-360px.jpg"
+  src="{{ site.baseurl }}/assets/img/PauliLab2018-360px.jpg"
   alt="Pauli Lab members">
 
 Pauli Lab February 2018
