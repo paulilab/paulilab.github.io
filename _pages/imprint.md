@@ -17,11 +17,7 @@ The website is authored by <a href="http://github.com/gatagat">{{ site.author }}
 
 ## Privacy policy
 
-We use Google Analytics and cookies to collect user statistics and analyze user
-activity in order to improve this website.
-
-You can opt out of the data collection by installing a [browser
-plugin](https://tools.google.com/dlpage/gaoptout).
+As of May 15 2018, we stopped collecting user activity data. Enjoy free surfing.
 
 ## Acknowledgement
 
