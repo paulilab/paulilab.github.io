@@ -1,6 +1,6 @@
 ---
 first_name: Krista
-last_name: Briedis
+last_name: Gert (maiden name Briedis)
 img: /assets/img/people/krista.jpg
 email: first.last@imp.ac.at
 country: United States
