@@ -5,6 +5,6 @@ img:
 email: first.last@imp.ac.at
 country: Austria
 member_from: November 2017
-member_till: now
+member_till: March 2018
 position: Intern
 ---
