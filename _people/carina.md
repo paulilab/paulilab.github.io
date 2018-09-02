@@ -6,5 +6,5 @@ email: first.last@imp.ac.at
 country: Austria
 member_from: August 2018
 member_till: now
-position: Lab Manager
+position: Lab Manager (joint with the Bell lab @IMBA)
 ---
