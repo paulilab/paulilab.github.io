@@ -8,3 +8,4 @@ member_from: August 2018
 member_till: now
 position: Lab Manager (joint with the Bell lab @IMBA)
 ---
+Carina obtained a BSc in Biology (2011) and a MSc in Genetics and Developmental Biology (2014) from the University of Vienna. For her Master’s thesis, she studied gene regulatory elements in the sea anemone Nematostella vectensis. Afterwards she continued working with sea anemones at the University of Vienna and at the University of Bergen. In 2016, Carina started working as a research assistant in the Bell lab at IMBA, focusing on Polycomb biology in mouse embryonic stem cells. In the Pauli lab, Carina works on protein degradation systems in zebrafish. In her free time, she enjoys reading novels, playing billiards and singing in a choir.
