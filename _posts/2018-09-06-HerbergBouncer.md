@@ -8,5 +8,5 @@ The first Pauli lab paper is out in Science! We report the discovery of a short 
 Big congratulations to the authors Sarah Herberg, Krista Gert, and Alex Schleiffer (IMP/IMBA). 
 
 Full story and more great pictures at:
-https://www.imp.ac.at/…/bouncer-the-gate-keeper-of-the-egg…/
+https://www.imp.ac.at/news/detail/article/bouncer-the-gate-keeper-of-the-egg-controls-sperm-entry/
 
