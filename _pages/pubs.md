@@ -11,7 +11,7 @@ description: "Pauli Lab Publications on small peptides, uORFs, fertilization, ce
   {% if len > 0 %}
 ## {{ year }}
     {% for pub in pubs %}
-* <a name="{{ pub.path | remove: '_pubs/' | remove: '.md' }}"/>{{ pub.authors }} ({{ pub.year }}). {{ pub.title }}. {{ pub.journal }} {{ pub.pages }}. {% if pub.doi or pub.pubmed %}<span class="publinks">{% if pub.doi %}<a href="http://dx.doi.org/{{ pub.doi }}">doi:{{ pub.doi }}</a>{% endif %}{% if pub.doi and pub.pubmed %} \| {% endif %}{% if pub.pubmed %}<a href="https://www.ncbi.nlm.nih.gov/pubmed/{{ pub.pubmed }}">Pubmed:{{ pub.pubmed }}</a>{% endif %}</span>
+* <a name="{{ pub.path | remove: '_pubs/' | remove: '.md' }}"/>{{ pub.authors }} ({{ pub.year }}). {{ pub.title }}. {{ pub.journal }} {{ pub.pages }}. {% if pub.doi or pub.pubmed %}<span class="publinks">{% if pub.doi %}<a href="http://dx.doi.org/{{ pub.doi }}">doi:{{ pub.doi }}</a>{% endif %}{% if pub.pubmed %}{% if pub.doi %} \| {% endif %}<a href="https://www.ncbi.nlm.nih.gov/pubmed/{{ pub.pubmed }}">Pubmed:{{ pub.pubmed }}</a>{% endif %}{% if pub.pdf %}{% if pub.doi or pub.pubmed %} \| {% endif %}<a href="{{ pub.pdf }}">PDF</a>{% endif %}</span>
       {% endif %}
     {% endfor %}
   {% endif %}
