@@ -17,6 +17,12 @@ For news posts description gets automatically generated from the post's content.
 
 Specifying `picture: /assets/img/some_picture.jpg` for any page or news post results in the image being used on Facebook/Twitter.
 
+### Adding publications
+
+Author a md file under `/_pubs` (copying an existing publication and updating is the easiest way to accomplish this).
+
+If a whole publication year is missing, check that it has been added under `years` inside the `/_config.yml` file.
+
 
 ### splash image
 
