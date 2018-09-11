@@ -35,6 +35,14 @@ technologies.
 
 [Publications &hellip;]({{ site.baseurl }}/pubs/)
 
+
+### Science sketch
+
+<video width="100%" height="100%" controls>
+  <source src="/assets/vid/bouncer-sketch.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 </div>
 <div class="col-sm-4" markdown="1">
 
