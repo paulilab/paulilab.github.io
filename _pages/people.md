@@ -2,8 +2,8 @@
 layout: default
 title: People
 permalink: /people/
-splash: /assets/img/splash/paulilab2018_v3.jpg
-picture: /assets/img/splash/paulilab2018_v3.jpg
+splash: /assets/img/splash/paulilab2018_v3_feet.jpg
+picture: /assets/img/splash/paulilab2018_v3_feet.jpg
 #description: "{{ page.content | liquify | strip_html | truncatewords: 15 }}"
 ---
 
