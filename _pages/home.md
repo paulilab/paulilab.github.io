@@ -69,13 +69,13 @@ technologies.
 
 <img
   class="img-responsive"
-  srcset="{{ site.baseurl }}/assets/img/PauliLab2018.jpg 360w,
-          {{ site.baseurl }}/assets/img/PauliLab2018.jpg 709w"
+  srcset="{{ site.baseurl }}/assets/img/PauliLab2018_v2.jpg 360w,
+          {{ site.baseurl }}/assets/img/PauliLab2018_v2.jpg 709w"
   sizes="(min-width: 768px) 360px, 100vw"
-  src="{{ site.baseurl }}/assets/img/PauliLab2018.jpg"
+  src="{{ site.baseurl }}/assets/img/PauliLab2018_v2.jpg"
   alt="Pauli Lab members">
 
-Pauli Lab February 2018
+Pauli Lab October 2018
 
 [Learn more &hellip;]({{ site.baseurl }}/people/)
 
