@@ -7,8 +7,9 @@ module.exports = function(grunt) {
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
     builddir: 'assets',
-    bootstrapdir: 'node_modules/bootstrap/',
-    jquerydir: 'node_modules/jquery/dist',
+    bootstrapdir: 'node_modules/bootstrap/js/dist/',
+    jquerydir: 'node_modules/jquery/dist/',
+    popperjsdir: 'node_modules/popper.js/dist/',
     instafeeddir: 'node_modules/instafeed.js',
     banner: '/*!\n' +
     ' * <%= pkg.name %> v<%= pkg.version %>\n' +
@@ -16,11 +17,13 @@ module.exports = function(grunt) {
     ' * Copyright 2017-<%= grunt.template.today("yyyy") %> <%= pkg.author %>\n' +
     ' * Licensed under <%= pkg.license %>\n' +
     '*/\n',
-    less: {
+    sass: {
       dist: {
         options: {
-          compress: false,
-          strictMath: true
+          bundleExec: true,
+          style: 'compressed',
+          trace: true,
+          sourcemap: 'none'
         },
         files: {}
       }
@@ -37,20 +40,21 @@ module.exports = function(grunt) {
       },
       js: {
         src: [
-          '<%=jquerydir%>/jquery.js',
-          'js/jquery-check.js',
-          //'<%=bootstrapdir%>/js/transition.js',
-          //'<%=bootstrapdir%>/js/alert.js',
-          //'<%=bootstrapdir%>/js/button.js',
-          //'<%=bootstrapdir%>/js/carousel.js',
-          '<%=bootstrapdir%>/js/collapse.js', // Required by .navbar-collapse
-          '<%=bootstrapdir%>/js/dropdown.js',
-          //'<%=bootstrapdir%>/js/modal.js',
-          //'<%=bootstrapdir%>/js/tooltip.js',
-          //'<%=bootstrapdir%>/js/popover.js',
-          //'<%=bootstrapdir%>/js/scrollspy.js',
-          //'<%=bootstrapdir%>/js/tab.js',
-          //'<%=bootstrapdir%>/js/affix.js'
+          '<%=jquerydir%>/jquery.slim.js', // Bootstrap's dependency
+          '<%=popperjsdir%>/umd/popper.js', // Bootstrap's dependency
+          //'node_modules/bootstrap/dist/js/bootstrap.js',
+          '<%=bootstrapdir%>/util.js', // Required by .navbar-collapse
+          //'<%=bootstrapdir%>/alert.js',
+          //'<%=bootstrapdir%>/button.js',
+          //'<%=bootstrapdir%>/carousel.js',
+          '<%=bootstrapdir%>/collapse.js', // Required by .navbar-collapse
+          '<%=bootstrapdir%>/dropdown.js', // Required by .navbar-collapse
+          //'<%=bootstrapdir%>/modal.js',
+          //'<%=bootstrapdir%>/tooltip.js',
+          //'<%=bootstrapdir%>/popover.js',
+          //'<%=bootstrapdir%>/scrollspy.js',
+          //'<%=bootstrapdir%>/tab.js',
+          '<%=bootstrapdir%>/index.js',
         ],
         dest: '<%=builddir%>/js/main.js'
       },
@@ -141,30 +145,30 @@ module.exports = function(grunt) {
     },
     shell: {
       jekyll: {
-        command: 'bundle-2.4 exec jekyll build',
+        command: 'bundle-2.5 exec jekyll build',
         options: {
           callback: log
         }
       },
       jekyll_incremental: {
-        command: 'bundle-2.4 exec jekyll build --incremental',
+        command: 'bundle-2.5 exec jekyll build --incremental',
         options: {
           callback: log
         }
       },
       htmlproofer: {
-        command: 'bundle-2.4 exec htmlproofer --assume-extension --timeframe 7d --url-ignore=http://dx.doi.org/10.1038/ncb2018,http://dx.doi.org/10.1038/nrg2904 --check-html ./_site/',
+        command: 'bundle-2.5 exec htmlproofer --assume-extension --timeframe 7d --url-ignore=http://dx.doi.org/10.1038/ncb2018,http://dx.doi.org/10.1038/nrg2904 --check-html ./_site/',
         options: {
           callback: log
         }
       }
     },
     watch: {
-      less: {
-        files: 'less/*.less',
+      sass: {
+        files: 'scss/*.scss',
         tasks: 'build-css',
         options: {
-          nospawn: true
+          spawn: false
         }
       },
       jekyll_collections: {
@@ -174,7 +178,7 @@ module.exports = function(grunt) {
         ],
         tasks: 'shell:jekyll',
         options: {
-          nospawn: true
+          spawn: false
         }
       },
       jekyll: {
@@ -190,7 +194,7 @@ module.exports = function(grunt) {
         tasks: 'shell:jekyll_incremental',
         options: {
           livereload: true,
-          nospawn: true
+          spawn: false
         }
       }
     },
@@ -199,7 +203,10 @@ module.exports = function(grunt) {
         logConcurrentOutput: true
       },
       watch: {
-        tasks: ['watch:less', 'watch:jekyll_collections', 'watch:jekyll']
+        tasks: [
+          'watch:sass',
+          'watch:jekyll_collections',
+          'watch:jekyll']
       }
     },
     connect: {
@@ -223,15 +230,15 @@ module.exports = function(grunt) {
   });
 
   grunt.registerTask('build-css', 'build css', function() {
-    var lessDest = '<%=builddir%>/css/main.css';
+    var sassDest = '<%=builddir%>/css/main.css';
     var files = {};
-    files[lessDest] = 'less/main.less';
-    grunt.config('less.dist.files', files);
-    grunt.config('less.dist.options.compress', false);
+    files[sassDest] = 'scss/main.scss';
+    grunt.config('sass.dist.files', files);
+    grunt.config('sass.dist.options.style', 'nested');
     grunt.task.run([
-      'less:dist',
-      'prefix-css:' + lessDest,
-      'compress-css:' + lessDest + ':<%=builddir%>/css/main.min.css'
+      'sass:dist',
+      'prefix-css:' + sassDest,
+      'compress-css:' + sassDest + ':<%=builddir%>/css/main.min.css'
     ]);
   });
 
@@ -243,9 +250,9 @@ module.exports = function(grunt) {
   grunt.registerTask('compress-css', 'compress a generic css', function(fileSrc, fileDst) {
     var files = {};
     files[fileDst] = fileSrc;
-    grunt.config('less.dist.files', files);
-    grunt.config('less.dist.options.compress', true);
-    grunt.task.run(['less:dist']);
+    grunt.config('sass.dist.files', files);
+    grunt.config('sass.dist.options.style', 'expanded'); // 'compressed'
+    grunt.task.run(['sass:dist']);
   });
 
   grunt.registerTask('build', [

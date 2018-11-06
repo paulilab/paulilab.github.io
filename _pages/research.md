@@ -85,9 +85,9 @@ in a developing organism.
   alt='Scheme of functional characterization of short translated ORFs'
   description='Figure 3: Identifying functions of short translated ORFs. Many
     regions outside of known protein-coding genes are translated.
-    Protein-coding regions are shown in blue, non-coding/untranslated regions
-    in black.  Translated yet non-conserved ORFs are indicated in grey (e.g.
-    upstream ORFs (uORFs)).'
+    Protein-coding regions are shown in blue,
+    non-coding/un&shy;trans&shy;la&shy;ted regions in black.  Translated yet
+    non-conserved ORFs are indicated in grey (e.g.  upstream ORFs (uORFs)).'
 %}
 
 We will focus on three main areas:

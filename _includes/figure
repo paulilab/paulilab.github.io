@@ -1,4 +1,4 @@
 <figure class="image">
-  <img class="img-responsive center-block" src="{{ site.baseurl }}{{ include.url }}" alt="{{ include.alt }}">
+  <img class="img-fluid d-block mx-auto" src="{{ site.baseurl }}{{ include.url }}" alt="{{ include.alt }}">
   <figcaption>{{ include.description }}</figcaption>
 </figure>

@@ -1,4 +1,4 @@
 <figure class="image clearfix">
-  <img class="img-responsive pull-left" src="{{ site.baseurl }}{{ include.url }}" alt="{{ include.alt }}">
+  <img class="img-fluid float-left" src="{{ site.baseurl }}{{ include.url }}" alt="{{ include.alt }}">
   <figcaption>{{ include.description }}</figcaption>
 </figure>

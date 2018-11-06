@@ -62,9 +62,12 @@ rebuilt offline using grunt, see Developmental setup.
 Developmental setup
 -------------------
 
+This is a setup for Mac OS. Linux shold be a lot simpler, see .travis.yml for
+inspiration.
+
 ### Installs to compile js and less
 
-1. Install nodejs from http://nodejs.org/en/download/ (8.9.4)
+1. Install nodejs from http://nodejs.org/en/download/ (last tested: 10.13.0)
    This also bundles npm.
 2. Install the rest locally using package.json
     npm install
@@ -72,12 +75,14 @@ Developmental setup
     npm install -g grunt-cli
    or put `./node_modules/.bin/` on your `$PATH`.
 
-### Installs to run jekyll
+### Installs to run jekyll and sass
 
-1. Install recent ruby version from MacPorts (now: 2.4)
-    sudo port install ruby24 rb24-bundler
+1. Install recent ruby version from MacPorts (last tested: 2.5)
+    sudo port install rb25-bundler
+2. Make sure to put the bundle command on PATH (otherwise sass will fail)
+    export PATH=/opt/local/libexec/ruby2.5/:$PATH
 2. Install the rest locally
-    bundle-2.4 install --path vendor/bundle
+    bundle install --path vendor/bundle
 
 ### Building the website
 

@@ -38,7 +38,7 @@ technologies.
 
 ### Science sketch
 
-<video width="100%" height="100%" controls>
+<video width="100%" height="auto" controls>
   <source src="/assets/vid/bouncer-sketch.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -68,7 +68,7 @@ technologies.
 ## About us
 
 <img
-  class="img-responsive"
+  class="img-fluid"
   srcset="{{ site.baseurl }}/assets/img/PauliLab2018_v2.jpg 360w,
           {{ site.baseurl }}/assets/img/PauliLab2018_v2.jpg 709w"
   sizes="(min-width: 768px) 360px, 100vw"

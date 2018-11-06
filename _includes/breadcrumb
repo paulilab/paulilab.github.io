@@ -1,9 +1,9 @@
 {% if page.url != '/' %}
 {% assign crumbs = page.url | split: '/' %}
-<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="pull-right breadcrumb">
-  <li itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem"><a itemtype="http://schema.org/WebSite" itemprop="item" href="/"><span itemprop="name">{{ site.name }}</span><meta itemprop="position" content="1" /></a></li>
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="float-right breadcrumb">
+  <li class="breadcrumb-item" itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem"><a itemtype="http://schema.org/WebSite" itemprop="item" href="/"><span itemprop="name">{{ site.name }}</span><meta itemprop="position" content="1" /></a></li>
     {% for crumb in crumbs offset:1 %}
-    <li itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem" {% if forloop.last %}class="active"{% endif %}>{% if forloop.last %}<span itemprop="name">{{ crumb | capitalize }}</span><meta itemprop="position" content="{{ forloop.index | plus:1 }}" />{% else %}<a itemprop="item" href="/{% for crumb in crumbs offset:1 limit:forloop.index %}{{ crumb }}/{% endfor %}"><span itemprop="name">{{ crumb | capitalize }}</span><meta itemprop="position" content="{{ forloop.index | plus:1 }}" /></a>{% endif %}</li>
+    <li class="breadcrumb-item" itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem" {% if forloop.last %}class="active"{% endif %}>{% if forloop.last %}<span itemprop="name">{{ crumb | capitalize }}</span><meta itemprop="position" content="{{ forloop.index | plus:1 }}" />{% else %}<a itemprop="item" href="/{% for crumb in crumbs offset:1 limit:forloop.index %}{{ crumb }}/{% endfor %}"><span itemprop="name">{{ crumb | capitalize }}</span><meta itemprop="position" content="{{ forloop.index | plus:1 }}" /></a>{% endif %}</li>
     {% endfor %}
 </ol>
 {% endif %}

@@ -32,8 +32,6 @@ exclude:
   - tools
   - resources
   - vendor
-gems: # XXX:because of github's old version
-  - jekyll-sitemap
 plugins:
   - jekyll-sitemap
 markdown: kramdown

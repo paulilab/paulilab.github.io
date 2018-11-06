@@ -1,12 +1,7 @@
-<div class="container footer">
+<div class="footer">
   <footer>
-    <div class="row">
-      <div class="col-lg-12">
-	<p>
-	<a href="/imprint/">Imprint / Copyright / Privacy policy.</a>
-	</p>
-      </div>
-    </div>
+    <a href="/imprint/">Imprint / Copyright / Privacy policy.</a>
   </footer>
 </div>
+
 <script async defer src="{{ site.baseurl }}/assets/js/main.min.js"></script>
