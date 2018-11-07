@@ -15,7 +15,7 @@ splash: /assets/img/splash/embryos.jpg
 
 {{ post.excerpt | remove: '<p>' | remove: '</p>' | replace: '\n', ' ' }}
 
-[Read more &hellip;]({{ post.url }})
+[Read more &hellip;]({{ site.baseurl }}{{ post.url }})
 
 </div>
 {% endfor %}

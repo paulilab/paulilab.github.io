@@ -56,7 +56,7 @@ technologies.
 
 {{ post.excerpt }}
 
-[Learn more &hellip;]({{ post.url }})
+[Learn more &hellip;]({{ site.baseurl }}{{ post.url }})
 
 {% endfor %}
 
