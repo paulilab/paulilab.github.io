@@ -4,7 +4,7 @@ cache:
   - directories:
     - $TRAVIS_BUILD_DIR/tmp/.htmlproofer
 rvm:
-- 2.3.3
+- 2.5
 
 script: bundle exec jekyll build && bundle exec htmlproofer --only-4xx --assume-extension --timeframe 7d --url-ignore=http://dx.doi.org/10.1038/ncb2018,http://dx.doi.org/10.1038/nrg2904 ./_site/
 
