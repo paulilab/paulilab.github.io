@@ -136,6 +136,9 @@ To ensure predictable results it is advisable to keep the [dependencies and
 versions](https://pages.github.com/versions/) available to the jekyll run on
 the github side in sync with the local setup (`Gemfile`).
 
+#### Check the website speed
+
+https://developers.google.com/speed/pagespeed/insights
 
 ### Favicon
 
