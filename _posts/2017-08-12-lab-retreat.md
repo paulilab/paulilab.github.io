@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pauli Lab Retreat to Gustav's Castle
-picture: /assets/img/posts/20170812-Labretreat.jpg
+picture: /assets/img/posts/20170812_LabRetreat.jpg
 published: true
 ---
 

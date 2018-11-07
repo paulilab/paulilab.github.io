@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visit of students from Rosensteingasse
-picture: /assets/img/posts/20171117-Rosensteingasse.jpg
+picture: /assets/img/posts/20171117_Rosensteingasse.jpg
 published: true
 ---
 Students from the HBLVA Rosensteingasse were visiting us today to get a glimpse of working at an international research institute, and of course to see our zebrafish! 

@@ -15,6 +15,7 @@ Editing
 ### Adding posts
 
 Create an .md file under `/_posts` (start by copying an already existing file).
+The filename must have the form `YYYY-MM-DD-some-post.md` to be valid.
 
 A JPEG file with a post picture should be called `YYYYMMDD-SomeLabel.jpg` and
 placed in `/assets/img/posts/`. Before adding the picture resize it to have the

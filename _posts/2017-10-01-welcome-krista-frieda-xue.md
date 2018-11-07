@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome to our new students, Krista, Frieda and Xue
-picture: /assets/img/posts/20171020-FriedaKrista.jpg
+picture: /assets/img/posts/20171020_FriedaKrista.jpg
 published: true
 ---
 The Pauli lab is growing.  

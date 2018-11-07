@@ -1,7 +1,7 @@
 ---
 layout: post
 title: July = Conference time for Pauli lab members!
-picture: /assets/img/posts/20170730_GRCforfertilization.jpg
+picture: /assets/img/posts/20170730_GrcForFertilization.jpg
 published: true
 ---
 

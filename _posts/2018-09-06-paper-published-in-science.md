@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Paper published in Science!
-picture: /assets/img/posts/HerbergBouncer.jpg
+picture: /assets/img/posts/20180906_HerbergBouncer.jpg
 published: true
 ---
 The first Pauli lab paper is out in <i>Science!</i> We report the discovery of a short protein that acts as the gatekeeper of the oocyte (hence the name "Bouncer"). Bouncer is essential for fertilization in zebrafish, and, most remarkably, expressing a different species' Bouncer on zebrafish eggs allows the other species' sperm to enter.

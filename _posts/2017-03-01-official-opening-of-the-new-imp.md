@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Official opening of the new IMP
-picture: /assets/img/posts/20170301_IMPopeneing.jpg
+picture: /assets/img/posts/20170301_ImpOpening.jpg
 ---
 While we have already been happily working here for a few months, today was the
 official opening ceremony of the new IMP building with high-profile guests

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PhD student retreat
-picture: /assets/img/posts/20170608_PhDstudentretreat.jpg
+picture: /assets/img/posts/20170608_PhdStudentRetreat.jpg
 published: false
 ---
 Our three PhD students, Sarah, Quio and Jessica participated in the VBC PhD

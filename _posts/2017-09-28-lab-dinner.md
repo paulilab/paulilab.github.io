@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Three good reasons for a lab-dinner
-picture: /assets/img/posts/20170928_labdinner_sperm.jpg
+picture: /assets/img/posts/20170928_LabDinnerSperm.jpg
 published: true
 ---
 We don't need a reason to meet up for a lab-dinner, but this time there were in fact three!
