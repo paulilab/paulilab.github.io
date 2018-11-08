@@ -132,7 +132,12 @@ module.exports = function(grunt) {
             '.close',
             '.alert-dismissible',
             '.page.calendar .events .panel:hover .fa-angle-down.open',
-            '.fa-angle-down.open'
+            '.fa-angle-down.open',
+            // needed for instafeed
+            '.main #userfeed',
+            '.main #userfeed a',
+            '.main #userfeed:hover a',
+            '.main #userfeed img'
           ],
           stylesheets: ['assets/css/main.css'],
           htmlroot: './_site/',
@@ -161,12 +166,18 @@ module.exports = function(grunt) {
         options: {
           callback: log
         }
+      },
+      updatecss: {
+        command: 'cp assets/css/main.min.css _site/assets/css',
+        options: {
+          callback: log
+        }
       }
     },
     watch: {
       sass: {
         files: 'scss/*.scss',
-        tasks: 'build-css',
+        tasks: ['build-css', 'dist-css'],
         options: {
           spawn: false
         }
@@ -189,7 +200,10 @@ module.exports = function(grunt) {
           '_posts/*',
           '_includes/*',
           '_pages/*',
-          'assets/**'
+          'assets/js/*',
+          'assets/pub/*',
+          'assets/vid/*'
+          // Omitting assets/css on purpose to prevent an endless update.
         ],
         tasks: 'shell:jekyll_incremental',
         options: {
@@ -242,6 +256,14 @@ module.exports = function(grunt) {
     ]);
   });
 
+  grunt.registerTask('dist-css', 'uncss and minify and update css in _site', function() {
+    grunt.task.run([
+      'uncss:dist',
+      'compress-css:<%=builddir%>/css/main.css:<%=builddir%>/css/main.min.css',
+      'shell:updatecss'
+    ]);
+  });
+
   grunt.registerTask('prefix-css', 'autoprefix a generic css', function(fileSrc) {
     grunt.config('autoprefixer.dist.src', fileSrc);
     grunt.task.run('autoprefixer');
@@ -262,8 +284,7 @@ module.exports = function(grunt) {
     'uglify:funjs',
     'build-css',
     'shell:jekyll',
-    'uncss:dist',
-    'compress-css:<%=builddir%>/css/main.css:<%=builddir%>/css/main.min.css',
+    'dist-css', // XXX: Requires the generated html output, must be after jekyll.
     'clean:assets'
   ]);
 
