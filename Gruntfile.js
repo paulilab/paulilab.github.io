@@ -144,7 +144,7 @@ module.exports = function(grunt) {
           media: ['(min-width: 992px)', '(min-width: 768px)', '(max-width: 767px)']
         },
         files: {
-          'assets/css/main.css': ['_site/*.html', '_site/*/*.html']
+          'assets/css/main.css': ['_site/*.html', '_site/*/*.html', '_site/*/*/*.html']
         }
       }
     },
