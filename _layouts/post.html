@@ -2,19 +2,25 @@
 layout: default
 splash: /assets/img/splash/embryos.jpg
 ---
-<div class="clearfix">
-{% if page.picture %}
-<img class="post-picture float-right" src="{{ site.baseurl }}{{ page.picture }}" alt="post picture">
-{% endif %}
-<h3>{{ page.title }}</h3>
-<h4>{{ page.date | date_to_string }}</h4>
-{{ content }}
+<div class="clearfix post-container">
+ {% if page.picture %}
+ <div class="post-picture float-right">
+  <img src="{{ site.baseurl }}{{ page.picture }}" alt="post picture">
+ </div>
+ {% endif %}
+ <div class="post-content">
+  <h3>{{ page.title }}</h3>
+  <h4>{{ page.date | date_to_string }}</h4>
+  {{ content }}
+ </div>
 </div>
-<nav aria-label="posts navigation">
- {% if page.previous.url %}
-  <a class="btn btn-outline-primary float-left" href="{{ site.baseurl }}{{ page.previous.url }}"><span aria-hidden="true">&laquo;</span> {{ page.previous.title }}</a>
- {% endif %}
- {% if page.next.url %}
-  <a class="btn btn-outline-primary float-right" href="{{ site.baseurl }}{{ page.next.url }}">{{ page.next.title }} <span aria-hidden="true">&raquo;</span></a>
- {% endif %}
-</nav>
+<div class="clearfix">
+ <nav aria-label="posts navigation" class="posts">
+  {% if page.previous.url %}
+   <a class="btn btn-outline-primary float-left" href="{{ site.baseurl }}{{ page.previous.url }}"><span aria-hidden="true">&laquo;</span> {{ page.previous.title }}</a>
+  {% endif %}
+  {% if page.next.url %}
+   <a class="btn btn-outline-primary float-right" href="{{ site.baseurl }}{{ page.next.url }}">{{ page.next.title }} <span aria-hidden="true">&raquo;</span></a>
+  {% endif %}
+ </nav>
+</div>

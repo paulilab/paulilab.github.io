@@ -121,8 +121,7 @@ body {
     margin-top: -60px;
   }
 
-  img.post-picture {
-    display: block;
+  .post-picture {
     max-width: 100%;
     height: auto;
     padding: 0 0 1em 0;
@@ -130,7 +129,20 @@ body {
       padding: 0 0 1em 1em;
       max-width: 40%;
     }
+    img {
+      max-width: 100%;
+      display: block;
+    }
   }
+  .post-container {
+    min-height: 50vh;
+  }
+  .post-content {
+  }
+  nav.posts {
+    height: 24px;
+  }
+
   .funding {
     img {
       max-width: 200px;
