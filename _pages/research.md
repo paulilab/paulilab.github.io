@@ -1,5 +1,5 @@
 ---
-layout: simple
+layout: default
 title: Research
 permalink: /research/
 splash: /assets/img/splash/bottles.jpg

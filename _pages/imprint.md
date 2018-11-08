@@ -1,5 +1,5 @@
 ---
-layout: simple
+layout: default
 title: Imprint
 permalink: /imprint/
 splash: /assets/img/splash/imp.jpg

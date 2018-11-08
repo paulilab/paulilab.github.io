@@ -1,5 +1,5 @@
 ---
-layout: simple
+layout: default
 title: Lab News
 permalink: /news/
 splash: /assets/img/splash/embryos.jpg

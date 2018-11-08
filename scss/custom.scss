@@ -23,6 +23,16 @@ body {
   }
 }
 
+// Make the footer stick to the bottom of the page.
+.site {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+.site-content {
+  flex: 1;
+}
+
 .footer {
   background-color: #f8f8f8;
   color: #222;

@@ -1,5 +1,5 @@
 ---
-layout: simple
+layout: default
 title: Lab Fun
 permalink: /fun/
 splash: /assets/img/splash/heads.jpg

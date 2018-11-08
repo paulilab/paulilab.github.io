@@ -1,5 +1,5 @@
 ---
-layout: simple
+layout: default
 title: Publications
 permalink: /pubs/
 splash: /assets/img/splash/books2.jpg

@@ -251,7 +251,7 @@ module.exports = function(grunt) {
     var files = {};
     files[fileDst] = fileSrc;
     grunt.config('sass.dist.files', files);
-    grunt.config('sass.dist.options.style', 'expanded'); // 'compressed'
+    grunt.config('sass.dist.options.style', 'compressed');
     grunt.task.run(['sass:dist']);
   });
 

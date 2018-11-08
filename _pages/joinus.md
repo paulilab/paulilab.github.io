@@ -1,5 +1,5 @@
 ---
-layout: simple
+layout: default
 title: Join us
 permalink: /joinus/
 splash: /assets/img/splash/fish3.jpg
