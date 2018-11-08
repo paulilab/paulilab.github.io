@@ -5,14 +5,16 @@ layout: compress
 <html lang="en">
   {% include head %}
   <body class="site">
-    {% include navbar %}
-    {% include splash %}
-    {% include breadcrumb %}
-    <div class="main site-content">
-      <div class="container">
-        {{ content }}
+    <div>
+      {% include navbar %}
+      {% include splash %}
+      {% include breadcrumb %}
+      <div class="main site-content">
+        <div class="container">
+          {{ content }}
+        </div>
       </div>
+      {% include footer %}
     </div>
-    {% include footer %}
   </body>
 </html>
