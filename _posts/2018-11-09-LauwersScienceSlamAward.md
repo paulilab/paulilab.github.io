@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mattias Lauwers and Science-Slam Awards for PhD students from the Pauli Lab
-picture: /assets/img/posts/20181109_LauwersSlamScienceAward
+picture: /assets/img/posts/20181109_LauwersSlamScienceAward.jpg
 published: true
 ---
 Two success stories from the Pauli lab:
