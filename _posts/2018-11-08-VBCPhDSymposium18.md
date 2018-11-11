@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VBC PhD Symposium 2018: Metamorphosis - Transforming Science
+title: VBC PhD Symposium 2018 "Metamorphosis - Transforming Science"
 picture: /assets/img/posts/Butterfly_Logo_forPauliWebsite_noLogo.jpg
 published: true
 ---
