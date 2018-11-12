@@ -48,19 +48,13 @@ technologies.
 
 ## Lab news
 
-{% for post in site.posts limit: 3 %}
-
-**{{ post.title }}**
-
-{{ post.date | date_to_string }}
-
-{{ post.excerpt }}
-
-[Learn more &hellip;]({{ site.baseurl }}{{ post.url }})
-
+<ul>
+{% for post in site.posts limit: 17 %}
+<li>{{ post.title }} | {{ post.date | date_to_string }}</li>
 {% endfor %}
+</ul>
 
-[All lab news &hellip;]({{ site.baseurl }}/news/).
+[Learn more &hellip;]({{ site.baseurl }}/news/).
 
 </div>
 <div class="col-sm-4" markdown="1">

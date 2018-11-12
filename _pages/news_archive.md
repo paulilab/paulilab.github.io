@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Lab News
-permalink: /news/
+permalink: /news/archive/
 splash: /assets/img/splash/embryos.jpg
 #description: "{{ site.posts[0].excerpt }}"
 ---
 
-{% for post in site.posts limit: 3 %}
+{% for post in site.posts %}
 
 <div>
  {% if post.picture %}
@@ -22,7 +22,3 @@ splash: /assets/img/splash/embryos.jpg
 </div>
 
 {% endfor %}
-
-
-***Find older news in the [news archive]({{ site.baseurl }}/news/archive/).***
-
