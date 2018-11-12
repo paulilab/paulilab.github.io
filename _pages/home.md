@@ -46,7 +46,7 @@ technologies.
 </div>
 <div class="col-sm-4" markdown="1">
 
-## Lab news
+## News ticker
 
 <ul>
 {% for post in site.posts limit: 17 %}
