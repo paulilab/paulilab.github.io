@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Finding the clues 
+title: Finding the hidden clues 
 picture: /assets/img/posts/20181211_EscapeRoom.jpeg
 published: true
 ---
