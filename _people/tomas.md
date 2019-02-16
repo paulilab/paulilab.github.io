@@ -5,7 +5,7 @@ img: /assets/img/people/tomas.jpg
 email: last@imp.ac.at
 country: Czechia
 member_from: May 2016
-member_till: now
+member_till: January 2019
 position: Computer Scientist (joint with the Zimmer lab)
 ---
 Tomas got his M.Sc. degree in computer graphics from the
