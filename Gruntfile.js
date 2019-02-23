@@ -90,7 +90,7 @@ module.exports = function(grunt) {
       ]
     },
     uncss: {
-      dist: {
+      dist: { // This target gives an UnhandledPromiseRejectionWarning, though it does not seem to break anything. At least not yet. 20190223, TK.
         options: {
           ignore: [
             // needed (no idea why it gets uncss-ed)
