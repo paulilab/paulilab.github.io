@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to Anastasia!
+title: Welcome to Anastasia
 picture: /assets/img/posts/20190315_anastasia.jpg
 published: true
 ---
