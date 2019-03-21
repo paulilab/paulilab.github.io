@@ -6,7 +6,7 @@ email: first.last@imp.ac.at
 country: Russia
 member_from: March 2019
 member_till: now
-position: postdoc
+position: Postdoc
 ---
 
 
