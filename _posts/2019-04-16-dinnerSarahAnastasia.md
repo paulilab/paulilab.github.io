@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Good bye and Welcome
+title: Good-bye and Welcome
 picture: /assets/img/posts/20190416_Sarahleaving_dinner.jpg
 published: true
 ---
