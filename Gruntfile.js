@@ -55,6 +55,7 @@ module.exports = function(grunt) {
           //'<%=bootstrapdir%>/scrollspy.js',
           //'<%=bootstrapdir%>/tab.js',
           '<%=bootstrapdir%>/index.js',
+	  'js/google-maps-patch.js',
         ],
         dest: '<%=builddir%>/js/main.js'
       },
@@ -150,19 +151,19 @@ module.exports = function(grunt) {
     },
     shell: {
       jekyll: {
-        command: 'bundle-2.5 exec jekyll build',
+        command: 'bundle exec jekyll build',
         options: {
           callback: log
         }
       },
       jekyll_incremental: {
-        command: 'bundle-2.5 exec jekyll build --incremental',
+        command: 'bundle exec jekyll build --incremental',
         options: {
           callback: log
         }
       },
       htmlproofer: {
-        command: 'bundle-2.5 exec htmlproofer --assume-extension --timeframe 7d --url-ignore=http://dx.doi.org/10.1038/ncb2018,http://dx.doi.org/10.1038/nrg2904 --check-html ./_site/',
+        command: 'bundle exec htmlproofer --assume-extension --timeframe 7d --url-ignore=http://dx.doi.org/10.1038/ncb2018,http://dx.doi.org/10.1038/nrg2904 --check-html ./_site/',
         options: {
           callback: log
         }

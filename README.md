@@ -82,7 +82,7 @@ Otherwise, one needs to push to the repository using git:
 
     git push
 
-After changing any javascript or less/css style files, the website has to be
+After changing any javascript or sass/css style files, the website has to be
 rebuilt offline using grunt, see Developmental setup.
 
 
@@ -93,7 +93,7 @@ This is a setup for Mac OS. Linux shold be a lot simpler, see .travis.yml for
 inspiration.
 
 
-### Installs to compile js and less
+### Installs to compile js and css
 
 1. Install nodejs from http://nodejs.org/en/download/ (last tested: 10.13.0)
    This also bundles npm.
