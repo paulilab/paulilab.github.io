@@ -28,11 +28,23 @@ module.exports = function(grunt) {
         files: {}
       }
     },
-    autoprefixer: {
+    postcss: { // only used as a replacement for autoprefixer, maybe can replace grunt-uncss as well
+      options: {
+        processors: [
+          //require('pixrem')(), // add fallbacks for rem units
+          require('autoprefixer')(), // add vendor prefixes
+          //require('cssnano')() // minify the result
+        ]
+      },
       dist: {
         src: '*/main.css'
       }
     },
+    //autoprefixer: {
+    //  dist: {
+    //    src: '*/main.css'
+    //  }
+    //},
     concat: {
       options: {
         banner: '<%= banner %>',
@@ -70,7 +82,7 @@ module.exports = function(grunt) {
     uglify: {
       options: {
         compress: {
-          warnings: false
+          //warnings: false
         },
         mangle: true,
         preserveComments: /^!|@preserve|@license|@cc_on/i
@@ -266,8 +278,8 @@ module.exports = function(grunt) {
   });
 
   grunt.registerTask('prefix-css', 'autoprefix a generic css', function(fileSrc) {
-    grunt.config('autoprefixer.dist.src', fileSrc);
-    grunt.task.run('autoprefixer');
+    grunt.config('postcss.dist.src', fileSrc);
+    grunt.task.run('postcss');
   });
 
   grunt.registerTask('compress-css', 'compress a generic css', function(fileSrc, fileDst) {
