@@ -2,7 +2,7 @@
 first_name: Krista
 last_name: Gert (née Briedis)
 img: /assets/img/people/krista.jpg
-email: first.last@imp.ac.at
+email: first.briedis@imp.ac.at
 country: United States
 member_from: September 2017
 member_till: now
