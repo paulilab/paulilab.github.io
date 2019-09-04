@@ -1,7 +1,7 @@
 ---
 first_name: Laura
 last_name: Lorenzo-Orts
-img: /assets/img/people/laura_lorenzo.jpg
+img: /assets/img/people/laura_round.jpg
 email: first.middle.last@imp.ac.at
 country: Spain
 member_from: September 2019
