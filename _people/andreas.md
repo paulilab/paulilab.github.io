@@ -1,7 +1,7 @@
 ---
 first_name: Andreas
 last_name: Blaha
-img: /assets/img/people/andreas.jpg
+img: /assets/img/people/andreas_round.jpg
 email: first.last@imp.ac.at
 country: Germany
 member_from: May 2019
