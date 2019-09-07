@@ -1,7 +1,7 @@
 ---
 first_name: Friederike
 last_name: Schlumm
-img: /assets/img/people/friederike.jpg
+img: /assets/img/people/friederike_round.jpg
 email: first.last@imp.ac.at
 country: Germany
 member_from: April 2018
