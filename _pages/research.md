@@ -29,7 +29,7 @@ To address these questions, we are mainly using zebrafish embryos since they are
 
 Fertilization faces two main challenges: On the one hand, sperm-egg fusion has to be highly efficient. On the other hand, it has to be species-specific. Mechanisms that limit fertilization to conspecific sperm are of particular importance for the perpetuation of species that use external fertilization. However, despite decades of research, it is still unclear how these two requirements are met at the molecular level since none of the currently known proteins essential for sperm-egg interaction in vertebrates, CD9 (Kaji et al., 2000; Miyado et al., 2000; Le Naour et al., 2000), IZUMO1 (Inoue et al., 2005) and JUNO (Bianchi et al., 2014), confer species-specificity to fertilization. 
 
-{% include figure
+{% include figure_left
   url='/assets/img/research/figBouncer.jpg'
   alt='Bouncer is a species-specific fertilization factor in fish'
   description='Figure 1: Bouncer is a species-specific fertilization factor in fish. A)
@@ -38,7 +38,7 @@ Fertilization faces two main challenges: On the one hand, sperm-egg fusion has t
 
 Our recent discovery of the short, un-annotated Ly6/uPAR-type protein Bouncer as a species-specific fertilization factor in zebrafish (**Figure 1**) (Herberg et al., 2018) comprises an important milestone in the field of reproductive biology. We originally identified Bouncer as an unannotated, putative protein-coding region in a screen for novel protein-coding genes expressed during zebrafish embryogenesis (Pauli et al., 2014). Female zebrafish lacking Bouncer (*bncr-/-*) are sterile (**Figure 1A**) since sperm can no longer bind to and enter the egg. Remarkably, further analysis revealed that Bouncer is not only required for sperm-egg interaction, but provides species specificity in fertilization in the case of zebrafish and medaka, two fish species that have diverged more than 200 million years ago and cannot normally cross-fertilize. By replacing zebrafish Bouncer with the evolutionarily distant medaka Bouncer in the zebrafish egg, we found that changing this single factor prevents zebrafish sperm from entering but instead allows medaka sperm to fertilize the zebrafish egg (**Figure 1B**). Thus, Bouncer acts as the gate-keeper of the egg, enabling conspecific sperm to enter while keeping hetero-specific sperm out (Herberg et al., 2018). Interestingly, Bouncer’s mammalian homolog, SPACA4/SAMP14, is expressed exclusively in the male germline in vertebrates with internal fertilization (**Figure 1C**), raising the possibility that our findings in fish can have direct relevance to mammalian biology.
 
-{% include figure
+{% include figure_left
   url='/assets/img/research/figGallery.jpg'
   alt='Gallery of pictures from lab'
     description='Figure 2: Gallery of pictures from the Pauli lab.'
