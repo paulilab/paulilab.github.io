@@ -11,7 +11,7 @@ description: "Pauli Lab investigates regulators of embryogenesis @ Research Inst
 
 ## Research focus
 
-The long-term vision of the Pauli lab is to unravel new concepts and molecular principles governing one of the most dramatic developmental transitions, the oocyte-to-embryo transition. Our research is centered around the following topics.
+The long-term vision of the Pauli lab is to unravel new concepts and molecular principles governing one of the most dramatic developmental transitions, the oocyte-to-embryo transition. Our research is centered around the following topics:
 
 1. **Fertilization**: How is fertilization regulated? We are specifically interested in identifying new molecular players and gain mechanistic insights into sperm-egg interaction and fusion.
 2. **Translational regulation**: We are interested in investigating translational regulation and regulation by translation during embryogenesis.
@@ -19,7 +19,7 @@ The long-term vision of the Pauli lab is to unravel new concepts and molecular p
 
 ### Our approach
 
-To address these questions, we are mainly using zebrafish embryos since they are a powerful model of vertebrate embryogenesis. We combine various experimental and computational approaches, ranging from genetics, molecular and cell biology, biochemistry and structural biology to live cell imaging, genomics and evolutionary approaches.
+To address these questions, we are mainly using zebrafish embryos since they are a powerful model of vertebrate embryogenesis. We combine various approaches, ranging from genetics, molecular and cell biology, biochemistry and structural biology to live cell imaging, genomics and evolutionary analyses.
 
 [Learn more &hellip;]({{ site.baseurl }}/research/)
 
