@@ -3,7 +3,7 @@ layout: default
 title: Research
 permalink: /research/
 splash: /assets/img/splash/bottles.jpg
-description: "How life starts - mechanistic insights into the oocyte-to-embryo transition”
+description: "How life starts: mechanistic insights into the oocyte-to-embryo transition”
 ---
 
 ## How life starts - mechanistic insights into the oocyte-to-embryo transition
