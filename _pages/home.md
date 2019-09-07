@@ -15,7 +15,7 @@ The long-term vision of the Pauli lab is to unravel new concepts and molecular p
 
 1. **Fertilization**: How is fertilization regulated? We are specifically interested in identifying new molecular players and gain mechanistic insights into sperm-egg interaction and fusion.
 2. **Translational regulation**: We are interested in investigating translational regulation and regulation by translation during embryogenesis.
-3. **Toddler**: How does the short secreted protein Toddler/Apela regulate gastrulation movements?
+3. **Toddler**: How does the short, secreted protein Toddler/Apela regulate gastrulation movements?
 
 ### Our approach
 
