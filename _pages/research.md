@@ -10,6 +10,7 @@ description: "How life starts - mechanistic insights into the oocyte-to-embryo t
 ## How life starts - mechanistic insights into the oocyte-to-embryo transition
 
 **The long-term vision of the Pauli lab is to unravel new concepts and molecular principles governing one of the most dramatic developmental transitions, the oocyte-to-embryo transition.** Life of sexually reproducing organisms starts with the fusion of two highly specialized cells, the egg and the sperm, to form a single cell, the zygote. This totipotent cell gives rise to all cells of the future organism. Triggered by two key discoveries, namely that i) translation is more wide-spread than anticipated and often occurs outside of known, annotated genes, and ii) that some of these newly identified translated regions can encode previously missed, essential small proteins (Pauli & Valen et al., 2012; Chew et al., 2013; Pauli et al., 2014; Chew et al., 2016; Cabrera-Quio & Herberg, Pauli, 2016), our main focus over the past years has been on the functional characterization of novel, essential short proteins during embryogenesis. This research has culminated in the identification of Toddler/Apela (Pauli et al., 2014) and Bouncer (Herberg et al., 2018). 
+
 Our recent discovery of Bouncer as a species-specific fertilization factor in fish has established fertilization as a new, exciting research direction in my lab. In addition, stemming from our general interest in regulatory principles that govern the large-scale transformation of the egg cytoplasm into the cytoplasm of metabolically active, embryonic cells, we have initiated mechanistic work on mRNA and translational regulation during the oocyte-to-embryo transition.
 
 Our current research is centered around the following topics:
@@ -23,12 +24,12 @@ Our current research is centered around the following topics:
 To address these questions, we are mainly using zebrafish embryos since they are a powerful model of vertebrate embryogenesis. We combine various approaches, ranging from genetics, molecular and cell biology, biochemistry and structural biology to live cell imaging, genomics and evolutionary analyses.
 
 
-Discovery of Bouncer as a species-specific fertilization factor
+**Discovery of Bouncer as a species-specific fertilization factor**
+
 {% include figure
   url='/assets/img/research/figBouncer.jpg'
   alt='Bouncer is a species-specific fertilization factor in fish'
-  description='Figure 1: Bouncer is a species-specific fertilization factor in fish. A)
-    Females lacking Bouncer (Bncr) are sterile. B) Bouncer is mediating species-specificity of fertilization between zebrafish and medaka. C) Sequence alignment of the homologous proteins Bouncer and SPACA4. In fish and frogs, Bouncer/Spaca4 is expressed in the egg, while in mammals and reptiles SPACA4 is expressed in the sperm.'
+  description='Figure 1: Bouncer is a species-specific fertilization factor in fish. A) Females lacking Bouncer (Bncr) are sterile. B) Bouncer is mediating species-specificity of fertilization between zebrafish and medaka. C) Sequence alignment of the homologous proteins Bouncer and SPACA4. In fish and frogs, Bouncer/Spaca4 is expressed in the egg, while in mammals and reptiles SPACA4 is expressed in the sperm.'
 %}
 
 Fertilization faces two main challenges: On the one hand, sperm-egg fusion has to be highly efficient. On the other hand, it has to be species-specific. Mechanisms that limit fertilization to conspecific sperm are of particular importance for the perpetuation of species that use external fertilization. However, despite decades of research, it is still unclear how these two requirements are met at the molecular level since none of the currently known proteins essential for sperm-egg interaction in vertebrates, CD9 (Kaji et al., 2000; Miyado et al., 2000; Le Naour et al., 2000), IZUMO1 (Inoue et al., 2005) and JUNO (Bianchi et al., 2014), confer species-specificity to fertilization. 
