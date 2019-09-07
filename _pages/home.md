@@ -11,25 +11,17 @@ description: "Pauli Lab investigates regulators of embryogenesis @ Research Inst
 
 ## Research focus
 
-We are interested in the control of embryogenesis. Our focus is on
-investigating new regulators, which range from short proteins to
-post-transcriptional control mechanisms.
+The long-term vision of the Pauli lab is to unravel new concepts and molecular principles governing the oocyte-to-embryo transition, which marks the beginning of life of all sexually reproducing organisms. Our research is centered around the following topics.
 
-1. **Fertilization**: How is fertilization regulated? We are specifically
-   interested in identifying new molecular players that allow sperm-egg
-   interaction and fusion.
-2. **Toddler**: How does the short secreted protein Toddler (also called
-   Apela/ELABELA) regulate gastrulation movements?
-3. **Translational regulation**: We are interested in investigating
+1. **Fertilization**: How is fertilization regulated? We are specifically interested in identifying new molecular players and gain mechanistic insights into sperm-egg interaction and fusion.
+2. **Translational regulation**: We are interested in investigating
    translational regulation and regulation by translation during embryogenesis.
+3. **Toddler**: How does the short secreted protein Toddler (also called
+   Apela/ELABELA) regulate gastrulation movements?
 
 ### Our approach
 
-To address these questions, we are mainly using zebrafish embryos since they
-are a powerful model of vertebrate embryogenesis. We combine various
-experimental and computational approaches, ranging from genetics, molecular
-biology, cell biology and biochemistry to live cell imaging and genomics
-technologies.
+To address these questions, we are mainly using zebrafish embryos since they are a powerful model of vertebrate embryogenesis. We combine various experimental and computational approaches, ranging from genetics, molecular and cell biology, biochemistry and structural biology to live cell imaging, genomics and evolutionary approaches.
 
 [Learn more &hellip;]({{ site.baseurl }}/research/)
 
