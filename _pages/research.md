@@ -29,7 +29,7 @@ To address these questions, we are mainly using zebrafish embryos since they are
 
 Fertilization faces two main challenges: On the one hand, sperm-egg fusion has to be highly efficient. On the other hand, it has to be species-specific. Mechanisms that limit fertilization to conspecific sperm are of particular importance for the perpetuation of species that use external fertilization. However, despite decades of research, it is still unclear how these two requirements are met at the molecular level since none of the currently known proteins essential for sperm-egg interaction in vertebrates, CD9 (Kaji et al., 2000; Miyado et al., 2000; Le Naour et al., 2000), IZUMO1 (Inoue et al., 2005) and JUNO (Bianchi et al., 2014), confer species-specificity to fertilization. 
 
-{% include figure_left
+{% include figure
   url='/assets/img/research/figBouncer.jpg'
   alt='Bouncer is a species-specific fertilization factor in fish'
   description='Figure 1: Bouncer is a species-specific fertilization factor in fish. A)
