@@ -11,13 +11,11 @@ description: "Pauli Lab investigates regulators of embryogenesis @ Research Inst
 
 ## Research focus
 
-The long-term vision of the Pauli lab is to unravel new concepts and molecular principles governing the oocyte-to-embryo transition, which marks the beginning of life of all sexually reproducing organisms. Our research is centered around the following topics.
+The long-term vision of the Pauli lab is to unravel new concepts and molecular principles governing one of the most dramatic developmental transitions, the oocyte-to-embryo transition. Our research is centered around the following topics.
 
 1. **Fertilization**: How is fertilization regulated? We are specifically interested in identifying new molecular players and gain mechanistic insights into sperm-egg interaction and fusion.
-2. **Translational regulation**: We are interested in investigating
-   translational regulation and regulation by translation during embryogenesis.
-3. **Toddler**: How does the short secreted protein Toddler (also called
-   Apela/ELABELA) regulate gastrulation movements?
+2. **Translational regulation**: We are interested in investigating translational regulation and regulation by translation during embryogenesis.
+3. **Toddler**: How does the short secreted protein Toddler/Apela regulate gastrulation movements?
 
 ### Our approach
 
