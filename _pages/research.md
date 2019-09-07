@@ -3,7 +3,7 @@ layout: default
 title: Research
 permalink: /research/
 splash: /assets/img/splash/bottles.jpg
-description: "How life starts: mechanistic insights into the oocyte-to-embryo transition”
+description: "How life starts: mechanistic insights into the oocyte-to-embryo transition"
 ---
 
 ## How life starts - mechanistic insights into the oocyte-to-embryo transition
@@ -37,5 +37,5 @@ Our recent discovery of the short, un-annotated Ly6/uPAR-type protein Bouncer as
 
 {% include figure
   url='/assets/img/research/figGallery.jpg'
-  alt='Gallery of pictures from lab’
+  alt='Gallery of pictures from lab'
 %}
