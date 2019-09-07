@@ -42,5 +42,5 @@ Our recent discovery of the short, un-annotated Ly6/uPAR-type protein Bouncer as
 {% include figure
   url='/assets/img/research/figGallery.jpg'
   alt='Gallery of pictures from lab'
-    description='Figure 2: Gallery of pictures from the Pauli lab.'
+    description='             Figure 2: Gallery of pictures from the Pauli lab.'
 %}
