@@ -4,7 +4,7 @@ last_name: Pauli (Andi)
 img: /assets/img/people/andi_round.jpg
 email: first.last@imp.ac.at
 country: Germany
-member_from: NA
+member_from: September 2015
 member_till: now
 position: Principal Investigator
 ---
