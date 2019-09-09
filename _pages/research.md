@@ -6,7 +6,7 @@ splash: /assets/img/splash/bottles.jpg
 description: "How life starts: mechanistic insights into the oocyte-to-embryo transition"
 ---
 
-## How life starts - mechanistic insights into the oocyte-to-embryo transition
+## Fertilization and cellular remodelling – from egg to embryo
 
 
 Life of sexually reproducing organisms starts with the fusion of two highly specialized cells, the egg and the sperm, to form a single cell, the zygote. This totipotent cell gives rise to all cells of the future organism. Triggered by two key discoveries, namely that i) translation is more wide-spread than anticipated and often occurs outside of known, annotated genes, and ii) that some of these newly identified translated regions can encode previously missed, essential small proteins (Pauli & Valen et al., 2012; Chew et al., 2013; Pauli et al., 2014; Chew et al., 2016; Cabrera-Quio & Herberg, Pauli, 2016), our main focus over the past years has been on the functional characterization of novel, essential short proteins during embryogenesis. This research has culminated in the identification of Toddler/Apela (Pauli et al., 2014) and Bouncer (Herberg et al., 2018). 
