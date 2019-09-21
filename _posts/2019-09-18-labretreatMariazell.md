@@ -6,7 +6,5 @@ published: true
 ---
 
 For this year's lab retreat the Pauli Lab headed to the Mariazeller mountains in Styria, Austria. 
-Thanks to the contributions of everyone, we had a great mix of science, actitivities (visit to the famous Pirker Lebkuchen manufacturer and mountaincarts), hiking through Austria's 'Gran Canyon' (Naturpark Vorderötscher) and to the summit of the Gemeindealpe and socializing.
-And the question 'when will we have our next lab retreat?' when heading back to Vienna shows that this retreat was a success!   
-
-
+Thanks to the contributions of everyone, we had a great mix of science, sozializing and activities (visit to the famous Pirker Lebkuchen manufacturer, hiking through Austria's 'Gran Canyon' (Naturpark Vorderötscher) and to the summit of the Gemeindealpe before heading down the moutain in 'mountaincarts'. 
+The question 'when will we have our next lab retreat?' when heading back to Vienna shows that this retreat was a success. What a fun three days with stimulating discussions and great company!
