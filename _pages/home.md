@@ -54,7 +54,7 @@ To address these questions, we are mainly using zebrafish embryos since they are
 <img class="img-fluid" alt="Pauli Lab members"
 src="{{ site.baseurl }}/assets/img/lab_sept2019.jpg">
 
-Pauli Lab October 2018
+Pauli Lab September 2019
 
 [Learn more &hellip;]({{ site.baseurl }}/people/)
 
