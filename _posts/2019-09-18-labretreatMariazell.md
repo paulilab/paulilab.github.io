@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lab retreat to Mariazell
+title: Lab retreat at Mariazell
 picture: /assets/img/posts/20190920_LabRetreat.jpg
 published: true
 ---
