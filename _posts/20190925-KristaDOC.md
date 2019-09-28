@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DOC fellowship for Krista
-picture: /assets/img/posts/krista_DOC.jpg
+picture: /assets/img/posts/20190925_kristaDOC.jpg
 published: true
 ---
 
