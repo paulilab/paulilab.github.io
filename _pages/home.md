@@ -102,7 +102,7 @@ basic research institute that is part of the
 <img id="embo-yip" src="{{ site.baseurl }}/assets/img/logo/embo-yip.png" alt="EMBO-YIP logo" title="EMBO YIP">
 <img id="bif-logo" src="{{ site.baseurl }}/assets/img/logo/bif-200px.png" alt="BIF logo" title="Boehringer Ingelheim Fonds">
 <img id="oeaw-logo" src="{{ site.baseurl }}/assets/img/logo/oeaw-200px.png" alt="OEAW logo" title="Austrian Academy of Sciences (ÖAW)">
-<img id="fnsnf-logo" src="{{ site.baseurl }}/assets/img/logo/FNSNF.jpeg" alt="FNSNF logo" title="FNSNF">
+<img id="fnsnf-logo" src="{{ site.baseurl }}/assets/img/logo/FNSNF_logo.jpeg" alt="FNSNF logo" title="FNSNF">
 <img id="embo-logo" src="{{ site.baseurl }}/assets/img/logo/EMBO.jpeg" alt="EMBO" title="EMBO">
 <img id="rna-society-logo" src="{{ site.baseurl }}/assets/img/logo/rna-society-125px.png" alt="RNA Society logo" title="RNA Society (RNASalon)">
 </div>
