@@ -80,21 +80,30 @@ basic research institute that is part of the
 <div class="sr-only">
 
 * Research Institute of Molecular Pathology (IMP)
+* Boehringer Ingelheim (BI)
 * FWF START Grant 2017
+* FFG
 * HFSP Career Development Award
+* EMBO-YIP (EMBO Young Investigator Programme)
 * Boehringer Ingelheim Fonds
 * Austrian Academy of Sciences (ÖAW)
+* FNSNF (Swiss National Science Foundation)
+* EMBO
 * RNA Society (RNA Salon)
 
 </div>
 <div class="funding" aria-hidden="true">
 
 <img id="imp-logo" src="{{ site.baseurl }}/assets/img/logo/imp1-180px.png" alt="IMP logo" title="Research Institute of Molecular Pathology (IMP)">
+<img id="bi-logo" src="{{ site.baseurl }}/assets/img/logo/BI.png" alt="BI logo" title="BI">
 <img id="fwf-logo" src="{{ site.baseurl }}/assets/img/logo/fwf-200px.png" alt="FWF logo" title="FWF START Grant 2017">
+<img id="ffg" src="{{ site.baseurl }}/assets/img/logo/FFG.png" alt="FFG logo" title="FFG">
 <img id="hfsp-logo" src="{{ site.baseurl }}/assets/img/logo/hfsp-110px.png" alt="HFSP logo" title="HFSP Career Development Award">
 <img id="embo-yip" src="{{ site.baseurl }}/assets/img/logo/embo-yip.png" alt="EMBO-YIP logo" title="EMBO YIP">
 <img id="bif-logo" src="{{ site.baseurl }}/assets/img/logo/bif-200px.png" alt="BIF logo" title="Boehringer Ingelheim Fonds">
 <img id="oeaw-logo" src="{{ site.baseurl }}/assets/img/logo/oeaw-200px.png" alt="OEAW logo" title="Austrian Academy of Sciences (ÖAW)">
+<img id="fnsnf-logo" src="{{ site.baseurl }}/assets/img/logo/FNSNF.jpeg" alt="FNSNF logo" title="FNSNF">
+<img id="embo-logo" src="{{ site.baseurl }}/assets/img/logo/EMBO.jpeg" alt="EMBO" title="EMBO">
 <img id="rna-society-logo" src="{{ site.baseurl }}/assets/img/logo/rna-society-125px.png" alt="RNA Society logo" title="RNA Society (RNASalon)">
 </div>
 
