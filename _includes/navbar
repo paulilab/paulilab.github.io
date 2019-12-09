@@ -7,9 +7,8 @@
       <ul itemscope="" itemtype="http://www.schema.org/SiteNavigationElement" class="nav navbar-nav">
         <li itemprop="name" class="nav-item"><a itemprop="url" href="{{ site.baseurl }}/research/" class="nav-link">Research</a></li>
         <li itemprop="name" class="nav-item"><a itemprop="url" href="{{ site.baseurl }}/pubs/" class="nav-link">Publications</a> </li>
-        <li itemprop="name" class="nav-item"><a itemprop="url" href="{{ site.baseurl }}/news/" class="nav-link">News</a> </li>
+        <li itemprop="name" class="nav-item"><a itemprop="url" href="{{ site.baseurl }}/news/" class="nav-link">News &amp; Fun</a> </li>
         <li itemprop="name" class="nav-item"><a itemprop="url" href="{{ site.baseurl }}/people/" class="nav-link">People</a> </li>
-        <li itemprop="name" class="nav-item"><a itemprop="url" href="{{ site.baseurl }}/fun/" class="nav-link">Lab-Fun</a> </li>
         <li itemprop="name" class="nav-item"><a itemprop="url" href="{{ site.baseurl }}/joinus/" class="nav-link">Join Us</a> </li>
         <li itemprop="name" class="nav-item"><a itemprop="url" href="{{ site.baseurl }}/contact/" class="nav-link">Contact</a> </li>
       </ul>
