@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SFB RNA-DECO grant funded
+title: SFB grant 'RNA-DECO' funded
 picture: /assets/img/posts/20191212_SFB-RNAdeco.jpg
 published: true
 ---
