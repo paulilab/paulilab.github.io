@@ -6,4 +6,4 @@ published: true
 ---
 
 Congratulations to **Victoria Deneke** whose picture of a regenerating zebrafish tail-fin was selected for the 2020 MBL (Marine Biological Laboratory) calendar! Victoria took this picture as a student of the MBL zebrafish course this summer in Woods Hole as part of a class on fin regeneration by Ken Poss. 
-To see all pictures that were selected for the MBL calendar, check out the [website](bit.ly/399uatg). You can order the 2020 calendar [here](https://giftshop.mbl.edu/products/mbl-desk-calendar).
+To see all pictures that were selected for the MBL calendar, check out the [website](https://www.mbl.edu/blog/the-winners-of-the-2019-mbl-photo-contest/). You can order the 2020 calendar [here](https://giftshop.mbl.edu/products/mbl-desk-calendar).
