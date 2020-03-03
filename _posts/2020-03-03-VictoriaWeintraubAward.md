@@ -1,6 +1,6 @@
 ---
 layout: post
-title: International 2020 Weintraub Award for Victoria 
+title: Weintraub Award for Victoria 
 picture: /assets/img/posts/20200301_VictoriaWeintraubAward_small.jpg
 published: true
 ---
