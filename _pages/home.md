@@ -90,6 +90,7 @@ basic research institute that is part of the
 * FNSNF (Swiss National Science Foundation)
 * EMBO
 * RNA Society (RNA Salon)
+* SFB RNA-Deco (FWF)
 
 </div>
 <div class="funding" aria-hidden="true">
@@ -105,6 +106,7 @@ basic research institute that is part of the
 <img id="fnsnf-logo" src="{{ site.baseurl }}/assets/img/logo/FNSNF_logo.jpeg" alt="FNSNF logo" title="FNSNF">
 <img id="embo-logo" src="{{ site.baseurl }}/assets/img/logo/EMBO.jpeg" alt="EMBO" title="EMBO">
 <img id="rna-society-logo" src="{{ site.baseurl }}/assets/img/logo/rna-society-125px.png" alt="RNA Society logo" title="RNA Society (RNASalon)">
+<img id="sfb-rna-deco" src="{{ site.baseurl }}/assets/img/logo/SFB-RNAdeco_logo.jpg" alt="RNA Deco logo" title="RNA Deco (RNADeco)">
 </div>
 
 
