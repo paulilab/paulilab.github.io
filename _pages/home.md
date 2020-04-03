@@ -81,16 +81,17 @@ basic research institute that is part of the
 
 * Research Institute of Molecular Pathology (IMP)
 * Boehringer Ingelheim (BI)
-* FWF START Grant 2017
+* FWF START Grant (2017-2023)
 * FFG
-* HFSP Career Development Award
+* HFSP Career Development Award (2016-2020), HFSP Young Investigator Grant (2020-2022)
 * EMBO-YIP (EMBO Young Investigator Programme)
-* Boehringer Ingelheim Fonds
+* Boehringer Ingelheim Fonds (2016-2018; 2021-2023)
 * Austrian Academy of Sciences (ÖAW)
 * FNSNF (Swiss National Science Foundation)
-* EMBO
+* EMBO postdoc fellowship
 * RNA Society (RNA Salon)
 * SFB RNA-Deco (FWF)
+* Marie Sklodowska-Curie Individual Fellowships
 
 </div>
 <div class="funding" aria-hidden="true">
@@ -107,6 +108,7 @@ basic research institute that is part of the
 <img id="embo-logo" src="{{ site.baseurl }}/assets/img/logo/EMBO.jpeg" alt="EMBO" title="EMBO">
 <img id="rna-society-logo" src="{{ site.baseurl }}/assets/img/logo/rna-society-125px.png" alt="RNA Society logo" title="RNA Society (RNASalon)">
 <img id="sfb-rna-deco" src="{{ site.baseurl }}/assets/img/logo/SFB-RNAdeco_logo.jpg" alt="RNA Deco logo" title="RNA Deco (RNADeco)">
+<img id="Marie-Curie" src="{{ site.baseurl }}/assets/img/logo/marie-curie.jpg" alt="Marie Curie logo" title="Marie Curie">
 </div>
 
 
