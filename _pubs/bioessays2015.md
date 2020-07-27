@@ -1,5 +1,5 @@
 ---
-authors: "**Pauli, A.,** Valen, E., Schier, AF."
+authors: "**Pauli, A.#,** Valen, E.#, Schier, AF#."
 year: 2015
 title: "Identifying (non-)coding RNAs and small peptides: challenges and opportunities"
 journal: Bioessays
