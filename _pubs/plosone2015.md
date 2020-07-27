@@ -1,5 +1,5 @@
 ---
-authors: "**Pauli, A.,** Montague, TG., Lennox, KA., Behlke, MA., Schier, AF."
+authors: "**Pauli, A.#,** Montague, TG., Lennox, KA., Behlke, MA., Schier, AF#."
 year: 2015
 title: "Antisense Oligonucleotide-Mediated Transcript Knockdown in Zebrafish"
 journal: "PLoS One"
