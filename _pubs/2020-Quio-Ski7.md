@@ -1,5 +1,5 @@
 ---
-authors: "**Cabrera Quio, L.E.**, Schleiffer, A., Mechtler, K., **Pauli, A.**" 
+authors: "**Cabrera Quio, L.E.**, Schleiffer, A., Mechtler, K., **Pauli, A.#**" 
 year: 2020
 title: "Zebrafish Ski7 tunes RNA levels during the oocyte-to-embryo transition"
 journal: bioRxiv
