@@ -1,5 +1,5 @@
 ---
-authors: "**Pauli, A.,** Rinn, JL., Schier, AF."
+authors: "**Pauli, A.#,** Rinn, JL., Schier, AF#."
 year: 2011
 title: "Non-coding RNAs as regulators of embryogenesis"
 journal: "Nat Rev Genet"
