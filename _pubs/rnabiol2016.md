@@ -1,5 +1,5 @@
 ---
-authors: "**Cabrera-Quio, LE., Herberg, S., Pauli, A.**"
+authors: "**Cabrera-Quio, LE., Herberg, S., Pauli, A.#**"
 year: 2016
 title: "Decoding sORF translation - from small proteins to gene regulation"
 journal: "RNA Biol"
