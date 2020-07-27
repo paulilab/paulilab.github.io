@@ -1,5 +1,5 @@
 ---
-authors: "**Herberg, S.**, **Gert, K. R.**, Schleiffer, A., **Pauli, A.**"
+authors: "**Herberg, S.**, **Gert, K. R.**, Schleiffer, A., **Pauli, A.#**"
 year: 2018
 title: "The Ly6/uPAR protein Bouncer is necessary and sufficient for species-specific fertilization"
 journal: Science
