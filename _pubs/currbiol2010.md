@@ -1,5 +1,5 @@
 ---
-authors: "**Pauli, A.,** van Bemmel, JG., Oliveira, RA., Itoh, T., Shirahige, K., van Steensel, B., Nasmyth, K."
+authors: "**Pauli, A.#,** van Bemmel, JG., Oliveira, RA., Itoh, T., Shirahige, K., van Steensel, B., Nasmyth, K#."
 year: 2010
 title: "A direct role for cohesin in gene regulation and ecdysone response in Drosophila salivary glands"
 journal: "Curr Biol"
