@@ -1,5 +1,5 @@
 ---
-authors: "Kellner, M.J., Ross, J.J., Schnabl, J., Dekens, M.P.S., Heinen, R., Grishkovskaya, I., Bauer, B., Stadlmann, J., Menéndez-Arias, L., Fritsche-Polanz, R., Traugott, M., Seitz, T., Zoufaly, A., Födinger, M., Wenisch, C., Zuber, J., Vienna Covid-19 Diagnostics Initiative (VCDI), **Pauli, A.#**, Brennecke, J.#"
+authors: "Kellner, M.J.#, Ross, J.J., Schnabl, J., Dekens, M.P.S., Heinen, R., Grishkovskaya, I., Bauer, B., Stadlmann, J., Menéndez-Arias, L., Fritsche-Polanz, R., Traugott, M., Seitz, T., Zoufaly, A., Födinger, M., Wenisch, C., Zuber, J., Vienna Covid-19 Diagnostics Initiative (VCDI), **Pauli, A.#**, Brennecke, J.#"
 year: 2020
 title: "A rapid, highly sensitive and open-access SARS-CoV-2 detection assay for laboratory and home testing"
 journal: bioRxiv
