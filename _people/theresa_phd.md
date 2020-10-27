@@ -1,7 +1,7 @@
 ---
 first_name: Theresa
 last_name: Humer
-img: /assets/img/people/theresa2.jpg
+img: /assets/img/people/theresa3.jpg
 email: first.last@imp.ac.at
 country: Austria
 member_from: October 2020
