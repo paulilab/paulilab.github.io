@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Benni's got his Master!
+title: Benni got his Master!
 picture: /assets/img/posts/20201021_Benni_MasterThesisn.jpg
 published: true
 ---
