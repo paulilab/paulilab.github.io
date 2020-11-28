@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pauli lab retreat - not in Corona but in Prater
+title: Pauli lab retreat - not in Corona after all :-)
 picture: /assets/img/posts/20200924_labretreat.jpg
 published: true
 ---
