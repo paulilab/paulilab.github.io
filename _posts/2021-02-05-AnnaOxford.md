@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Anna got into Oxford University!
+title: Anna got into Oxford University for her PhD!
 picture: /assets/img/posts/20210205_AnnaOxford.jpg
 published: true
 ---
