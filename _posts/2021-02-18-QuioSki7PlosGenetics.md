@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quio's Ski7 paper accepted in PlosGenetics!
+title: Quio's Ski7 paper accepted in PlosGenetics
 picture: /assets/img/posts/20210218_Ski7PlosGenetics.jpg
 published: true
 ---
