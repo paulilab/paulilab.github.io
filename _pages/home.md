@@ -70,7 +70,7 @@ basic research institute that is part of the
 ### Links
 
 * [http://www.imp.ac.at/research/](http://www.imp.ac.at/research/)
-* [IMP Pauli Lab website](https://www.imp.ac.at/research/research-groups/andrea-pauli/research/)
+* [IMP Pauli Lab website](https://www.imp.ac.at/groups/andrea-pauli/)
 
 </div>
 
