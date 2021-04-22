@@ -5,6 +5,6 @@ img:
 email: first.verylast@imp.ac.at
 country: India
 member_from: March 2021
-member_till: now
+member_till: April 2021
 position: Intern
 ---
