@@ -4,7 +4,7 @@ year: 2021
 title: "SCON - A Short Conditional intrON for conditional knockout with one-step zygote injection"
 journal: bioRxiv
 pages: 
-doi: "2021.05.09.443220"
+doi: "10.1101/2021.05.09.443220"
 pubmed: 
 abstract: " "
 ---
