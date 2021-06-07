@@ -1,8 +1,8 @@
 ---
-first_name: Eduardo Isaac 
+first_name: Eduardo 
 last_name: Martinez Barrios
 img: 
-email: first.last@imp.ac.at
+email: first.middle@imp.ac.at
 country: El Salvador
 member_from: June 2021
 member_till: now
