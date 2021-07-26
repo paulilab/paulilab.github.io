@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Annual Review about 'How sperm and egg fuse'
+title: Annual Review about Sperm-Egg Fusion
 picture: /assets/img/posts/20210726_AnnualReviewFertilization.jpeg
 published: true
 ---
