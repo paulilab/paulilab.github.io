@@ -10,6 +10,6 @@ Over the past two months, Victoria has done a trememdous job in mentoring Eduard
 
 It's been a wonderful experience for both sides - mentor and mentee!!
 
-To read more about our [Salvadoran internship program and Eduardo's stay with us](https://www.imp.ac.at/news/article/salvadoran-student-at-the-imp/), check out this article on the IMP news page (thanks Mehdi for the great article!). 
+To read more about our [Salvadoran internship program and Eduardo's stay with us](https://www.imp.ac.at/news/article/salvadoran-student-at-the-imp/), check out this article on the IMP news page (thanks Mehdi!). 
 
 (picture credit to Mehdi Khadraoui)
