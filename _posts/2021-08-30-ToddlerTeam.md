@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Goodbye to Mireia from the Toddler Team
+title: Goodbye to our VBC summer student Mireia
 picture: /assets/img/posts/20210830-MireiaJessica.jpg
 published: true
 ---
