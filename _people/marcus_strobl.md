@@ -1,7 +1,7 @@
 ---
 first_name: Marcus
 last_name: Strobl
-img: 
+img: /assets/img/people/marcus_round_nobg.jpg
 email: first.last@imp.ac.at
 country: Austria
 member_from: June 2021
