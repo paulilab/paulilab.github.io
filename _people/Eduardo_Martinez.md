@@ -4,7 +4,7 @@ last_name: Martinez Barrios
 img: 
 email: first.middle@imp.ac.at
 country: El Salvador
-member_from: June 2021
+member_from: June
 member_till: August 2021
 position: Intern
 ---
