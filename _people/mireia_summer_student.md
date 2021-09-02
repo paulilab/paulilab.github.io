@@ -5,6 +5,6 @@ img:
 email: first.middle.last@imp.ac.at
 country: Spain
 member_from: July 2021
-member_till: now
+member_till: August 2021
 position: VBC Summer Student
 ---
