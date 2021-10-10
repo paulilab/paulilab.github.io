@@ -1,7 +1,7 @@
 ---
 first_name: Hannah
 last_name: Keresztes
-img: 
+img: /assets/img/people/Hannah_round.jpg
 email: first.last@imp.ac.at
 country: Austria
 member_from: September 2021
