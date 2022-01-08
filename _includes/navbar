@@ -1,6 +1,6 @@
 <nav class="navbar navbar-light bg-light fixed-top navbar-expand-md">
   <div class="container">
-    <a class="navbar-brand" href="/"><img alt="brand" src="/favicon-new-PauliLab.png">PauliLab</a>
+    <a class="navbar-brand" href="/"><img alt="brand" src="/favicon-new-PauliLab-60x24.png">PauliLab</a>
     <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target=".navbar-collapse"
      aria-expanded="false"> <span class="sr-only">Toggle navigation</span> &#x2630;</button>
     <div class="navbar-collapse collapse">
