@@ -1,6 +1,6 @@
 ---
 authors: "Huth, M., Santini, L., Galimberti, E., Ramesmayer, J., Titz-Teixeira, F., Sehlke, R., Oberhuemer, M., Stummer, S., Herzog, V., Garmhausen, M., Romeike, M., **Chugunova, A., Leesch, K.F.**, Holcik, L., Weipoltshammer, K., Lackner, A., Schoefer, C., von Haeseler, A., Bücker, C., **Pauli, A.**, Ameres, S.L., Smith, A., Beyer, A., Leeb, M."
-year: 2020
+year: 2022
 title: "NMD is required for timely cell fate transitions by fine-tuning gene expression and regulating translation"
 journal: Genes & Development
 pages: "1-20 (bioRxiv: 10.1101/2020.07.07.180133)"
