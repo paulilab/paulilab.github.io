@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Communication and Outreach Award from the SDB for Victoria
+title: SDB Communication and Outreach Award for Victoria
 picture: /assets/img/posts/20220119-Victoria-SDBAward.jpg
 published: true
 ---
