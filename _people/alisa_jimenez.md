@@ -5,6 +5,6 @@ img:
 email: first.middle@imp.ac.at
 country: Germany
 member_from: September 2021
-member_till: now
+member_till: March 2022
 position: Intern
 ---
