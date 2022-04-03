@@ -1,5 +1,5 @@
 ---
-authors: "Guo, Y., **Gert, K.R.**, Lebedeva, S., Potok, M.E., Wike, C.L., Grow, E.J., Ketting, R.F., **Pauli, A.**, Cairns, B.R."
+authors: "Guo, Y., **Gert, KR.**, Lebedeva, S., Potok, ME., Wike, CL., Grow, EJ., Ketting, RF., **Pauli, A.**, Cairns, BR."
 year: 2021
 title: "Maternally-inherited anti-sense piRNAs antagonize transposon expression in teleost embryos"
 journal: bioRxiv
