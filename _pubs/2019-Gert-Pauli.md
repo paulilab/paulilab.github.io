@@ -1,5 +1,5 @@
 ---
-authors: "**Gert, K.R.**, **Pauli, A.#**" 
+authors: "**Gert, KR.**, **Pauli, A.#**" 
 year: 2020
 title: "Species-specific mechanisms during fertilization"
 journal: Current Topics in Developmental Biology,
