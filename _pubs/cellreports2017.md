@@ -1,5 +1,5 @@
 ---
-authors: "Freyer, L., Hsu, CW, Nowotschin, S., **Pauli, A.,** Ishida, J., Kuba, K., Fukamizu, A., Schier, AF., Hoodless, PA., Dickinson, ME., Hadjantonakis, AK."
+authors: "Freyer, L., Hsu, CW., Nowotschin, S., **Pauli, A.,** Ishida, J., Kuba, K., Fukamizu, A., Schier, AF., Hoodless, PA., Dickinson, ME., Hadjantonakis, AK."
 year: 2017
 title: "Loss of Apela Peptide in Mice Causes Low Penetrance Embryonic Lethality and Defects in Early Mesodermal Derivatives"
 journal: Cell Reports
