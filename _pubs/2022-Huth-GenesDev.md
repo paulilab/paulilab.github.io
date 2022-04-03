@@ -1,5 +1,5 @@
 ---
-authors: "Huth, M., Santini, L., Galimberti, E., Ramesmayer, J., Titz-Teixeira, F., Sehlke, R., Oberhuemer, M., Stummer, S., Herzog, V., Garmhausen, M., Romeike, M., **Chugunova, A., Leesch, F.**, Holcik, L., Weipoltshammer, K., Lackner, A., Schoefer, C., von Haeseler, A., Bücker, C., **Pauli, A.**, Ameres, S.L., Smith, A., Beyer, A., Leeb, M."
+authors: "Huth, M., Santini, L., Galimberti, E., Ramesmayer, J., Titz-Teixeira, F., Sehlke, R., Oberhuemer, M., Stummer, S., Herzog, V., Garmhausen, M., Romeike, M., **Chugunova, A., Leesch, F.**, Holcik, L., Weipoltshammer, K., Lackner, A., Schoefer, C., von Haeseler, A., Bücker, C., **Pauli, A.**, Ameres, SL., Smith, A., Beyer, A., Leeb, M."
 year: 2022
 title: "NMD is required for timely cell fate transitions by fine-tuning gene expression and regulating translation"
 journal: Genes & Development
