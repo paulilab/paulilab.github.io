@@ -1,5 +1,5 @@
 ---
-authors: "**Gert, K.R., Cabrera Quio, L.E**, Novatchkova, M., Guo, Y., Cairns, B.R., **Pauli, A.#**"
+authors: "**Gert, KR., Cabrera Quio, LE**, Novatchkova, M., Guo, Y., Cairns, BR., **Pauli, A.#**"
 year: 2021
 title: "Reciprocal zebrafish-medaka hybrids reveal maternal control of zygotic genome activation timing"
 journal: bioRxiv
