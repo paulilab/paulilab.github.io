@@ -1,5 +1,5 @@
 ---
-authors: "Kellner, M.J.#, Matl, M., Ross, J.J., Schnabl, J., Handler, D., Heinen, R., Schaeffer, J., Hufnagl, P., Indra, A., Dekens, M.P.S., Fritsche-Polanz, R., Födinger, M., Zuber, J., Vienna Covid-19 Detection Initiative (VCDI), Allerberger, F., **Pauli, A.#**, Brennecke, J.#"
+authors: "Kellner, MJ.#, Matl, M., Ross, JJ., Schnabl, J., Handler, D., Heinen, R., Schaeffer, J., Hufnagl, P., Indra, A., Dekens, MPS., Fritsche-Polanz, R., Födinger, M., Zuber, J., Vienna Covid-19 Detection Initiative (VCDI), Allerberger, F., **Pauli, A.#**, Brennecke, J.#"
 year: 2021
 title: "Head-to-head comparison of direct-input RT-PCR and RT-LAMP against RT-qPCR on extracted RNA for rapid SARS-CoV-2 diagnostics"
 journal: medRxiv
