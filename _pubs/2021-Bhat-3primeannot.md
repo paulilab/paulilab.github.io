@@ -1,5 +1,5 @@
 ---
-authors: "Bhat, P., Burkard, T.R., Herzog, V.A., **Pauli, A.**, Ameres, S.L." 
+authors: "Bhat, P., Burkard, TR., Herzog, VA., **Pauli, A.**, Ameres, SL." 
 year: 2021
 title: "Systematic refinement of gene annotations by parsing mRNA 3′ end sequencing datasets"
 journal: Methods in Enzymology,
