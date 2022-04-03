@@ -1,5 +1,5 @@
 ---
-authors: "Wu, S.-H.S., Szep-Bakonyi, R., Lee, H., Colozza, G., Boese, A., **Gert, K.R.**, Hallay, N., Kim, J., Zhu, Y., Pilat-Carotta, S., Theussl, H.-C., **Pauli, A.**, Koo, B.-K."
+authors: "Wu, SHS., Szep-Bakonyi, R., Lee, H., Colozza, G., Boese, A., **Gert, KR.**, Hallay, N., Kim, J., Zhu, Y., Pilat-Carotta, S., Theussl, HC., **Pauli, A.**, Koo, BK."
 year: 2021
 title: "SCON - A Short Conditional intrON for conditional knockout with one-step zygote injection"
 journal: bioRxiv
