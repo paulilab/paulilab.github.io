@@ -1,5 +1,5 @@
 ---
-authors: "**Pauli, A.#,** Norris, ML., Valen, E., Chew, GL., Gagnon, JA., Zimmerman, S., Mitchell, A., Ma, J., Dubrulle, J., Reyon, D., Tsai, SQ., Joung, JK., Saghatelian, A., Schier, AF#."
+authors: "**Pauli, A.#,** Norris, ML., Valen, E., Chew, GL., Gagnon, JA., Zimmerman, S., Mitchell, A., Ma, J., Dubrulle, J., Reyon, D., Tsai, SQ., Joung, JK., Saghatelian, A., Schier, AF.#"
 year: 2014
 title: "Toddler: an embryonic signal that promotes cell movement via Apelin receptors"
 journal: Science
