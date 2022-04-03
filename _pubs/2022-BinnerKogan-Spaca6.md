@@ -1,5 +1,5 @@
 ---
-authors: "**Binner, M.I.#, Kogan, A.#, Panser, K.**, Schleiffer, A., **Deneke, V.E.#, Pauli, A.#**"
+authors: "**Binner, MI.#, Kogan, A.#, Panser, K.**, Schleiffer, A., **Deneke, VE.#, Pauli, A.#**"
 year: 2022
 title: "The sperm protein Spaca6 is essential for fertilization in zebrafish"
 journal: Frontiers in Cell and Developmental Biology
