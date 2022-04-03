@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 1st RT-LAMP paper finally published
+title: 1st RT-LAMP paper published
 picture: /assets/img/posts/20220401-RTLAMP_Frontiers.jpeg
 published: true
 ---
