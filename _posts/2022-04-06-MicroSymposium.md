@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsymposium on RNA biology
-picture: /assets/img/posts/2022-06-10_GRC-cell-cell-fusion.jpeg
+picture: /assets/img/posts/2022-04-06_MicroSymposium.jpeg
 published: true
 ---
 After a year off and last year only online due to the pandemic, the Microsymposium on RNA Biology was finally back again for an in-person meeting in the IMP lecture hall!
