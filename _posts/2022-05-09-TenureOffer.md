@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Andi's promotion to tenure
-picture: /assets/img/posts/2022-05-09_offer_Anna_Andi_Senior2.jpg
+picture: /assets/img/posts/2022-05-09_offer_Anna_Andi_Senior3.jpg
 published: true
 ---
 The big day: **Anna Obenauf** and **Andi** received the official letter of being tenured at the IMP!
