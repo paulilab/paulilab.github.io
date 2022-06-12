@@ -3,7 +3,7 @@ layout: default
 title: home
 permalink: /
 splash: /assets/img/splash/fish5c.jpg
-picture: /assets/img/2022-05-24_PauliLab_terrace.jpg
+picture: /assets/img/2022-05-24_PauliLab_terrace.jpeg
 description: "Pauli Lab investigates regulators of embryogenesis @ Research Institute of Molecular Pathology (IMP), Vienna Biocenter."
 ---
 <div class="row">
@@ -52,7 +52,7 @@ To address these questions, we are mainly using zebrafish embryos since they are
 ## About us
 
 <img class="img-fluid" alt="Pauli Lab members"
-src="{{ site.baseurl }}/assets/img/20210621-BBQ_Andis.jpg">
+src="{{ site.baseurl }}/assets/img/2022-05-24_PauliLab_terrace.jpeg">
 
 Pauli Lab June 2021
 
