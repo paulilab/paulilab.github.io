@@ -5,6 +5,6 @@ img:
 email: first.last@imp.ac.at
 country: Russia
 member_from: January 2021
-member_till: now
+member_till: June 2022
 position: Intern
 ---
