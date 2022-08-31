@@ -5,6 +5,6 @@ img:
 email: first.middle-last@imp.ac.at
 country: France
 member_from: April 2022
-member_till: now
+member_till: August 2022
 position: Intern
 ---
