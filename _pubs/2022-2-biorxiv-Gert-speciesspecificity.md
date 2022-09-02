@@ -4,7 +4,7 @@ year: 2022
 title: "Distinct features in fish Bouncer proteins determine sperm-egg compatibility"
 journal: bioRxiv
 pages: 
-doi: " "
+doi: "10.1101/2022.09.01.506233"
 pubmed: 
 abstract: " "
 ---
