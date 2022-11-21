@@ -1,7 +1,7 @@
 ---
 first_name: Lalitha
 last_name: Veleti
-img: 
+img: /assets/img/people/lalitha_rd.png
 email: first.last@imp.ac.at
 country: India
 member_from: November 2022
