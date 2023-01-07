@@ -81,7 +81,7 @@ basic research institute that is part of the
 
 * Research Institute of Molecular Pathology (IMP)
 * Boehringer Ingelheim (BI)
-* Eueropean Research Council (ERC)
+* European Research Council (ERC)
 * FWF START Grant (2017-2023)
 * FFG
 * HFSP Career Development Award (2016-2020), HFSP Young Investigator Grant (2020-2022)
