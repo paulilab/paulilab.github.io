@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RNAclub social at a Vienna Christmas market
+title: RNAclub social at Vienna Christmas market
 picture: /assets/img/posts/20221219_RNAclub_Xmasmarket.jpeg
 published: true
 ---
