@@ -14,5 +14,5 @@ If you want to know more about our work, here are some links:
 - read the [paper](https://www.nature.com/articles/s41586-022-05623-y)
 - read the [Research Briefing](https://www.nature.com/articles/d41586-022-04526-2) by Frieda and Laura
 - check out the [News Article](https://www.imp.ac.at/news/article/scientists-bring-the-sleep-mode-of-egg-ribosomes-to-light/) (thanks Mehdi Goudarzi)
-- check out our tweets ([Frieda](https://twitter.com/FriedaLeesch/status/1615771662716125198) [Laura](https://twitter.com/llorenzoorts/status/1615790432985972736) and [pre-print tweetorial](https://twitter.com/PauliGroup/status/1456284385372692486)) 
+- check out our tweets ([Frieda](https://twitter.com/FriedaLeesch/status/1615771662716125198) [Laura](https://twitter.com/llorenzoorts/status/1615790432985972736) [David](https://twitter.com/HaselbachLab/status/1615778263762358272) and [pre-print tweetorial](https://twitter.com/PauliGroup/status/1456284385372692486)) 
 
