@@ -1,7 +1,7 @@
 ---
 first_name: Laurine
 last_name: Jacob
-img: 
+img: /assets/img/people/laurine_round.jpg
 email: first.last@imp.ac.at
 country: Luxembourg
 member_from: February 2023
