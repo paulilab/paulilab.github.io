@@ -1,5 +1,5 @@
 ---
-authors: "**Gert, KRB., Panser, K.**, Surm, J., **Steinmetz, BS.**, Schleiffer, A., Jovine, L., Moran, Y., Kondrashov, F., **Pauli, A.**"
+authors: "**Gert, KRB., Panser, K.**, Surm, J., **Steinmetz, BS.**, Schleiffer, A., Jovine, L., Moran, Y., Kondrashov, F., **Pauli, A.#**"
 year: 2023
 title: "Divergent molecular signatures in fish Bouncer proteins define cross-fertilization boundaries"
 journal: Nature Communications
