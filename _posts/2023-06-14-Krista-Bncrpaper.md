@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Krista's Bouncer match-maker paper our in NatureCommunications!
+title: Krista's Bouncer match-maker paper out in NatureCommunications!
 picture: /assets/img/posts/20230614_Krista_Bncr.jpeg
 published: true
 ---
