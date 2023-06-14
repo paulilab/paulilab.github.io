@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Krista's Bouncer match-maker paper out in NatureCommunications!
-picture: /assets/img/posts/20230614_Krista_Bncr.jpeg
+picture: /assets/img/posts/20230614_KristaBncr.jpeg
 published: true
 ---
 Big congrats to first author **Krista**!!
