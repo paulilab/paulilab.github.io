@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New pre-print by Victoria & Andreas on sperm fertilization factors forming a trimer!
+title: New pre-print by Victoria & Andreas on sperm fertilization factors forming a trimer
 picture: /assets/img/posts/
 published: true
 ---
