@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New pre-print by Victoria & Andreas on sperm fertilization factors forming a trimer
-picture: /assets/img/posts/
+picture: /assets/img/posts/20230729_Fig4_PaulilabPost.jpeg
 published: true
 ---
 We are super excited about our new pre-print led by **Victoria & Andreas** in which we discover a conserved fertilization complex that mediates sperm-egg interaction in vertebrates.
