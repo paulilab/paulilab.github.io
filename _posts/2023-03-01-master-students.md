@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome on board to our 4 international master students
-picture: /assets/img/posts/
+picture: /assets/img/posts/20230301_Masterstudents.jpeg
 published: true
 ---
 This is a first in the history of the Pauli lab to have not only one or two but four international Master students join us this spring!
