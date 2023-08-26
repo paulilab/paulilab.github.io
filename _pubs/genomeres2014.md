@@ -2,7 +2,7 @@
 authors: "Zhang, Y., Vastenhouw, NL., Feng, J., Fu, K., Wang, C., Ge, Y., **Pauli, A.,** van Hummelen, P., Schier, AF., Liu, XS."
 year: 2014
 title: "Canonical nucleosome organization at promoters forms during genome activation"
-journal: "Genome Res"
+journal: "**Genome Research**."
 pages: "24(2):260-6"
 doi: "10.1101/gr.157750.113"
 pubmed: 24285721
