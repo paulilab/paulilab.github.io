@@ -2,7 +2,7 @@
 authors: "Oliveira, RA., Hamilton, RS., **Pauli, A.,** Davis, I., Nasmyth, K."
 year: 2010
 title: "Cohesin cleavage and Cdk inhibition trigger formation of daughter nuclei"
-journal: "**Nature Cell Biol**."
+journal: "***Nature Cell Biol***."
 pages: "12(2):185-92"
 doi: "10.1038/ncb2018"
 pubmed: 20081838
