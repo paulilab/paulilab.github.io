@@ -2,7 +2,7 @@
 authors: "**Pauli, A.,** Althoff, F., Oliveira, RA., Heidmann, S., Schuldiner, O., Lehner, CF., Dickson, BJ., Nasmyth, K."
 year: 2008
 title: "Cell-type-specific TEV protease cleavage reveals cohesin functions in Drosophila neurons"
-journal: "Dev Cell"
+journal: "**Dev Cell**."
 pages: "14(2):239-51"
 doi: "10.1016/j.devcel.2007.12.009"
 pubmed: 18267092
