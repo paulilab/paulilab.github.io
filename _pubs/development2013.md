@@ -2,7 +2,7 @@
 authors: "Chew, GL., **Pauli, A.,** Rinn, JL., Regev, A., Schier, AF., Valen, E."
 year: 2013
 title: "Ribosome profiling reveals resemblance between long non-coding RNAs and 5' leaders of coding RNAs"
-journal: Development
+journal: "**Development**."
 pages: "140(13):2828-34"
 doi: "10.1242/dev.098343"
 pubmed: 23698349
