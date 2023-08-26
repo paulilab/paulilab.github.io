@@ -2,7 +2,7 @@
 authors: "Bhat, P., **Cabrera Quio, LE.**, Herzog, VA., Fasching, N., **Pauli, A.#**, Ameres, SL.#"
 year: 2023
 title: "SLAMseq resolves the kinetics of maternal and zygotic gene expression during early zebrafish embryogenesis"
-journal: Cell Reports
+journal: "**Cell Reports**."
 pages: "Feb 8;42(2):112070 (bioRxiv: 10.1101/2022.06.01.494399)"
 doi: "10.1016/j.celrep.2023.112070"
 pubmed: 
