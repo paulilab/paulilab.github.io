@@ -2,7 +2,7 @@
 authors: "**Pauli, A.#,** Montague, TG., Lennox, KA., Behlke, MA., Schier, AF#."
 year: 2015
 title: "Antisense Oligonucleotide-Mediated Transcript Knockdown in Zebrafish"
-journal: "PLoS One"
+journal: "**PLoS One**."
 pages: "10(10):e0139504"
 doi: "10.1371/journal.pone.0139504"
 pubmed: 26436892
