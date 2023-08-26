@@ -2,7 +2,7 @@
 authors: "**Pauli, A.#,** Norris, ML., Valen, E., Chew, GL., Gagnon, JA., Zimmerman, S., Mitchell, A., Ma, J., Dubrulle, J., Reyon, D., Tsai, SQ., Joung, JK., Saghatelian, A., Schier, AF.#"
 year: 2014
 title: "Toddler: an embryonic signal that promotes cell movement via Apelin receptors"
-journal: Science
+journal: "**Science**."
 pages: "343(6172):1248636"
 doi: "10.1126/science.1248636"
 pubmed: 24407481
