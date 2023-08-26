@@ -2,7 +2,7 @@
 authors: "Chew, GL., **Pauli, A.,** Schier, AF."
 year: 2016
 title: "Conservation of uORF repressiveness and sequence features in mouse, human and zebrafish"
-journal: "**Nature Communications**."
+journal: "***Nature Communications***."
 pages: "7:11663"
 doi: "10.1038/ncomms11663"
 pubmed: 27216465
