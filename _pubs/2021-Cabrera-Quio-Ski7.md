@@ -2,7 +2,7 @@
 authors: "**Cabrera-Quio, LE.**, Schleiffer, A., Mechtler, K., **Pauli, A.#**" 
 year: 2021
 title: "Zebrafish Ski7 tunes RNA levels during the oocyte-to-embryo transition"
-journal: PlosGenetics
+journal: "**PlosGenetics**."
 pages: "17(2): e1009390 (bioRxiv: 10.1101/2020.03.19.998716)"
 doi: "10.1371/journal.pgen.1009390"
 pubmed: 
