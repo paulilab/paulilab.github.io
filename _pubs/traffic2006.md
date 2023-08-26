@@ -2,7 +2,7 @@
 authors: "Panse, VG., Kressler, D., **Pauli, A.,** Petfalski, E., Gnädig, M., Tollervey, D., Hurt, E."
 year: 2006
 title: "Formation and nuclear export of preribosomes are functionally linked to the small-ubiquitin-related modifier pathway"
-journal: Traffic
+journal: "**Traffic**."
 pages: "7(10):1311-21"
 doi: "10.1111/j.1600-0854.2006.00471.x"
 pubmed: 16978391
