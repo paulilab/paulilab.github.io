@@ -2,7 +2,7 @@
 authors: "**Pauli, A.#,** Rinn, JL., Schier, AF#."
 year: 2011
 title: "Non-coding RNAs as regulators of embryogenesis"
-journal: "**Nature Review Genetics**."
+journal: "***Nature Review Genetics***."
 pages: "12(2):136-49"
 doi: "10.1038/nrg2904"
 pubmed: 21245830
