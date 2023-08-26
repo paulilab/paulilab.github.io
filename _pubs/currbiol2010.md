@@ -2,7 +2,7 @@
 authors: "**Pauli, A.#,** van Bemmel, JG., Oliveira, RA., Itoh, T., Shirahige, K., van Steensel, B., Nasmyth, K#."
 year: 2010
 title: "A direct role for cohesin in gene regulation and ecdysone response in Drosophila salivary glands"
-journal: "**Curr Biol**."
+journal: "***Curr Biol***."
 pages: "20(20):1787-98"
 doi: "10.1016/j.cub.2010.09.006"
 pubmed: 20933422
