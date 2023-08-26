@@ -2,7 +2,7 @@
 authors: "**Stock, J., Kazmar, T., Schlumm, F.**, Hannezo, E.#, **Pauli, A.#**"
 year: 2022
 title: "A self-generated Toddler gradient guides mesodermal cell migration"
-journal: Science Advances.
+journal: **Science Advances**.
 pages: "Sep 16;8(37):eadd2488 (bioRxiv: 10.1101/2021.12.16.472981)"
 doi: "10.1126/sciadv.add2488"
 pubmed: 
