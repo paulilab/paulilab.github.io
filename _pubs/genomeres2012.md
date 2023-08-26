@@ -2,7 +2,7 @@
 authors: "**Pauli, A.#,** Valen, E., Lin, MF., Garber, M., Vastenhouw, NL., Levin, JZ., Fan, L., Sandelin, A., Rinn, JL., Regev, A., Schier, AF#."
 year: 2012
 title: "Systematic identification of long noncoding RNAs expressed during zebrafish embryogenesis"
-journal: "**Genome Res**."
+journal: "**Genome Research**."
 pages: "22(3):577-91"
 doi: "10.1101/gr.133009.111"
 pubmed: 22110045
