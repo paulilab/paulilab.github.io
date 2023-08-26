@@ -2,7 +2,7 @@
 authors: "Kamieniarz-Gdula, K.#, Gdula, MR., **Panser, K.**, Nojima, T., Monks, J., Wisniewski, JR., Riepsaame, J., Brockdorff, N., **Pauli, A.#**, Proudfoot, NJ.#" 
 year: 2019
 title: "Selective roles of vertebrate PCF11 in premature and full-length transcript termination"
-journal: Molecular Cell
+journal: "**Molecular Cell**."
 pages: Apr 4;74(1):158-172.e9
 doi: "10.1016/j.molcel.2019.01.027"
 pubmed: 
