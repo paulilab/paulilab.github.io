@@ -2,7 +2,7 @@
 authors: "**Cabrera-Quio, LE., Herberg, S., Pauli, A.#**"
 year: 2016
 title: "Decoding sORF translation - from small proteins to gene regulation"
-journal: "**RNA Biology**."
+journal: "***RNA Biology***."
 pages: "13(11):1051-1059"
 doi: "10.1080/15476286.2016.1218589"
 pubmed: 27653973
