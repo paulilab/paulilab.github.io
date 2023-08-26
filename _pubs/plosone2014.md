@@ -2,7 +2,7 @@
 authors: "Gagnon, JA., Valen, E., Thyme, SB., Huang, P., Akhmetova, L., Ahkmetova, L., **Pauli, A.,** Montague, TG., Zimmerman, S., Richter, C., Schier, AF."
 year: 2014
 title: "Efficient mutagenesis by Cas9 protein-mediated oligonucleotide insertion and large-scale assessment of single-guide RNAs"
-journal: "PLoS One"
+journal: "**PLoS One**."
 pages: "9(5):e98186"
 doi: "10.1371/journal.pone.0098186"
 pubmed: 24873830
