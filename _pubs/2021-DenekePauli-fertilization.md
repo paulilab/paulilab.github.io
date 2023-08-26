@@ -2,7 +2,7 @@
 authors: "**Deneke, VE.#, Pauli, A.#**" 
 year: 2021
 title: "The Fertilization Enigma: How Sperm and Egg Fuse"
-journal: Annual Review of Cell and Developmental Biology,
+journal: "**Annual Review of Cell and Developmental Biology**."
 pages: "37:1"
 doi: "10.1146/annurev-cellbio-120219-021751"
 pubmed: 
