@@ -2,7 +2,7 @@
 authors: "**Leesch, F.#, Lorenzo-Orts, L.#, Pribitzer, C.**, Grishkovskaya, I., **Roehsner, J., Chugunova, A.**, Matzinger, M., Roitinger, E., Belacic, K., Kandolf, S., Lin, TY., Mechtler, K., Meinhart, A., Haselbach, D.#, **Pauli, A.#**"
 year: 2023
 title: "A molecular network of conserved factors keeps ribosomes dormant in the egg"
-journal: Nature.
+journal: "**Nature**."
 pages: "Jan;613(7945):712-720 (bioRxiv: 10.1101/2021.11.03.467131)"
 doi: "10.1038/s41586-022-05623-y"
 pubmed: 
