@@ -2,7 +2,7 @@
 authors: "Rogers, KW., Lord, ND., Gagnon, JA., **Pauli, A.,** Zimmerman, S., Aksel, DC., Reyon, D., Tsai, SQ., Joung, JK., Schier, AF."
 year: 2017
 title: "Nodal patterning without Lefty inhibitory feedback is functional but fragile"
-journal: eLife
+journal: "**eLife**."
 pages: "6, e28785"
 doi: "10.7554/eLife.28785 "
 pubmed: 
