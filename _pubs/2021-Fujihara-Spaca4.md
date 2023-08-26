@@ -2,7 +2,7 @@
 authors: "Fujihara, Y.#, **Herberg, S.#, Blaha, A., Panser, K.**, Kobayashi, K., Larasati, T., Novatchkova, M., Theussl, HC., Olszanska, O., Ikawa, M.#, **Pauli, A.#**"
 year: 2021
 title: "The conserved fertility factor SPACA4/Bouncer has divergent modes of action in vertebrate fertilization"
-journal: PNAS
+journal: "**PNAS**."
 pages: "118 (39) e2108777118 (bioRxiv: 10.1101/2021.05.02.442348)"
 doi: "10.1073/pnas.2108777118"
 pubmed: 
