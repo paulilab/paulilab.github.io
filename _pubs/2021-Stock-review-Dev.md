@@ -2,7 +2,7 @@
 authors: "**Stock, J., Pauli, A.#**" 
 year: 2021
 title: "Self-organized cell migration across scales – from single cell movement to tissue formation"
-journal: Development,
+journal: "**Development**."
 pages: "pages 1-13"
 doi: "10.1242/dev.191767"
 pubmed: 
