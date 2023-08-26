@@ -2,7 +2,7 @@
 authors: "Marhold, J., Rothe, N., **Pauli, A.,** Mund, C., Kuehle, K., Brueckner, B., Lyko, F."
 year: 2004
 title: "Conservation of DNA methylation in dipteran insects"
-journal: "**Insect Mol Biol**."
+journal: "***Insect Mol Biol***."
 pages: "13(2):117-23"
 doi: "10.1111/j.0962-1075.2004.00466.x"
 pubmed: 15056358 
