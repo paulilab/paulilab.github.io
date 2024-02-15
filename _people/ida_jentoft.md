@@ -1,7 +1,7 @@
 ---
 first_name: Ida
 last_name: Jentoft
-img: /assets/img/people/xxx.jpg
+img: /assets/img/people/ida_jentoft_round.jpg
 email: first.last@imp.ac.at
 country: Norway
 member_from: February 2024
