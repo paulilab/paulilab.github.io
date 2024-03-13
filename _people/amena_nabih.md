@@ -1,7 +1,7 @@
 ---
 first_name: Amena
 last_name: Nabih
-img: /assets/img/people/AmyNabih_round.jpg
+img: /assets/img/people/AmyNabih_round.png
 email: first.last@imp.ac.at
 country: Canada/Egypt
 member_from: March 2024
