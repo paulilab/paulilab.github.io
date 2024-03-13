@@ -1,5 +1,5 @@
 ---
-first_name: Amena
+first_name: Amena (Amy)
 last_name: Nabih
 img: /assets/img/people/AmyNabih_round.png
 email: first.last@imp.ac.at
