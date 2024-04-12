@@ -1,7 +1,7 @@
 ---
 first_name: Joerg
 last_name: Fallmann
-img: /assets/img/people/JoergFallmann_round.jpg
+img: /assets/img/people/joerg_round.png
 email: first.last@imp.ac.at
 country: Austria
 member_from: March 2024
