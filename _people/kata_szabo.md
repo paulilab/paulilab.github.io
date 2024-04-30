@@ -1,8 +1,8 @@
 ---
-first_name: Kata
+first_name: Kata Sara
 last_name: Szabó
 img: 
-email: first.last@imp.ac.at
+email: firstmiddle.last@imp.ac.at
 country: Hungary
 member_from: April 2024
 member_till: now
