@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fellowship successes for Ida, Amy and Josef
-picture: /assets/img/posts/.jpeg
+picture: /assets/img/posts/2024-06-25-AmyIdaJosef.jpeg
 published: true
 ---
 The past week has brought us the news of not only one but three successes for Pauli lab members in recent fellowship applications:
@@ -10,3 +10,6 @@ The past week has brought us the news of not only one but three successes for Pa
 -	**Josef** was awarded a DOC PhD fellowship for studying the mechanism and function of dormant ribosome formation in fish and mammals.
 -	
 Huge congratulations to all three of you for this amazing feat!
+
+Picture credit to Benedikt Mandl (IMP).
+
