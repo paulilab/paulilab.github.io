@@ -8,8 +8,6 @@ The past week has brought us the news of not only one but three successes for Pa
 -	**Ida** secured an EMBO postdoctoral fellowship for studying the molecular mechanism of diapause in killifish;
 -	**Amy** was awared a SNF postdoctoral fellowship for investigating age-related changes in developmental competence in zebrafish;
 -	**Josef** was awarded a DOC PhD fellowship for studying the mechanism and function of dormant ribosome formation in fish and mammals.
--	
-Huge congratulations to all three of you for this amazing feat!
-
-Picture credit to Benedikt Mandl (IMP).
+  
+Huge congratulations to all three of you for this amazing feat (picture credit to Benedikt Mandl, IMP)!
 
