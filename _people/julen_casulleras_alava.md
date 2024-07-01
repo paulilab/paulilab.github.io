@@ -1,10 +1,11 @@
 ---
-first_name: Julen
+first_name: Julen  
 last_name: Casulleras Alava
-img:
+img: 
 email: first.middle@imp.ac.at
-country:
+country: 
 member_from: July 2024
-member_till: Now
+member_till: now
 position: Intern
 ---
+
