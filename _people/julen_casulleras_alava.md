@@ -6,5 +6,5 @@ email: first.middle@imp.ac.at
 country:
 member_from: July 2024
 member_till: Now
-position: VBC Summer Student
+position: Intern
 ---
