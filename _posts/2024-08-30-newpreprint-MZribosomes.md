@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New pre-print by the Pauli and Calo labs on maternal-zygotic ribosomes
-picture: /assets/img/posts/xxx
+picture: /assets/img/posts/Frieda_thesis.jpeg
 published: true
 ---
 New pre-print alert! 
