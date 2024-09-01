@@ -10,3 +10,5 @@ In this collaborative study jointly led by Arish Shah from Eliezer Calo's lab (M
 We discovered that maternal and somatic subunits are compatible with each other and can form hybrid ribosomes. In addition, we found that maternal-type ribosomes are not only made during oogenesis but are generated in primordial germ cells likely throughout the life of the fish. Thus, the previously described dual ribosomal system extends to the germline of the fish, opening the possibility that it may control germline-specific translation. 
 
 Big congrats to all authors!
+
+Summary scheme credit to Frieda (Friederike Leesch, PhD thesis 2023)
