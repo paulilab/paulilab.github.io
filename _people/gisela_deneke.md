@@ -5,6 +5,6 @@ img:
 email: first.last@imp.ac.at
 country: El Salvador
 member_from: April 2023
-member_till: now
+member_till: September 2024
 position: Intern
 ---
