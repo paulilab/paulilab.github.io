@@ -26,7 +26,7 @@ To address these questions, we are mainly using zebrafish embryos since they are
 [Publications &hellip;]({{ site.baseurl }}/pubs/)
 
 
-### Science sketch
+### Science sketch and videos
 
 <video width="100%" height="auto" controls>
   <source src="/assets/vid/bouncer-sketch.mp4" type="video/mp4">
