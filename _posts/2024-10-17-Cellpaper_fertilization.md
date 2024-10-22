@@ -10,9 +10,9 @@ This study was a real tour-de-force, employing AlphaFold-based structural predic
 A big thank you to everyone who contributed!
 
 To read more about our story, please check out several media channels that have covered our work:
-- [IMP News](https://www.imp.ac.at/news/article/beginning-of-life-molecular-lock-and-key-of-fertilisation-found )
 - [New York Times](https://www.nytimes.com/2024/10/17/science/sperm-egg-proteins-key.html?ogrp=ctr&unlocked_article_code=1.S04.9mTG.IdADO2wrruFk&smid=url-share)
 - [Science](https://www.science.org/content/article/ai-reveals-how-sperm-sticks-egg-during-fertilization)
 - [Nature](https://www.nature.com/articles/d41586-024-03319-z)
+- [IMP News](https://www.imp.ac.at/news/article/beginning-of-life-molecular-lock-and-key-of-fertilisation-found)
 - in German: [Der Standard](https://www.derstandard.at/story/3000000241059/raetsel-um-kontakt-zwischen-spermien-und-eizelle-geloest)
 - and here a nice [video](https://www.youtube.com/watch?v=apF0V7_N2a0) that Philipp Dexheimer produced together with our IMP communications team
