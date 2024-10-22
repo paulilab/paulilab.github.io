@@ -2,7 +2,7 @@
 authors: "**Lorenzo-Orts, L.#, Pauli, A.**"
 year: 2024
 title: "The molecular mechanisms underpinning maternal mRNA dormancy"
-journal: "***Biochem Soc Trans***"
+journal: "***Biochem Soc Trans.***"
 pages: "2024 Mar 13:BST20231122"
 doi: "10.1042/BST20231122"
 pubmed: 38477334
