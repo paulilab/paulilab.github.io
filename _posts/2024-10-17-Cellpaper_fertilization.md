@@ -5,7 +5,8 @@ picture: /assets/img/posts/20241017-fertilization-zebrafish.gif
 published: true
 ---
 The life of each one of us began when a sperm and an egg came together. But what actually happens at a molecular level?
-In our latest work published in Cell, jointly led by our fantastic postdoc **Victoria** and PhD student **Andreas**, we discovered a conserved fertilization complex that bridges sperm and egg in vertebrates. Most surprisingly, while the trimeric 'key' on sperm is conserved across vertebrates, it recognizes distinct 'locks' on the egg in mammals and fish, thus presenting an intriguing model of a conserved complex bridging sperm and egg through divergent egg factors in vertebrates.
+In our latest work published in Cell, jointly led by our fantastic postdoc **Victoria** and PhD student **Andreas**, we discovered a conserved fertilization complex that bridges sperm and egg in vertebrates. Most surprisingly, while the trimeric 'key' on sperm is conserved across vertebrates, it recognizes distinct 'locks' on the egg in mammals and fish. This presents an intriguing model of a conserved complex bridging sperm and egg through divergent egg factors in vertebrates.
+
 This study was a real tour-de-force, employing AlphaFold-based structural predictions, in vivo genetic experiments in zebrafish and mice, and biochemical and proteomic analyses. This was only made possible based on the wonderful collaborative environment in the Pauli lab and across our Vienna BioCenter campus, as well as key contributions from our international collaborators, particularly by Yonggang Lu and Masahito Ikawa in Japan (mouse experiments) and Jeffrey Lee's lab in Canada (in vitro protein biochemistry). 
 A big thank you to everyone who contributed!
 
