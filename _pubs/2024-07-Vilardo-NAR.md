@@ -2,7 +2,7 @@
 authors: "Rappol, T., Waldl, M., **Chugunova, A.**, Hofacker, IL., **Pauli, A.**, Vilardo, E."
 year: 2024
 title: "tRNA expression and modification landscapes, and their dynamics during zebrafish embryo development"
-journal: "***Nucleic Acids Research***"
+journal: "***Nucleic Acids Research.***"
 pages: "(bioRxiv: 10.1101/2024.01.30.575011)"
 doi: "10.1093/nar/gkae595"   
 pubmed: 
