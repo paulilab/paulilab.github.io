@@ -16,3 +16,5 @@ To read more about our story, please check out several media channels that have 
 - [IMP News](https://www.imp.ac.at/news/article/beginning-of-life-molecular-lock-and-key-of-fertilisation-found)
 - in German: [Der Standard](https://www.derstandard.at/story/3000000241059/raetsel-um-kontakt-zwischen-spermien-und-eizelle-geloest)
 - and here a nice [video](https://www.youtube.com/watch?v=apF0V7_N2a0) that Philipp Dexheimer produced together with our IMP communications team
+
+Credit for the time-lapse movie of zebrafish fertilization: Victoria Deneke, Pauli lab, IMP
