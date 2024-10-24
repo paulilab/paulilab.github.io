@@ -25,13 +25,6 @@ To address these questions, we are mainly using zebrafish embryos since they are
 [Publications &hellip;]({{ site.baseurl }}/pubs/)
 
 
-### Science sketch and videos
-
-<video width="100%" height="auto" controls>
-  <source src="/assets/vid/bouncer-sketch.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 </div>
 <div class="col-sm-4" markdown="1">
 
@@ -74,6 +67,25 @@ basic research institute that is part of the
 </div>
 
 <div class="col-sm-12" markdown="1">
+
+## Science sketch and videos
+
+<video width="30%" height="auto" controls>
+  <source src="/assets/vid/paulilab.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="30%" height="auto" controls>
+  <source src="/assets/vid/fertilization-complex.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="30%" height="auto" controls>
+  <source src="/assets/vid/bouncer-sketch.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 ## Funding
 
 <div class="sr-only">
