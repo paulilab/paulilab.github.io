@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New pre-print about open-source RT-LAMP assays
+title: New pre-print on open-source RT-LAMP
 picture: /assets/img/posts/20241119_RTLAMP.png
 published: true
 ---
