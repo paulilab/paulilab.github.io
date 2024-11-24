@@ -9,4 +9,4 @@ Four days filled with exciting science, discussions, fun, laughter and meeting n
 
 On top of that, Victoria and Maya were awarded with two of the three best talk awards, and best of all, we will be able to come back to CSHL in two years time for the second edition of the CSHL Cell & Membrane Fusion meeting due to the success of its first iteration! 
 
-PS: Special credits to **Andreas** for coming up with the AI-designed cover for the meeting poster and booklet!
+PS: Special credit to **Andreas** for coming up with the AI-designed cover for the meeting poster and booklet!
