@@ -9,4 +9,4 @@ And we succeeded! Not only in developing such an assay with simple home-made enz
 This work involved a large international collaboration led by our VBC-based students Martin Matl & Max Kellner and Felix Ansah from the WACCBIP in Accra, Ghana, coordinated by Andi, Julius Brennecke (in Vienna) and Gordon Awandare (in Ghana). 
 Thanks to all contributors and the countless volunteers who helped to make it happen during Covid-times, particularly TrEND (Tom Auer & Lucia Prieto-Godino) for establishing the connection to the WACCBIP and providing funding for the African venture. 
 
-Link to the article[https://www.medrxiv.org/content/10.1101/2024.11.19.24317525v1]. 
+Link to the [article](https://www.medrxiv.org/content/10.1101/2024.11.19.24317525v1). 
