@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pre-print alert: Investigating species-specificity behavior of Bouncer's receptor on sperm
+title: Pre-print alert - Investigating species-specific behavior of Bouncer's receptor on sperm
 picture: /assets/img/posts/2024-12-16_bioRxiv-Blaha.png
 published: true
 ---
