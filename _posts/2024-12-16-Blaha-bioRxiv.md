@@ -6,7 +6,7 @@ published: true
 ---
 And here the final paper-alert from the Pauli lab for 2024: 
 
-**Andreas** pre-print is out!
+**Andreas's** pre-print is out!
 
 Andreas investigated sperm-egg compatibility in fish with a specific focus on Bouncer's receptor on sperm, particular Izumo1 and Spaca6. 
 Given our prior knowledge on the species-specific behavior of Bouncer in medaka and zebrafish, our initial expectation was that either Izumo1 and/or Spaca6 would behave similarly. However, biology is often more complicated ;-)
