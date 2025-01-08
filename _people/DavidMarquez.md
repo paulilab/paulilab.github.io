@@ -6,5 +6,5 @@ email: first.last@imp.ac.at
 country: Spain
 member_from: Since January 2025
 member_till: now
-position: Bioinformatics bachelor Erasmus student
+position: Bioinformatics Erasmus student
 ---
