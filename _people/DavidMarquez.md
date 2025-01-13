@@ -8,4 +8,5 @@ member_from: January 2025
 member_till: now
 position: Bioinformatics Erasmus student
 ---
-David is currently studying a Bachelor’s degree in Bioinformatics in ESCI-UPF in Barcelona, now conducting his final degree project in Pauli’s Lab in the bioinformatics unit by trying to create a data visualisation tool for the lab. Outside the office, he enjoys all kinds of sports (tennis, football, running), reading all kinds of books and travelling.
+David is studying a bachelor's degree in bioinformatics at [ESCI-UPF](https://www.esci.upf.edu/en) in Barcelona. He is currently working on his final project in the Pauli lab in the bioinformatics unit and is aiming to develop a data visualization tool for the lab. Outside the office, he enjoys all kinds of sports (tennis, football, running), reading all kinds of books, and traveling.
+ 
