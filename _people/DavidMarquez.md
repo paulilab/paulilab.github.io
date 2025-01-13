@@ -1,7 +1,7 @@
 ---
 first_name: David
 last_name: Márquez Oller
-img:
+img: /assets/img/people/DavidMarquez_round.jpg
 email: first.middle@imp.ac.at
 country: Spain
 member_from: January 2025
