@@ -6,5 +6,5 @@ email: first.last@imp.ac.at
 country: United States
 member_from: January 2025
 member_till: now
-position: Research Assistent
+position: Research Assistant
 ---
