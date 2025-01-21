@@ -1,7 +1,7 @@
 ---
 first_name: Phylicia (Phyl)
 last_name: Kidd
-img:
+img: /assets/img/people/phyl_round.jpg
 email: first.last@imp.ac.at
 country: United States
 member_from: January 2025
