@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Andreas defends his PhD
-picture: /assets/img/posts/20250127_AndreasPhD.jpeg
+picture: /assets/img/posts/20250127_Andreas.jpg
 published: true
 ---
 Immensely proud of **Andreas** for defending his PhD with flying colors - big congratulations Dr. Blaha for a brilliant PhD defense on the 'Mechanistic Analysis of Sperm-Egg Interaction in Vertebrates'! 
