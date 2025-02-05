@@ -5,6 +5,6 @@ img: /assets/img/people/TheresaBeunings_round.jpg
 email: first.last@imp.ac.at
 country: Germany
 member_from: February 2025
-member_till: 
+member_till: now
 position: Master student
 ---
