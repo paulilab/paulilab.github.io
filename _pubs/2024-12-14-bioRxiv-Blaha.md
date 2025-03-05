@@ -2,7 +2,7 @@
 authors: "**Blaha, A.**, **Pauli, A.#**"
 year: 2024
 title: "Bouncer’s receptor on sperm: Investigating sperm-egg compatibility in fish"
-journal: "**bioRxiv**"
+journal: "***bioRxiv.***"
 pages: 
 doi: "10.1101/2024.12.13.628393"
 pubmed: 
