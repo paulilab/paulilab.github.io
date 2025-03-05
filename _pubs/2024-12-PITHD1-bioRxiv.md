@@ -2,7 +2,7 @@
 authors: "Amann, S.J., Dong, K., **Roehsner, J.**, Krall, D., Grishkovskaya, I., Kotisch, H., Schleiffer, A., Roitinger, E., **Pauli, A.**, Martin, A., Haselbach, D."
 year: 2024
 title: "PITHD1: An Endogenous Inhibitor of the 26S Proteasome During Cellular Dormancy"
-journal: "***bioRxiv.***"
+journal: "***bioRxiv***"
 pages: 
 doi: "10.1101/2024.12.04.626795"
 pubmed: 
