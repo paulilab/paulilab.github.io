@@ -2,7 +2,7 @@
 authors: "**Deneke, VE.#, Blaha, A.#**, Lu, Y., **Suwita, JP., Draper, JM., Phan, CS., Panser, K.**, Schleiffer, A., **Jacob, L., Humer, T.**, Stejskal, K., Krssakova, G., Roitinger, E., Handler, D., Kamoshita, M., Vance, TDR., Wang, X., Surm, JM., Moran, Y., Lee, JE., Ikawa, M., **Pauli, A.#**"
 year: 2024
 title: "A conserved fertilization complex bridges sperm and egg in vertebrates"
-journal: "**Cell.**"
+journal: "***Cell.***"
 pages: "Volume 187, Issue 25, Pages 7066-7078.e22 (bioRxiv: 10.1101/2023.07.27.550750)"
 doi: "10.1016/j.cell.2024.09.035"
 pubmed: 39423812
