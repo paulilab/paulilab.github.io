@@ -1,5 +1,5 @@
 ---
-authors: "**Blaha, A., Schleiffer, A., Pauli, A.**"
+authors: "**Blaha, A.**, Schleiffer, A., **Pauli, A.**"
 year: 2025
 title: "Conservation and divergence of the molecular regulators of the vertebrate fertilization synapse"
 journal: "***Curr Opin Genet Dev.***"
