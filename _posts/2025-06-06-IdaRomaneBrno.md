@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ida and Romane go on field trip to Brno
-picture: /assets/img/posts/Ida_Brno.jpeg
+picture: /assets/img/posts/20250626_Ida_Brno.jpeg
 published: true
 ---
 
