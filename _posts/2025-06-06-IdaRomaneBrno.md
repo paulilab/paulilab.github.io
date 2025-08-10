@@ -9,5 +9,5 @@ Ida and Romane went for a field trip to Brno and the lab of Prof. Martin Reichar
 
 Also, be sure to check out the website of the Reichard lab and a small documentary made with a Czech TV team on killifish in their natural habitats!
 
-[Reichard lab](https://www.reichardlab.eu/)
-[Documentary](https://www.ceskatelevize.cz/porady/11015147646-pribehy-zvedavych-prirodovedcu/215382559850002/)
+- [Reichard lab](https://www.reichardlab.eu/)
+- [Documentary](https://www.ceskatelevize.cz/porady/11015147646-pribehy-zvedavych-prirodovedcu/215382559850002/)
