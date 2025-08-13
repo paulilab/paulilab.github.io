@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pauli Lab at the zebrafish course in Woods Hole
+title: Pauli Lab members at the zebrafish course in Woods Hole
 picture: /assets/img/posts/20250806_WoodsHole.jpeg
 published: true
 ---
