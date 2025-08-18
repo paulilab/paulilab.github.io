@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lab retreat in Styria - first annual PAULIs awards!
+title: Lab retreat in Styria - first annual PAULIs!
 picture: /assets/img/posts/20250718_labretreat.jpeg
 published: true
 ---
