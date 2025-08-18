@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Andi and Victoria attend the "Fertility: Contribution of Maternal Inheritance" Meeting in Paris 
+title: Andi and Victoria attend the Fertility: Contribution of Maternal Inheritance Meeting in Paris 
 picture: /assets/img/posts/20250616_Pauli_Lab_in_Paris.jpeg
 published: true
 ---
