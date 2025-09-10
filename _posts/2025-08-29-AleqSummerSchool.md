@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aleq wins one of the best Summer School Symposium talks!
+title: Aleq wins one of the best Summer School Symposium talks
 picture: /assets/img/posts/20250829_Aleq_Symposium.jpeg
 published: true
 ---
