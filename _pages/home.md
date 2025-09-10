@@ -46,7 +46,7 @@ To address these questions, we are mainly using zebrafish embryos since they are
 <img class="img-fluid" alt="Pauli Lab members"
 src="{{ site.baseurl }}/assets/img/20250909_10yearPauliLab.jpeg">
 
-10-year Pauli Lab, September 2025
+10-years Pauli Lab, September 2025
 
 [Learn more &hellip;]({{ site.baseurl }}/people/)
 
