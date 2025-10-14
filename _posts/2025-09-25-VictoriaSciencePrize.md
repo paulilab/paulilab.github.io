@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Victoria receives Life Sciences Research Award Austria for Basic Research
-picture: /assets/img/posts/20250925_VictoriaSciencePrize.jpeg 
+picture: /assets/img/posts/20250925_VictoriaSciencePrize_v2.jpeg 
 published: true
 ---
 
