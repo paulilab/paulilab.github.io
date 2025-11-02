@@ -5,7 +5,7 @@ img: /assets/img/people/LucieReinecke_round.jpg
 email: first.last@imp.ac.at
 country: Germany
 member_from: April 2025
-member_till: now
+member_till: October 2025
 position: Master student
 ---
 Lucie completed her BSc in Biochemistry at the [Freie Universitaet Berlin](https://www.fu-berlin.de/), Germany, in 2024. 
