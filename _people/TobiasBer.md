@@ -1,5 +1,5 @@
 ---
-first_name: Tobias
+first_name: Tobiáš
 last_name: Ber
 img: /assets/img/people/TobiasBer_round.jpeg
 email: first.last@imp.ac.at
