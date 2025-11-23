@@ -1,3 +1,4 @@
+---
 layout: post
 title: Goodbye to Lucie!
 picture: /assets/img/posts/202501024_Goodbye_Lucie.jpeg
