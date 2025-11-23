@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Goodbye to Lucie!
-picture: /assets/img/posts/202501024_Goodbye_Lucie.jpeg
+picture: /assets/img/posts/202501024_Goodbye_Luciev2.jpeg
 published: true
 ---
 This week, we said goodbye to **Lucie** and enjoyed some cake... 
