@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome to Phyl and Vivien!
-picture: /assets/img/posts/20250102_Welcome_PhylVivien.jpeg
+picture: /assets/img/posts/20250102_Welcome_PhylVivien.png
 published: true
 ---
 In January, **Phyl** and **Vivien** joined the Pauli Lab to contribute as Research Assistants to ongoing projects.
