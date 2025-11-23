@@ -1,3 +1,4 @@
+---
 layout: post
 title: Lab dinner at Andi’s place
 picture: /assets/img/posts/20251007_Labdinner.jpeg
