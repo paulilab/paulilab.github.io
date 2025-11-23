@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ida and Josef at the EMBO Translation Meeting in Heidelberg
-picture: /assets/img/posts/20250903_Translationmeeting.jpeg
+picture: /assets/img/posts/20250903_Translation_meeting.jpg
 published: true
 ---
 This week, **Ida** and **Josef** took the train to Heidelberg to take part in the **EMBO Translation Meeting**, en exciting conference bringing together experts in RNA biology and protein synthesis.
