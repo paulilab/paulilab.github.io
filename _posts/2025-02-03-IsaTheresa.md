@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome back, Isa and Theresa!
-picture: /assets/img/posts/20250203_Welcomeback_IsaTheresa.jpeg
+picture: /assets/img/posts/20250203_Welcomeback_IsaTheresa.jpg
 published: true
 ---
 After joining us for an internship last year, **Isa** and **Theresa** have re-joined the Pauli lab for their Masters theses. 
