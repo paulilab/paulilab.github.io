@@ -1,3 +1,4 @@
+---
 layout: post
 title: Ida and Josef at the EMBO Translation Meeting in Heidelberg
 picture: /assets/img/posts/20250903_Translationmeeting.jpeg
