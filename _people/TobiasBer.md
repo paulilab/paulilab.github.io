@@ -1,7 +1,7 @@
 ---
 first_name: Tobiáš
 last_name: Ber
-img: /assets/img/people/TobiasBer_round.jpeg
+img: /assets/img/people/TobiasBer_round.jpg
 email: first.last@imp.ac.at
 country: Czech Republic
 member_from: November 2025
