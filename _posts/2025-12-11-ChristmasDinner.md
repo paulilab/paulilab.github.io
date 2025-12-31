@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Christmas Season in the Pauli Lab
-picture: /assets/img/posts/20251211_Lab_Christmas.png
+picture: /assets/img/posts/20251211_Lab_Christmas.jpg
 published: true
 ---
 The Christmas season has officially arrived in the Pauli Lab, with Andi’s lab advent calendar and our annual Christmas outing! 
