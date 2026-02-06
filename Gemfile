@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 gem "jekyll", "3.7.4"
-gem "html-proofer", "3.9.2"
+gem "html-proofer", "~> 3.19.4"
 gem "jekyll-sitemap", "1.2.0"
 gem "sass", "3.6.0"
+gem "minitest", "~> 5.18" 
+gem "nokogiri", "~> 1.15.5"

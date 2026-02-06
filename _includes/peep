@@ -1,15 +1,50 @@
-<div class="peep ">
+{%- assign is_former = include.former | default: false -%}
+{%- if is_former -%}
+  {%- assign thumb_class = 'peep-photo peep-photo-small' -%}
+  {%- assign peep_class = 'peep peep-former' -%}
+{%- else -%}
+  {%- assign thumb_class = 'peep-photo' -%}
+  {%- assign peep_class = 'peep peep-current' -%}
+{%- endif -%}
+
+<div class="{{ peep_class }}">
   <div class="peep-info">
     <h4>{{ peep.first_name }} {{ peep.last_name }}</h4>
     <h5>{{ peep.position }}</h5>
     {% if peep.member_from != 'NA' %}
-    <p>{{ peep.email }} / {{ peep.country }} / Since {{ peep.member_from }}</p>
+    <p>
+      {{ peep.email }} / {{ peep.country }}
+      {% if peep.member_from %}/ Since {{ peep.member_from }}{% endif %}
+      {% if is_former and peep.member_till and peep.member_till != 'now' %}/ Until {{ peep.member_till }}{% endif %}
+    </p>
     {% else %}
     <p>{{ peep.email }} / {{ peep.country }}</p>
     {% endif %}
+
+    {%- if peep.project -%}
+      <p><strong>Project:</strong> {{ peep.project }}</p>
+    {%- elsif peep.projects -%}
+      <p><strong>Projects:</strong> {{ peep.projects | join: ', ' }}</p>
+    {%- endif -%}
+
+    {%- if is_former and peep.current_position -%}
+      {%- assign cp = peep.current_position -%}
+      {%- assign is_url = false -%}
+      {%- if cp contains '://' or cp contains 'www.' -%}
+        {%- assign is_url = true -%}
+      {%- endif -%}
+      <p><strong>Current position:</strong>
+        {%- if is_url -%}
+          <a href="{{ cp }}" target="_blank" rel="noopener">{{ cp }}</a>
+        {%- else -%}
+          {{ cp }}
+        {%- endif -%}
+      </p>
+    {%- endif -%}
   </div>
+
   <div class="peep-stuff">
-    <div class="peep-photo">
+    <div class="{{ thumb_class }}">
     {% if peep.img %}
       <img class="img-fluid " src="{{ site.baseurl }}{{ peep.img }}" alt="{{ peep.first_name }} {{ peep.last_name }}">
     {% endif %}
@@ -17,3 +52,4 @@
 	{{ peep.excerpt }}
   </div>
 </div>
+
