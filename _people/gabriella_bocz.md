@@ -5,6 +5,6 @@ img:
 email: first.last@imp.ac.at
 country: Hungarian
 member_from: March 2026
-member_till: 
+member_till: now
 position: Intern
 ---
