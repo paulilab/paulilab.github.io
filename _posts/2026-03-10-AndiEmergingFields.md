@@ -4,7 +4,7 @@ title:  FWF emerging fields grant for project GEMINI
 picture: /assets/img/posts/20260309_Andi_EmergingFields.jpeg
 published: true
 ---
-We are excited to share that **Andi** is coordinating an FWF Emerging Fields grant that she has been awarded together with four other PIs, Julius Brennecke (IMBA), David Haselbach (IMP), Sven Klumpe (IMP/IMBA) and Anđela Šarić (ISTA). Harnessing recent advances in cryo-ET and molecular dynamics approaches, the team is planning to uncover the fascinating yet poorly understood biology of the germline. In their project GEMINI, they will specifically investigate how germ cells protect their genome against genetic parasites, how they package it, and how they pass it on across generations during fertilization. 
+We are excited to share that **Andi** is coordinating an FWF Emerging Fields grant with four other PIs, Julius Brennecke (IMBA), David Haselbach (IMP), Sven Klumpe (IMP/IMBA) and Anđela Šarić (ISTA). Harnessing recent advances in cryo-ET and molecular dynamics approaches, the team is planning to uncover the fascinating yet poorly understood biology of the germline. In their project GEMINI, they will specifically investigate how germ cells protect their genome against genetic parasites, how they package it, and how they pass it on across generations during fertilization. 
 
 Congratulations to the whole team for this great achievement!
 
