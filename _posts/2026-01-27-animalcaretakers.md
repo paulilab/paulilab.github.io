@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Animal caretaker appreciation week
-picture: /assets/img/posts/20260127_Animal_caretaker.jpeg
+picture: /assets/img/posts/20260127_Animal_Caretaker.jpeg
 published: true
 ---
 This week we celebrated Animal Caretaker Appreciation Week. None of the science we do would be possible without the constant support and work of our animal caretakers. A big thank you to **Orsi**, **Fritz**, and **Christoph**, who take excellent care of all of our fish - from zebrafish, medaka, to killifish!
