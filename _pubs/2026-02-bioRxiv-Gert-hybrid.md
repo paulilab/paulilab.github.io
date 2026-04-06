@@ -1,5 +1,5 @@
 ---
-authors: "**Gert-Briedis, KR.**, Schulze, G., Novatchkova, M., **Panser, K., Cabrera Quio, LE., Koller, A.**, Guo, Y., Cairns, BR., Valen, E., **Pauli, A.#**"
+authors: "**Briedis-Gert, KR.**, Schulze, G., Novatchkova, M., **Panser, K., Cabrera Quio, LE., Koller, A.**, Guo, Y., Cairns, BR., Valen, E., **Pauli, A.#**"
 year: 2026
 title: "Reciprocal zebrafish-medaka hybrids reveal maternal control of zygotic genome activation timing"
 journal: "***bioRxiv***"
