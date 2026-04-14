@@ -1,3 +1,4 @@
+---
 layout: post
 title: Ambassador of El Salvador in Austria visits Pauli lab and IMP
 picture: /assets/img/posts/20260408_ElSalvadorEmbassador.JPG
