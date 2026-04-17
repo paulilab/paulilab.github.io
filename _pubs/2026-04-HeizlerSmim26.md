@@ -1,5 +1,5 @@
 ---
-authors: "Heizler, K., **Chugunova, A.**, Hofmann, M., Prochazkova, M., Procházka, J., Ho-Xuan, H., **Fallmann, J.**, Stejskal, K., Krssakova, G., Bader, S., Kocak, E., Yasar, D., Luckner, P., Lehmann, G., Köngeter, J., Riester, M., Roitinger, E., Wetzel, C., Diederichs, S., Sedlacek, R., Bruckmann, A., Gebhardt, J.C.M., **Pauli, A.**, Meister, G."
+authors: "Heizler, K., **Chugunova, A.**, Hofmann, M., Prochazkova, M., Procházka, J., Ho-Xuan, H., **Fallmann, J.**, Stejskal, K., Krssakova, G., Bader, S., Kocak, E., Yasar, D., Luckner, P., Lehmann, G., Köngeter, J., Riester, M., Roitinger, E., Wetzel, C., Diederichs, S., Sedlacek, R., Bruckmann, A., Gebhardt, JCM., **Pauli, A.**, Meister, G."
 year: 2026
 title: "The microprotein SMIM26 connects metabolite transporters of the outer and inner mitochondrial membranes and is essential for respiratory chain function."
 journal: "***Genes Dev.***"
