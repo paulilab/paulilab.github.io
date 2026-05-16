@@ -1,7 +1,7 @@
 ---
 authors: "**Deneke, VE.#, Suwita, JP.#**, Wang, H., Tonai, S., Lu, Y., **Panser, K.**, Schleiffer, A., Hollis, JA., Novatchkova, M., Dürnberger, G., Stejskal, K., Krssakova, G., **Blaha, A., Andresan, AAR., Mirus, M.**, Marvanova, H., Chang, HY., Noda, T., Burga, A., Roitinger, E., Ikawa, M.#, **Pauli, A.#**"
 year: 2026
-title: "The SPARK complex forms the molecular basis of vertebrate fertilization."
+title: "The SPARK complex forms the molecular basis of vertebrate fertilization"
 journal: "***bioRxiv***"
 pages: 
 doi: "10.64898/2026.05.13.724128"
