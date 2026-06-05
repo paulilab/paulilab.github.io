@@ -6,5 +6,5 @@ email: first.firstlast@imp.ac.at
 country: Peru
 member_from: June 2026
 member_till: now
-position: VBC Talents-for-Future Summer Student
+position: VBC Summer Student
 ---
