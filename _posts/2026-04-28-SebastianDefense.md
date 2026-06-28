@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Congrats to Sebastian for defending his Masters thesis
-picture: /assets/img/posts/20260428_Sebastian_defense.tif
+picture: /assets/img/posts/20260428_Sebastian_defense.tiff
 published: true
 ---
 
