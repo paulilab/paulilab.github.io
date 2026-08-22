@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 20th anniversary of the RNA Microsymposium
-picture: /assets/img/posts/20260617_Microsymposium.png
+picture: /assets/img/posts/20260617_Microsymposium.jpg
 published: true
 ---
 
