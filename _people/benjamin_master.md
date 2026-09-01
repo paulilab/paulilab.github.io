@@ -4,7 +4,7 @@ last_name: Steinmetz
 img: /assets/img/people/benni_round.jpg
 email: first.last@imp.ac.at
 country: Austria
-member_from: January 2019
+member_from: January
 member_till: December 2019
 position: intern (2018) & Master Student (2019)
 ---
