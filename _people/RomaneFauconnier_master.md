@@ -4,7 +4,7 @@ last_name: Fauconnier
 img: /assets/img/people/RomaneFauconnier_round.jpg
 email: first.last@imp.ac.at
 country: France
-member_from: April 2025
+member_from: April
 member_till: August 2025
 position: Master student
 ---
