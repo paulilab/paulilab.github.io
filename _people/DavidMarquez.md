@@ -4,7 +4,7 @@ last_name: Márquez Oller
 img: /assets/img/people/DavidMarquez_round.jpg
 email: first.middle@imp.ac.at
 country: Spain
-member_from: January 2025
+member_from: January
 member_till: June 2025
 position: Bioinformatics Erasmus student
 ---
