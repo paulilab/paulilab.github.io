@@ -4,7 +4,7 @@ last_name: Schütz
 img: /assets/img/people/Isa_round.jpg
 email: first.last@imp.ac.at
 country: Germany
-member_from: February 2025
+member_from: February
 member_till: November 2025
 position: Master student
 ---
