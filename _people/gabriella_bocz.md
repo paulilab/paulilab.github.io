@@ -4,7 +4,7 @@ last_name: Boecz
 img: 
 email: first.last@imp.ac.at
 country: Hungarian
-member_from: March 2026
+member_from: March
 member_till: June 2026
 position: Intern
 ---
