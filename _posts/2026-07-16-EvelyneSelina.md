@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome to Evelyn and Selina
-picture: /assets/img/posts/20260716_WelcomeEvelynSelina.png
+picture: /assets/img/posts/20260716_WelcomeEvelynSelina.jpg
 published: true
 ---
 **Evelyn** and **Selina** are Molecular Precision Medicine and Molecular Biology Masters students at the Medical University of Vienna and the University of Vienna. 
