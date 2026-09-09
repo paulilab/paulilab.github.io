@@ -1,3 +1,4 @@
+---
 layout: post
 title:  Goodbye to Mia and Annaelle
 picture: /assets/img/posts/20260826_LabDinner.jpg
