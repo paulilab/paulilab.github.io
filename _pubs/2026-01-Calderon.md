@@ -1,7 +1,7 @@
 ---
 authors: "Calderón, L., Schäfer, M., Rončević, M., Rauschmeier, R., Jaritz, M., Schwickert, T.A., Sun, Q., **Pauli, A.**, Zuber, J., Busslinger, M."
 year: 2026
-title: "In vivo CRISPR/Cas9 screens identify new regulators of B cell activation and plasma cell differentiation."
+title: "In vivo CRISPR/Cas9 screens identify new regulators of B cell activation and plasma cell differentiation"
 journal: "***J Exp Med.***"
 pages: "223, e20250594"
 doi: "10.1084/jem.20250594"
